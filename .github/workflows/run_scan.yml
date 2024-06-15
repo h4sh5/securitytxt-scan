@@ -24,7 +24,7 @@ jobs:
        echo nameserver 1.0.0.1 | sudo tee -a /etc/resolv.conf
 
     - name: run scan
-      run: timeout 5h ./sectxtscanner top-au-domains.txt || echo exited with $?
+      run: timeout 10m ./sectxtscanner top-au-domains.txt || echo exited with $?
 
     - name: Push results
       run: |
