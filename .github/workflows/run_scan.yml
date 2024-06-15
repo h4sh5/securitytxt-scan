@@ -18,6 +18,11 @@ jobs:
     - name: build
       run: go build sectxtscanner.go
 
+    - name: override dns server
+      run: |
+       echo nameserver 1.1.1.1 > /etc/resolv.conf
+       echo nameserver 1.0.0.1 >> /etc/resolv.conf
+
     - name: run scan
       run: ./sectxtscanner top-au-domains.txt
 
