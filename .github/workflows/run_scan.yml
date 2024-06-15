@@ -20,8 +20,8 @@ jobs:
 
     - name: override dns server
       run: |
-       echo nameserver 1.1.1.1 > /etc/resolv.conf
-       echo nameserver 1.0.0.1 >> /etc/resolv.conf
+       echo nameserver 1.1.1.1 | sudo tee /etc/resolv.conf
+       echo nameserver 1.0.0.1 | sudo tee -a /etc/resolv.conf
 
     - name: run scan
       run: ./sectxtscanner top-au-domains.txt
