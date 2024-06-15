@@ -1,0 +1,16 @@
+# University of Melbourne Cybersecurity contact address
+Contact: mailto:it-security@unimelb.edu.au
+
+# University of Melbourne Information Security Policy
+Policy: https://policy.unimelb.edu.au/MPF1270
+
+# Responsible Disclosure of Cybersecurity Issues
+Policy: https://www.unimelb.edu.au/cybersecurity/report/vdp
+
+# PGP Public Key for Encryption
+Encryption: https://unimelb.edu.au/cybersecurity/pgp-key.txt
+
+Canonical: https://unimelb.edu.au/.well-known/security.txt
+Canonical: https://www.unimelb.edu.au/.well-known/security.txt 
+
+Expires: 2025-04-25T14:00:00.000Z

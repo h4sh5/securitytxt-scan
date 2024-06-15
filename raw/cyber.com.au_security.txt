@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Expires: 2025-01-01T00:00:00Z
+Contact: mailto:security@cyber.com.au
+Contact: tel:+61370194225
+
+Canonical: https://cyber.com.au/.well-known/security.txt
+Preferred-Languages: en
+
+Encryption: https://github.com/trentbuck.keys
+Encryption: https://github.com/mijofa.keys
+Encryption: https://github.com/emja.keys
+Encryption: openpgp4fpr:9AD8308314A78684B7E7E0F42FE0318A212B440C
+Encryption: openpgp4fpr:AAB6773790CB1B0D6B8F1D340AAD25DD07575387
+Encryption: openpgp4fpr:F2387EE374818D5C3ED8E283C06F971C3B334D19
+Encryption: openpgp4fpr:E631DFD70A6315B2E7831CE73F30EFBB56D45DEB
+
+# FIXME: Mike has two GPG keys in cpass... should BOTH be here?
+
+# NOTE: We have per-human keypairs, not a single company-wide encryption keypair.
+#
+# NOTE: To encrypt a message to us using SSH keys:
+#
+#           https://github.com/FiloSottile/age#ssh-keys
+#           curl -sSfL URL1 URL2 URL3 >recipients.txt
+#           age --encrypt --armor --recipients-file recipients.txt secret-message.txt
+#
+#       To encrypt a message to us using GPG keys:
+#
+#           gpg --recv-key X             # for each fingerprint
+#           echo X >>fingerprints.txt    # for each fingerprint
+#           gpg --encrypt --armor --recipient-file fingerprints.txt secret-message.txt
+
+# NOTE: The RFC's ABNF limits inline signing to "gpg --clear-sign" (not minisign nor signify).
+#
+#       https://datatracker.ietf.org/doc/html/rfc9116
+#       https://github.com/aperezdc/signify
+#       https://github.com/jedisct1/minisign
+#       https://github.com/FiloSottile/age/discussions/230
+
+# Local variables:
+# mode: conf
+# End:
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQSa2DCDFKeGhLfn4PQv4DGKIStEDAUCZW8ZogAKCRAv4DGKIStE
+DEMpAQCnNUie/Sdxmq9vl4IZFADQ465KuX7xLugdgTf94bwJZAD+OHCxRp31CycP
+dI1b1R+g7ivLFVUAZqVkxo2l/wNnwAU=
+=CXKi
+-----END PGP SIGNATURE-----

@@ -1,0 +1,21 @@
+Contact: mailto:security@scotch.sa.edu.au
+Expires: 2026-06-06T22:30:00.000Z
+Preferred-Languages: en
+Canonical: https://www.scotch.sa.edu.au/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAABCgA4FiEEZL7LdiA415NfMTjdfXilBvvnPBoFAmSCaqcaHHNlY3VyaXR5
+QHNjb3RjaC5zYS5lZHUuYXUACgkQfXilBvvnPBpfLA/+JLqKW0UhyM/knY44edL8
+6KPsBYczxxlMmDyQ4qBqZdRgAyPaeBbGxidbVVgueaBflyWnz6ofEMtlPS58tj6Z
+zSd62UeiWqV4lkMuGy6ADfTHJrgKnUJlXCMdXlqZi61u8CW+K+CqYmoxBnByb+pl
+x6kK+6KHTQJup27/tgfxQZfZD3nUGocD34UothqYugGtovtbMIpxwSyPwnnsr1fg
+M2nyIHQdBq3VOs82okOsf0obt9Dsdnq8snePhuNSUlIpy4wqlC1JLk1//7X/Q+yP
+xcuQ0jqju6V1JpMzknRl2hrbgo2e976LSMjI1jq7Nx6X4k9tvDjdlm80wNEj3Pwq
+2g+sSjeFqbe5ZDMSyg3JrdI+hcxecO/CY7JyBSLSOGLX+kmgwKGC/wakARWFeWSp
+niSTSozPDLy41V2UkNGZJA92AWa6wn9DSY1xGCXf1GJfhCksPx2DYVX7ZpP511/e
+YSFYiZ9PvowhrPs3j9i6TZPf/kLJHqbjokHeCojAgLWr3LuBTyF/hy0gw4mWCKNq
+BiVOGOrlS0yhve4oB5i3KpEG9V2DzOgwLyEKVgJBQka78g6ZTEijFn4KnDRgZUGd
+jDqvmwVwbDejRewzcyoKZqDjjVoPYkTJVjGMznq2k1+Ha9t39aOdgGE2DFRDpOnj
+BAPH8xAAnL+jOmXz9/ENfK8=
+=F3zD
+-----END PGP SIGNATURE-----

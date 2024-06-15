@@ -1,0 +1,2 @@
+Contact: security@up.com.au
+Encryption: https://up.com.au/pgp-key.txt

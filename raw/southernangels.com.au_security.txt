@@ -1,0 +1,4 @@
+Contact: https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c
+Expires: 2030-01-01T07:00:00.000Z
+Preferred-Languages: en
+Policy: https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c

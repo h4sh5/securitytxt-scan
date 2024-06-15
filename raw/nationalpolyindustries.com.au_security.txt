@@ -1,0 +1,1732 @@
+<br />
+<b>Deprecated</b>:  Constant FILTER_SANITIZE_STRING is deprecated in <b>/www/nationalpolyindustriescomau_145/public/wp-content/plugins/wordpress-seo/src/conditionals/third-party/elementor-edit-conditional.php</b> on line <b>22</b><br />
+<br />
+<b>Deprecated</b>:  Constant FILTER_SANITIZE_STRING is deprecated in <b>/www/nationalpolyindustriescomau_145/public/wp-content/plugins/wordpress-seo/src/conditionals/third-party/elementor-edit-conditional.php</b> on line <b>28</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Cookie/Jar.php</b> on line <b>63</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Cookie/Jar.php</b> on line <b>73</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Cookie/Jar.php</b> on line <b>89</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Cookie/Jar.php</b> on line <b>102</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Cookie/Jar.php</b> on line <b>111</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php</b> on line <b>40</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php</b> on line <b>51</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php</b> on line <b>68</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php</b> on line <b>82</b><br />
+<br />
+<b>Deprecated</b>:  Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in <b>/www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php</b> on line <b>91</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php:15) in <b>/www/nationalpolyindustriescomau_145/public/wp-content/themes/3rdmill_nationalpoly_industries/header.php</b> on line <b>2</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php:15) in <b>/www/nationalpolyindustriescomau_145/public/wp-content/themes/3rdmill_nationalpoly_industries/header.php</b> on line <b>3</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php:15) in <b>/www/nationalpolyindustriescomau_145/public/wp-content/themes/3rdmill_nationalpoly_industries/header.php</b> on line <b>4</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/nationalpolyindustriescomau_145/public/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php:15) in <b>/www/nationalpolyindustriescomau_145/public/wp-content/themes/3rdmill_nationalpoly_industries/header.php</b> on line <b>5</b><br />
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="facebook-domain-verification" content="cd0pbrtdeybqj7j3e7dhj4ybywemdu" />
+
+<title>Page not found | National Poly Industries</title>
+
+<script>
+  FontAwesomeConfig = { searchPseudoElements: true };
+</script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+<!--	
+<script defer src="/static/fontawesome/fontawesome-all.js"></script>	
+-->	
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9F6VLG');</script>
+<!-- End Google Tag Manager -->
+	
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-107670868-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+<link rel="shortcut icon" type="image/png" href="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/favicon.png?v=1" />
+	
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
+<!---	
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+--->
+<link rel="stylesheet" href="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/css/watertanks.css">
+<link rel="stylesheet" href="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/css/popup-div.css">
+<link rel="stylesheet" href="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/css/nationalpoly.css">
+<link rel="stylesheet" href="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/style.css">
+
+
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  
+<script
+  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+  integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+  crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!--
+<script defer src="/static/fontawesome/fa-v4-shims.js"></script>
+-->
+<meta name="robots" content="index,follow"/>
+	
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found | National Poly Industries" />
+	<meta property="og:site_name" content="National Poly Industries" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://nationalpolyindustries.com.au/#website","url":"https://nationalpolyindustries.com.au/","name":"National Poly Industries","description":"Better Design. Better Build. Better Value.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://nationalpolyindustries.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nationalpolyindustries.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.8"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://nationalpolyindustries.com.au/wp-includes/css/dist/block-library/style.min.css?ver=6.0.8' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='our-theme-frontend-style-css'  href='https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/css/watertanks.css?ver=6.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css'  href='https://use.fontawesome.com/releases/v6.2.1/css/all.css' type='text/css' media='all' integrity="sha384-twcuYPV86B3vvpwNhWJuaLdUSLF9+ttgM2A6M870UYXrOsxKfER2MKox5cirApyA" crossorigin="anonymous" />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css'  href='https://use.fontawesome.com/releases/v6.2.1/css/v4-shims.css' type='text/css' media='all' integrity="sha384-RreHPODFsMyzCpG+dKnwxOSjmjkuPWWdYP8sLpBRoSd8qPNJwaxKGUdxhQOKwUc7" crossorigin="anonymous" />
+<script type='text/javascript' src='https://nationalpolyindustries.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://nationalpolyindustries.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://nationalpolyindustries.com.au/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nationalpolyindustries.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nationalpolyindustries.com.au/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.8" />
+<!-- Meta Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '540610237558148');
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+src="https://www.facebook.com/tr?id=540610237558148&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- End Meta Pixel Code -->
+
+
+
+<meta name="p:domain_verify" content="931401fbf4095428a2f9d13dfac501f4"/>
+
+<link rel="icon" href="https://nationalpolyindustries.com.au/wp-content/uploads/2018/05/cropped-National-Poly-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://nationalpolyindustries.com.au/wp-content/uploads/2018/05/cropped-National-Poly-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://nationalpolyindustries.com.au/wp-content/uploads/2018/05/cropped-National-Poly-180x180.png" />
+<meta name="msapplication-TileImage" content="https://nationalpolyindustries.com.au/wp-content/uploads/2018/05/cropped-National-Poly-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.flex-c { 
+	display: flex; 
+	gap: 2rem;
+}
+
+.flex-50 { flex: 1 1 50%; }
+.flex-200px { flex: 1 0 200px; }
+.flex-auto 	{ flex: 1 1 auto; }
+
+.grid-c-2,
+.grid-c-4
+{
+	display: grid;
+	grid-column-gap: 2rem;
+	grid-row-gap: 1rem;
+}
+
+.grid-c-2
+{
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-c-4
+{
+    grid-template-columns: repeat(4, 1fr);
+}
+
+
+.grid-c.grid-gap-0,
+.grid-c-2.grid-gap-0,
+.grid-c-4.grid-gap-0
+{
+	grid-column-gap: 0;
+	grid-row-gap: 0;
+}
+
+@media (max-width: 992px)
+{
+	.grid-c-4.grid-med-c-2
+	{
+	    grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (max-width: 768px)
+{
+	.grid-sml-1-c.grid-c-2
+	{
+	    grid-template-columns: 1fr;
+	}
+	.grid-sml-c-2.grid-c-4
+	{
+	    grid-template-columns: repeat(2, 1fr);
+	}
+	
+}
+
+@media (max-width: 576px)
+{
+	.grid-xsml-c-1.grid-c-2,
+	.grid-xsml-c-1.grid-c-4
+	{
+	    grid-template-columns: 1fr;
+	}
+	
+}
+
+.flex-c img,
+.grid-c-4 img 
+{
+	max-width: 100%;
+}
+
+ul.left-pad-0 
+{
+	padding-left: 0;
+}
+
+ul.left-pad-2 
+{
+	padding-left: 2rem;
+}
+
+.v-pad-top-2 
+{
+	padding-top: 2rem;
+}
+
+.inline-block 
+{
+	display: inline-block;
+}
+
+@media (max-width: 768px)
+{
+	section#page-post-content.our-section-page article .promo.flex-c img:not(.testimonials)
+	{
+		width: auto;
+		min-width:0;
+	}
+}
+
+.promo:not(:last-child) 
+{
+	border-bottom: 1px solid #aaa;
+	padding-bottom: 2rem;
+	margin-bottom: 2rem;
+}
+		</style>
+		<!--- we need to override what's specified in the wp_head() above that sets the top margin to some number --->
+<style type="text/css" media="screen">
+	html {margin-top: 0 !important;}
+	* html body { margin-top: 0 !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 0 !important; }
+		* html body { margin-top: 0 !important; }
+	}
+</style>	
+
+	
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2282256598686805'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=2282256598686805&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+	
+	
+
+	
+</head>
+
+<body>
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9F6VLG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+<div class='spinner' style='display:block; z-index: 999'>
+	<div style='padding-bottom: 15px'>Loading. Please wait...</div>
+	<i class="fa fa-spinner fa-spin fa-5x"></i>
+</div>
+
+<header id="ttr_header" class="">
+
+	<!-- Top Icon Bar -->
+	<div class="top-icon-bar container-fluid">
+		<div style="display:inline-block; margin-top:3px">
+			<a href="https://www.facebook.com/nationalpolyindustries/" target="_blank" title="Facebook page" style="margin-left:20px"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/socialmedia/facebook2.png" style="height:30px" alt="facebook icon"/></a>
+			<a href="https://www.instagram.com/national_poly_industries/" target="_blank" title="Instagram"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/socialmedia/instagram2.png" style="height:32px" alt="instagram icon"/></a>
+		</div>
+		
+		<ul class="top-icon-links" style="float:right">
+			<li><a><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/npi-group.jpg" alt="npi-group"></a></li>
+			<li><a href="http://www.australianwatersystems.com.au/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/Australian-Water-Systems.png" alt="australian-water-systems"></a></li>
+			<li><a href="http://www.nationalpolyindustries.com.au/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/National-Poly.png" alt="national-poly-industries"></a></li>
+			<li><a href="http://www.tanksdirect.com.au/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/Tanks-Direct.png" alt="tanks-direct"></a></li>
+			<li><a href="http://www.clarktanks.com.au/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/Clark-Tanks.png" alt="clark-tanks"></a></li>
+			<li><a href="http://www.teampoly.com.au/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/Team-Poly.png" alt="team-poly"></a></li>
+			<li><a href="http://www.clarkindustrial.com.au/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/Clark-Industrial.png" alt="clark-industrial"></a></li>
+			<li><a href="http://www.polycraft.com.au/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-top-links/Polycraft.png" alt="polycraft"></a></li>
+		</ul>
+	</div>		
+
+	<div class="top-logo-bar">
+		<div class="container-fluid">
+			<!-- Top Logo Bar -->
+
+			<div class="logo-and-group col-lg-5 col-md-4 col-sm-12 col-xs-12">
+								<div class='the-logo'>
+					<a href="/">
+					<script>
+						var theImageLogo = 'Logo.png';
+						if( window.innerWidth < 768 ) { theImageLogo = 'nationalpoly-industries-logo-mobile.png'; }
+						document.write( "<img src='https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/"+theImageLogo+"' alt='nationalpolyindustries-logo'>" );
+					</script>
+					<!---
+						<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/Logo.png" alt="nationapolyindustries-logo">
+					--->
+					</a>
+				</div>
+				<div class='the-mobile-menu'>
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-top-menu-bar">
+							<span>Menu</span> <i class="fas fa-chevron-down"></i>
+						</button>
+<!---						
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-top-menu-bar">
+							<span class="sr-only">Toggle navigation</span>
+							<div style='display:inline-block'>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</div>
+						</button>
+--->
+					</div>		
+				</div>
+<!---				
+				<div><a href="https://www.clarktanks.com.au/"><img src="<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>/www/nationalpolyindustriescomau_145/public/wp-content/themes/3rdmill_nationalpoly_industries/header.php</b> on line <b>362</b><br />
+" alt="clark-tanks-logo"></a></div>
+				<div><a href="https://www.groupnpi.com/"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/part-of-the-npi-group-header.jpg" alt="npi group" style="max-width:142px;"></a></div>
+--->				
+			</div>
+
+			<div class="better-design col-lg-5 col-md-5 col-sm-12 col-xs-12">
+				<div>
+					Better <span class="better-design-color">Design</span>.
+					Better <span class="better-design-color">Build</span>.
+					Better <span class="better-design-color">Value</span>.
+				</div>
+			</div>
+
+			<div class="phone col-lg-2 col-md-3 col-sm-12 col-xs-12">
+				<div>
+					<span class="better-design-color"><i class="fas fa-phone fa-flip-horizontal" aria-hidden="true"></i><a href='tel:1800 758 709'>1800 758 709</a></span>
+				</div>		
+			</div>
+		</div>
+	</div>
+	<!---
+	<nav class="top-menu-bar navigation navbar navbar-inverse navbar-static-top" data-action="navigation" role="navigation">
+	--->
+	<nav class="top-menu-bar navigation navbar navbar-inverse navbar-static-top navbar-expand-lg" role="navigation">
+	
+		<div class="container-fluid">
+		
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<!--- moved up 
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-top-menu-bar">
+						<span class="sr-only">Toggle navigation</span>
+						<div style='display:inline-block'>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</div>
+					</button>
+				</div>		
+				--->
+				<!-- Top Menu Bar -->
+				<div id='navbar-top-menu-bar' class="collapse navbar-collapse navbar-main-collapse">
+									
+					<ul class="nav navbar-nav top-menu">
+
+						<li id='main_nav_home' class='menu-item ' role='presentation'><a href='http://nationalpolyindustries.com.au' class='' id='' tabindex='-1' role='menuitem'><span><i class='fas fa-home'></i> HOME</span></a></li><li class='menu-seperator'>|</li><li id='main_nav_our_tanks' class='menu-item custom-menu-parent' role='presentation'><a  class='custom-menu' id='' tabindex='-1' role='menuitem'><span>OUR TANKS</span></a><div id='custom-menu-our-tanks' class='custom-menu-dropdown' >
+
+	<div class='col-lg-8 col-md-8 col-sm-8 col-xs-12 menu-buttons'>
+		<h2>RAINWATER TANKS</h2>
+		<div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 left-buttons'>
+			<ul>
+				<li onclick="window.location.href='/index.php/round-tanks-small'">
+					<div class='custom-menu-image img-round-tank'></div>
+					<a href='/index.php/round-tanks-small'>ROUND TANKS UNDER 10KL</a>
+				</li>
+				<li onclick="window.location.href='/index.php/round-tanks-large'">
+					<div class='custom-menu-image img-round-tank'></div>
+					<a href='/index.php/round-tanks-large'>ROUND TANKS OVER 10KL</a>
+				</li>
+				<li onclick="window.location.href='/index.php/industrial-products/'">
+					<div class='custom-menu-image img-industrial-tank'></div>				
+					<a href='/index.php/industrial-products/'>INDUSTRIAL PRODUCTS</a>
+				</li>
+			</ul>
+		</div>
+		<div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 right-buttons'>
+			<ul>
+				<!--
+				<li onclick="window.location.href='/index.php/underground-tanks/'">
+					<div class='custom-menu-image img-underground-tank'></div>
+					<a href='/index.php/underground-tanks/'>UNDERGROUND TANKS</a>
+				</li>
+				-->
+				<li onclick="window.location.href='/index.php/slimline-tanks/'">
+					<div class='custom-menu-image img-slimline-tank'></div>
+					<a href='/index.php/slimline-tanks/'>SLIMLINE TANKS</a>
+				</li>
+				<li onclick="window.location.href='/index.php/thin-tanks/'">
+					<div class='custom-menu-image img-slimline-tank'></div>
+					<a href='/index.php/thin-tanks/'>THIN TANKS</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class='col-lg-4 col-md-4 col-sm-6 col-xs-12 menu-right-links'>
+		<h2>TANK ACCESSORIES</h2>
+		<hr>
+		<ul>
+			<li><a href='/index.php/totalflo-pump-range/'>Water Tank Pumps</a></li>
+			<li><a href='/index.php/tank-fittings/'>Tank fittings</a></li>
+			<li><a href='/index.php/water-diverters/'>Water diverters</a></li>
+			<li><a href='/index.php/leaf-strainers/'>Leaf Strainers</a></li>
+			<!---<li><a href='/index.php/tankvac-self-cleaning-system/'>TankVac&reg; Cleaning System</a></li>--->
+			<li><a href='/index.php/automatic-rainwater-to-mains-water-switches/'>Automatic Mains Switches</a></li>
+		</ul>
+		
+		<!---
+		<h2>PACKAGES</h2>
+		<hr>
+		<ul>
+			<li><a href='/index.php/rainwater-tank-packages/'>Rainwater Tanks Packages</a></li>
+			<li><a href='/index.php/rainwater-harvesting-packages/'>Rainwater Harvesting Packages</a></li>
+		</ul>
+		--->
+		
+	</div>
+
+</div></li><li class='menu-seperator'>|</li><li id='main_nav_other_products' class='menu-item custom-menu-parent' role='presentation'><a  class='custom-menu' id='' tabindex='-1' role='menuitem'><span>OTHER PRODUCTS</span></a><div id='custom-menu-other-products' class='custom-menu-dropdown'>
+
+	<div class='col-lg-8 col-md-8 col-sm-8 col-xs-12 menu-buttons'>
+		<h2>FARMING PRODUCTS</h2>
+		<div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 left-buttons'>
+			<ul>
+				<li onclick="window.location.href='/index.php/cartage-tanks/'"><a href='/index.php/cartage-tanks/'>CARTAGE TANKS</a></li>
+				<li onclick="window.location.href='/index.php/molasses-tanks/'"><a href='/index.php/molasses-tanks/'>MOLASSES STORAGE TANKS</a></li>
+			</ul>
+		</div>
+		<div class='col-lg-6 col-md-6 col-sm-12 col-xs-12 right-buttons'>
+			<ul>
+				<li onclick="window.location.href='/index.php/troughs/'"><a href='/index.php/troughs/'>FEED &amp; WATER TROUGHS</a></li>
+				<li onclick="window.location.href='/index.php/rotational-moulding/'"><a href='/index.php/rotational-moulding/'>CUSTOM PRODUCT DESIGN</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='col-lg-4 col-md-4 col-sm-6 col-xs-12 menu-right-links'>
+		<h2>TANK ACCESSORIES</h2>
+		<hr>
+		<ul>
+			<li><a href='/index.php/totalflo-pump-range/'>Water Tank Pumps</a></li>
+			<li><a href='/index.php/tank-fittings/'>Tank fittings</a></li>
+			<li><a href='/index.php/water-diverters/'>Water diverters</a></li>
+			<li><a href='/index.php/leaf-strainers/'>Leaf Strainers</a></li>
+			<!---<li><a href='/index.php/tankvac-self-cleaning-system/'>TankVac&reg; Cleaning System</a></li>--->
+			<li><a href='/index.php/automatic-rainwater-to-mains-water-switches/'>Automatic Mains Switches</a></li>
+		</ul>
+		
+		<!---
+		<h2>PACKAGES</h2>
+		<hr>
+		<ul>
+			<li><a href='/index.php/rainwater-tank-packages/'>Rainwater Tanks Packages</a></li>
+			<li><a href='/index.php/rainwater-harvesting-packages/'>Rainwater Harvesting Packages</a></li>
+		</ul>
+		--->
+		
+	</div>
+
+</div></li><li class='menu-seperator'>|</li><li id='main_nav_why_choose_us' class='menu-item ' role='presentation'><a  class='' id='' tabindex='-1' role='menuitem'><span>WHY CHOOSE US</span> </a><ul class='sub-menu'><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/why-choose-us/about-us/' class='' id='' tabindex='-1' role='menuitem'><span>ABOUT US</span></a></li><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/national-poly-benefits/' class='' id='' tabindex='-1' role='menuitem'><span>NATIONAL POLY BENEFITS</span></a></li><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/why-choose-us/testimonials/' class='' id='' tabindex='-1' role='menuitem'><span>TESTIMONIALS</span></a></li><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/case-studies' class='' id='' tabindex='-1' role='menuitem'><span>CASE STUDIES</span></a></li><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/polycraft-boats/' class='' id='' tabindex='-1' role='menuitem'><span>POLYCRAFT BOATS</span></a></li><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/why-choose-us/why-national-poly/' class='' id='' tabindex='-1' role='menuitem'><span>WHY NATIONAL POLY?</span></a></li><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/why-choose-us/why-poly-water-tanks/' class='' id='' tabindex='-1' role='menuitem'><span>WHY POLY WATER TANKS?</span></a></li><li id='main_nav_why_choose_us' class='menu-item' role='presentation'><a href='/index.php/why-choose-us/certifications/' class='' id='' tabindex='-1' role='menuitem'><span>OUR CERTIFICATIONS</span></a></li></ul></li><li class='menu-seperator'>|</li><li id='main_nav_who_we_service' class='menu-item ' role='presentation'><a  class='' id='' tabindex='-1' role='menuitem'><span>WHO WE SERVICE</span> </a><ul class='sub-menu'><li id='main_nav_who_we_service' class='menu-item' role='presentation'><a href='http://nationalpolyindustries.com.au/index.php/regions-we-service/' class='' id='' tabindex='-1' role='menuitem'><span>REGIONS WE SERVICE</span></a></li><li id='main_nav_who_we_service' class='menu-item' role='presentation'><a href='http://nationalpolyindustries.com.au/index.php/industries-we-service/' class='' id='' tabindex='-1' role='menuitem'><span>INDUSTRIES WE SERVICE</span> <i class='fas fa-chevron-right' style='margin-left: 5px;'></i></a><ul class='sub-menu'><li id='' class='menu-item' role='presentation'><a href='https://nationalpolyindustries.com.au/industries-we-service/urban-applications/' class='' id='' tabindex='-1' role='menuitem'><span>URBAN APPLICATIONS</span></a></li><li id='' class='menu-item' role='presentation'><a href='https://nationalpolyindustries.com.au/industries-we-service/rural-applications/' class='' id='' tabindex='-1' role='menuitem'><span>RURAL APPLICATIONS</span></a></li><li id='' class='menu-item' role='presentation'><a href='https://nationalpolyindustries.com.au/industries-we-service/for-builders/' class='' id='' tabindex='-1' role='menuitem'><span>FOR BUILDERS</span></a></li><li id='' class='menu-item' role='presentation'><a href='https://nationalpolyindustries.com.au/industries-we-service/for-mining/' class='' id='' tabindex='-1' role='menuitem'><span>FOR MINING</span></a></li><li id='' class='menu-item' role='presentation'><a href='https://nationalpolyindustries.com.au/industries-we-service/industrial/' class='' id='' tabindex='-1' role='menuitem'><span>INDUSTRIAL</span></a></li></ul></li></ul></li><li class='menu-seperator'>|</li><li id='main_nav_info_centre' class='menu-item ' role='presentation'><a href='/index.php/info-centre' class='' id='' tabindex='-1' role='menuitem'><span>INFO CENTRE</span></a></li><li class='menu-seperator'>|</li><li id='main_nav_contact' class='menu-item ' role='presentation'><a href='http://nationalpolyindustries.com.au/index.php/contact-us' class='' id='' tabindex='-1' role='menuitem'><span>CONTACT</span></a></li>					</ul>
+					
+					<div class="hide-completely-helper shop-link-wrapper">
+						<button class="hide-completely shop-link better-design-color" onClick="window.open('https://www.watertanksonline.com.au/nationalpolyindustries_nsw/?use_session=1', '_blank')">Shop Now <i class="fas fa-angle-right" style="margin-left: 5px;"></i></button>
+						<!---			
+						<input class="better-design-color" type="button" value="Shop Now" onClick="window.open('https://www.watertanksonline.com.au', '_blank')" />
+						--->				
+					</div>
+					
+				</div>
+			</div>
+			
+		</div>
+	</nav>		
+	<!---- pushes the items below the float down below the menu in mobile mode --->
+	<div style='display: block; height:0; clear:both'>&nbsp;</div> 
+	<!---- /pushes the items below the float down below the menu in mobile mode --->
+	
+	<div id='the-custom-sub-menu-wrapper'>
+		<div id='the-custom-sub-menu' class='container-fluid'></div>
+	</div>		
+	<script>
+		var _MOBILE_WIDTH_			= 992; // 768
+		var _MOBILE_HEIGHT_			= 130; // 
+		var pageAnchorMenuId		= '';  
+		var isCustomSubMenuOpen 	= false;
+		var idOfActiveCustomMenu 	= '';
+		var mobileMenuHeights 		= {};
+		
+		//mediaQueries(); // check screen size and adjust images/display accordingly
+		
+		$( document ).ready(function() {
+			//console.log( "ready!" );
+		
+			mediaQueries(); // check screen size and adjust images/display accordingly
+			
+			$('.spinner').hide();
+			
+			//-------------------------------
+			//$('.custom-menu-parent a').mouseenter( function() { 
+			$('ul.top-menu li > a').mouseenter( function() { 
+				
+				var theSubMenu = $(this).next();
+				if( theSubMenu.length == 0 ) { closeCustomSubMenu(); }
+				else
+				{
+					if( !theSubMenu.hasClass("custom-menu-dropdown") ) { closeCustomSubMenu(); }
+					else 
+					{  
+						if( idOfActiveCustomMenu != theSubMenu.attr( 'id' ) )
+						{
+							idOfActiveCustomMenu = theSubMenu.attr( 'id' );
+							openCustomSubMenu( theSubMenu );
+						}
+					}
+					
+				} // if
+			
+			});
+
+			//-------------------------------
+			//$('#the-custom-sub-menu').mouseleave( function() { closeCustomSubMenu(); });
+			$('.banner-bar').mouseenter( function() 				{ closeCustomSubMenu(); });
+			$('.heading').mouseenter( function() 					{ closeCustomSubMenu(); });
+			$('.product-heading').mouseenter( function() 			{ closeCustomSubMenu(); });
+			$('section').mouseenter( function() 					{ closeCustomSubMenu(); });
+
+//			$( window ).load( function() 							{ closeCustomSubMenu(); 
+//																	  mediaQueries();
+//																	});
+			$( window ).resize( function() 							{ closeCustomSubMenu(); 
+																	  mediaQueries();
+																	});
+			$( window ).on( "orientationchange", function( event ) 	{ closeCustomSubMenu(); 
+																	  mediaQueries();
+																	});	
+
+			$('.navbar-header > button').click( function( event )	{ closeCustomSubMenu(); 
+																	  expandMobileMenu( event );
+																	});
+				
+			
+			//-------------------------------
+			/*--- placed image in css background and using css hover to swap the image instead of doing it this way
+			$('#the-custom-sub-menu').on( { mouseenter: function() { sourceSwapCustomMenuImage(); },
+										   	mouseleave: function() { sourceSwapCustomMenuImage(); } },
+										   'img.custom-menu-icon-image' );
+			*/
+			
+
+		}); // $( document ).ready
+		
+		function openCustomSubMenu( theSubMenu )
+		{
+			$('nav.top-menu-bar li').removeClass( 'active '); 					// remove the active class from all menu items
+			var theParentElement = theSubMenu.parent().addClass( 'active ');	// add just this menu item to active
+
+			// set and activate the custom submenu div
+			$('#the-custom-sub-menu').html( theSubMenu.html() );
+			$('#the-custom-sub-menu').addClass( 'active');
+
+			// adjust the cosmetic bordering and visual effects
+			$('.heading').css( 'border-top', '1px solid #555');
+			$('.product-heading').css( 'border-top', '1px solid #555');
+			$('nav.top-menu-bar').css( 'border-bottom', '0' );
+
+			//scroll into view on mobile devices
+			//
+			if( $( window ).width() < _MOBILE_WIDTH_ )
+			{
+				var offset = $('#the-custom-sub-menu').offset();
+				$('html, body').animate({ scrollTop: offset.top	});
+			}
+			
+			isCustomSubMenuOpen = true;
+			
+		} // openCustomSubMenu
+		
+		function closeCustomSubMenu()
+		{
+			if( isCustomSubMenuOpen  )
+			{
+				// set and activate the custom submenu div
+				$('#the-custom-sub-menu').html( '' );
+				$('#the-custom-sub-menu').removeClass( 'active');
+
+				// adjust the cosmetic bordering and visual effects
+				$('.heading').css( 'border-top', '0' );
+				$('.product-heading').css( 'border-top', '0');
+				$('nav.top-menu-bar').css( 'border-bottom', '1px' );
+
+				isCustomSubMenuOpen = false;
+				idOfActiveCustomMenu = '';
+			}
+			
+			if( pageAnchorMenuId != '' ) 
+			{ 	
+				$('nav.top-menu-bar li').removeClass( 'active '); 					// remove the active class from all menu items
+				$( pageAnchorMenuId ).addClass( 'active '); 
+			}
+			
+		} // closeCustomSubMenu
+
+		//-------------------------------------------------------------
+		/*--- placed image in css background and using css hover to swap the image instead of doing it this way
+		function sourceSwapCustomMenuImage() 
+		{
+			console.log('In sourceSwapCustomMenuImage');
+			var $this = $(this);
+			
+			console.log( $this );
+			console.log( $this.data('data-alt-src') );
+			console.log( $this.attr('src') );
+			
+			var newSource = $this.data('alt-src');
+			$this.data('alt-src', $this.attr('src'));
+			$this.attr('src', newSource);
+			
+		} // sourceSwapCustomMenuImage
+		*/
+
+		//-------------------------------------------------------------
+		function mediaQueries()
+		{
+			//var headerWidth = $('header').width();
+			//if( headerWidth >= 768 ) // non-mobile device
+			
+			var windowOuterWidth = $( window ).outerWidth();
+			if( windowOuterWidth > _MOBILE_WIDTH_ ) // 992 non-mobile device
+			{
+				$('header .logo-and-group img').attr("src", "https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/Logo.png" )
+				$('div.top-logo-bar img').css( {'width': '100%', 'height':'auto' } ); // image is within menu
+				$('div.top-logo-bar .logo-and-group').css( {'width': ''} ); // go back to jQuery behaviour since css does things differently off by 1px
+				
+				/* - set in css
+				$('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight( 0 ); // set in css
+				$('div.top-logo-bar').height( 'auto' );
+				$('div.top-logo-bar > div').height( 'auto' );
+				$('header').height( 'auto' );
+				*/
+				
+			}
+			//else if( headerWidth < 768 ) // mobile device
+			else if( windowOuterWidth <= _MOBILE_WIDTH_ ) // 992 mobile device
+			{
+				$('header .logo-and-group img').attr("src", "https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/nationalpoly-industries-logo-mobile.png" )
+
+				// adjusting the mobile menu
+				//var parentHeight = $('div.top-logo-bar .logo-and-group div.the-mobile-menu').parent().outerHeight();
+				var menuHeight = _MOBILE_HEIGHT_; //$('header .the-logo').outerHeight();
+				var logoHeight = menuHeight-30;
+
+				$('div.top-logo-bar .logo-and-group').css( {'width': '100%'} ); // override jQuery behaviour since css does things differently
+				$('div.top-logo-bar img').css( {'width': 'auto', 'height': logoHeight+'px'} ); // image is within menu so has a maximum height
+				
+				/* set in css
+				$('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight( menuHeight );
+				$('div.top-logo-bar').outerHeight( menuHeight );
+				$('div.top-logo-bar > div').outerHeight( menuHeight );
+				$('header').outerHeight( menuHeight );
+				*/
+				
+				// vertically center menu
+				//
+				var theMenuWordHeight = $('.navbar-header button.navbar-toggle').height();	
+				var theTop = (menuHeight - theMenuWordHeight) / 2;
+				$('.navbar-header button.navbar-toggle').css( {'top': theTop+'px',
+															   'margin-top' : 0,
+															   'margin-bottom' : 0,
+															   'padding' : '0 10px'} );
+			}
+
+			// set mobile menu heights when screen resizes
+			//
+			mobileMenuHeights.height1 = $('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight();
+			mobileMenuHeights.height2 = $('div.top-logo-bar').outerHeight();
+			mobileMenuHeights.height3 = $('div.top-logo-bar > div').outerHeight();
+			mobileMenuHeights.height4 = $('header').outerHeight();
+			
+			// re-adjust the sizes when switch back to desktop view from mobil
+			//
+			var headerWidth = $('header').width();
+			if( headerWidth >= _MOBILE_WIDTH_ ) // mobile device
+			{
+				$('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight( 'auto' );
+				$('div.top-logo-bar').outerHeight( 'auto' );
+				$('div.top-logo-bar > div').outerHeight( 'auto' );
+				$('header').outerHeight( 'auto' );
+			}
+		} // mediaQueries
+		
+		
+		//-------------------------------------------------------------
+		function expandMobileMenu( event )
+		{
+			//var headerWidth = $('header').width();
+			//if( headerWidth < 768 ) // mobile device
+			
+			var windowOuterWidth = $( window ).outerWidth();
+			if( windowOuterWidth > _MOBILE_WIDTH_ ) // 768 non-mobile device
+			{
+				var ariaExpanded = $(".navbar-header .navbar-toggle").attr( "aria-expanded" );
+				
+				//console.log( typeof ariaExpanded );
+				// catch event before the change so check for reverse. is expanded here = not expanded
+				
+				if( ( typeof ariaExpanded === 'undefined' ) || ( ariaExpanded === 'false') ) 	
+				{ 
+					//console.log('aaa');
+					//console.log( Object.keys( mobileMenuHeights ).length );
+					if( Object.keys( mobileMenuHeights ).length !== 0 )
+					{
+						//$('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight( mobileMenuHeights.height1 );
+						//$('div.top-logo-bar').outerHeight( mobileMenuHeights.height2 );
+						//$('div.top-logo-bar > div').outerHeight( mobileMenuHeights.height3 );
+						//$('header').outerHeight( mobileMenuHeights.height4 );
+						
+						//$('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight( 'auto' );
+						//$('div.top-logo-bar').outerHeight( 'auto' );
+						//$('div.top-logo-bar > div').outerHeight( 'auto' );
+						$('header').outerHeight( 'auto' );
+					}
+					$('header').css( {'overflow':'visible'} ); 
+				}
+				else
+				{ 
+					var menuHeight = $('header .the-logo').outerHeight();
+					
+					$('header').css( {'overflow':'hidden'} ); 
+					
+					//$('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight( menuHeight );
+					//$('div.top-logo-bar').outerHeight( menuHeight );
+					//$('div.top-logo-bar > div').outerHeight( menuHeight );
+					$('header').outerHeight( _MOBILE_HEIGHT_ );
+					
+					//console.log( menuHeight );
+				}
+				//console.log( "aria-expanded before change =" + ariaExpanded ); 
+			}
+			else
+			{
+				var ariaExpanded = $(".navbar-header .navbar-toggle").attr( "aria-expanded" );
+				if( ( typeof ariaExpanded === 'undefined' ) || ( ariaExpanded === 'false') ) { $('header').outerHeight( 'auto' ); }
+				else 																		 { $('header').outerHeight( _MOBILE_HEIGHT_ ); }
+				
+//				$('div.top-logo-bar .logo-and-group div.the-mobile-menu').outerHeight( 'auto' );
+//				$('div.top-logo-bar').outerHeight( 'auto' );
+//				$('div.top-logo-bar > div').outerHeight( 'auto' );
+			}
+			
+
+		} // expandMobileMenu
+		
+	</script>
+</header>
+
+<div class="mobile-phone-number-display" style="min-height: 60px">
+	<div class="mobile-social-media-icons" style="text-align:left; padding:5px; display:inline-block; float:left">
+		<a href="https://www.facebook.com/nationalpolyindustries/" target="_blank" style="margin-left:20px"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/socialmedia/facebook2.png" style="height:32px" alt="facebook icon"/></a>
+		<a href="https://www.instagram.com/national_poly_industries/" target="_blank"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/socialmedia/instagram2.png" style="height:32px" alt="instagram icon"/></a>
+	</div>	
+	<span class="better-design-color" style="float:right; padding:5px 10px 5px 0"><i class="fas fa-phone fa-flip-horizontal" aria-hidden="true"></i><a href='tel:1800 758 709'>1800 758 709</a></span>
+</div>
+
+
+
+			<div style='width:100%; display:block; text-align: center'>
+				<h1>Sorry, that page was not found.</h1>	
+				<p>
+					<a href='/index.php/'>Return to homepage</a>
+				</p>
+			</div>
+	
+<footer id= "ttr_footer">
+
+	<!--- certification-bar --->
+	<div class="certification-bar">
+		<div class="container-fluid">
+		
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+				<!---<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-certifications/Aussie-owned-operated.png" alt="Australian Owned">--->
+				<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-certifications/icon-australia.png" alt="Australian Owned">
+				<div class='certification-type'>OWNED AND OPERATED IN AUSTRALIA</div>
+			</div>		
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+				<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-certifications/NPI-ISO.png" alt="Iso Certified AS/NZ ISO 9001:2008">
+				<div class='certification-type'>ISO CERTIFIED<br>AS/NZ ISO 9001:2008</div>
+			</div>		
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+				<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-certifications/NPI-AustrlianStandard.png" alt="Certified To Australian Standards">
+				<div class='certification-type'>CERTIFIED TO AUSTRALIAN STANDARDS</div>
+			</div>		
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+				<!---<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-certifications/Aussie-standards-quality-endorsed.png" alt="Quality Endorsed">--->
+				<!---<div class='certification-type'>QUALITY ENDORSED</div>--->
+				<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/icon-certifications/RMR-logo_1.png" alt="Recyclable Multi-Use Resource" style="width:56px">
+				<div class='certification-type' style="padding-top:5px">RECYCLABLE<br>MULTI-USE<br>RESOURCE</div>
+			</div>		
+			
+		</div>	
+	</div>
+
+	<!--- info-bar --->
+	<div class="info-bar">
+	
+		<div class="container-fluid">
+			<!--- Center Locations --->
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+			
+				<div class='address'><h4>QUEENSLAND</h4>Bundaberg Service Centre<br>89 Childers Road<br>Bundaberg QLD 4670<br></div><div class='address'><h4>NEW SOUTH WALES</h4>Bathurst Service Centre<br>4 Wembley Place<br>Kelso NSW 2795<br></div>			
+			</div>
+
+			<!--- Important Information --->
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+				<div class="footer-important-info">
+					<h4>IMPORTANT INFO</h4>
+					
+					<div class='info-links'><a href='http://nationalpolyindustries.com.au/index.php/regions-we-service/'>Delivery Information</a></div><div class='info-links'><a href='http://nationalpolyindustries.com.au/index.php/warranty-conditions/'>Warranty Conditions</a></div><div class='info-links'><a href='https://nationalpolyindustries.com.au/industrial-tanks-warranty-conditions/'>Industrial Tank Warranty</a></div><div class='info-links'><a href='/index.php/terms-and-conditions-of-sale/'>Terms of Sale</a></div><div class='info-links'><a href='http://nationalpolyindustries.com.au/index.php/privacy-policy/'>Privacy Policy</a></div><div class='info-links'><a href='http://nationalpolyindustries.com.au/index.php/disclaimer/'>Disclaimer</a></div><div class='info-links'><a href='http://nationalpolyindustries.com.au/index.php/sitemap/'>Sitemap</a></div>				</div>
+				<!---
+				<div class="footer-resellers">
+					<h4>RESELLERS</h4>
+					<button onClick="window.open( '/index.php/partner-login', '_self')">Partner Login <i class="fas fa-sign-in-alt"></i></button>
+				</div>				
+				--->
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+				<form name='frmFooterSearch' type='post' action='/index.php/search/'>
+					<div class="footer-search">
+						<h4>SEARCH</h4>
+						<div>
+							<input type="text" name="search" placeholder="Search..." />
+							<i class="fas fa-search" onclick="document.forms.frmFooterSearch.submit();"></i>
+						</div>
+					</div>
+				</form>
+				<div class="footer-useful-info">
+					<h4>USEFUL INFORMATION</h4>
+
+					<div class='info-links'><a href='http://nationalpolyindustries.com.au/index.php/category/water-tank-installation/?fromPage=info-centre'>Installation information</a></div><div class='info-links'><a href='/index.php/product-colour-range/'>Tank colours</a></div><div class='info-links'><a href='http://nationalpolyindustries.com.au/index.php/why-choose-us/certifications/'>AS/NZS 4766 & ISO 9901</a></div><div class='info-links'><a href='/index.php/rainfall-calculator'>Rainfall Calculator</a></div><div class='info-links'><a href='/index.php/water-usage-calculator/'>Water Usage Calculator</a></div>				</div>
+			</div>
+
+			<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+								<div class='footer-enquire-now '>
+					<h4>GET A FREE QUOTE</h4>
+					<div class='triangle-hook'></div>
+					<div class='enquiry-content-wrapper'>
+						<div>
+							<input type="text" name="fullname" placeholder='Full Name*' required='required' />
+							<!--- <label class='forInput' for='fullname'>Full Name</label> --->
+						</div>
+						<div>
+							<input type="text" name="phone" placeholder='Phone*' required='required' />
+							<!--- <label class='forInput' for='phone'>Phone</label> --->
+						</div>
+						<div>
+							<input type="text" name="email" type='email' placeholder='Email*' required='required' />
+							<!--- <label class='forInput' for='email'>Email</label>	--->
+						</div>
+						<div>
+							<input type="text" name="postcode" placeholder='Postcode*' required='required' />
+							<!--- <label class='forInput' for='postcode'>Postcode</label> --->
+						</div>
+						<div>
+							<textarea name="comments" placeholder='Comments*' required='required'></textarea>
+							<!--- <label class='forTextarea' for='comments'>Comments</label> --->
+						</div>
+						<button onClick="enquiry.submitEnquiry( this )">Submit</button>
+					</div>
+				</div>		
+			</div>
+		</div>
+	</div>
+
+	<!--- copyright-bar --->
+	<div class="copyright-bar">
+		<div class="container-fluid">
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 npi-group">
+				<img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/part-of-the-npi-group-footer.jpg" alt="NPI-Group" style="margin-right:20px">|
+				<a href="https://www.facebook.com/pg/nationalpolyindustries/" target="_blank" title="Facebook page" style="margin-left:20px"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/socialmedia/facebook-bw.png" style="height:30px; width:auto" alt="facebook icon"/></a>
+				<a href="https://www.instagram.com/national_poly_industries/" target="_blank" title="Instagram"><img src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/images/socialmedia/instagram-bw.png" style="height:32px; width:auto" alt="instagram icon"/></a>
+				
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 copyright-text">
+				<div>&copy; Copyright 2024 National Poly Industries.</div> 
+				<div>All rights reserved.</div>
+			</div>
+		</div>
+	</div>
+
+</footer>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5e9e838935bcbb0c9ab31f63/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<div class="popup-div general-alert-box alert">
+    <a href="#" class="close" data-dismiss="alert" title='Close'>&times;</a>
+    <h2 class='alert-title'></h2> 
+    <hr>
+    <div class='alert-content'></div>
+</div>
+
+<script type='text/javascript' src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/js/utilities.js"></script>
+<script type='text/javascript'>
+	
+var ajaxUrl = "https://nationalpolyindustries.com.au/wp-admin/admin-ajax.php";
+
+var enquiry = (function() {
+
+	var isClicked = false;
+
+	//---------------------------
+	//---------------------------
+	// private functions
+	//
+	
+	function submitEnquiryAjax( infoObj,
+								thisFormObj )
+	{
+		infoObj.isError 	= false;
+		infoObj.errorMsg	= '';
+		infoObj.sourceUrl	= ( typeof window.location.href == 'undefined' )? '' : window.location.href;
+		infoObj.referrer	= ( typeof document.referrer == 'undefined' )? '' : document.referrer;
+	
+
+		checkForEmptyFields( infoObj );
+		//validateThePhone( infoObj );
+		validateTheEmail( infoObj );
+		validateThePostcode( infoObj );
+
+		//console.log( infoObj );
+		
+		if( infoObj.isError ) 
+		{ 
+			popupMessage( 'Incorrect Form Fields ', infoObj.errorMsg ); 
+			isClicked = false;
+		}
+		else
+		{
+			// use wordpress ajax
+
+			$.ajax({
+					url: 		ajaxUrl,
+					type: 		'post',
+					data:		{ 
+									action: 	'submit_enquiry_email', 
+									fullname:	infoObj.fullname,
+									phone:		infoObj.phone,
+									email:		infoObj.email,
+									postcode: 	infoObj.postcode,
+									comments:	infoObj.comments,
+									source_url:	window.location.href,
+									referrer:	document.referrer
+								}, 
+					success:	function( data ) 
+								{
+									var dataObj = jQuery.parseJSON( data );
+									if( dataObj.isSuccess )
+									{
+										var theMessage = "Your enquiry has been submitted, and we will be in contact with you.<br>";
+										//theMessage += "<br>Region: "+dataObj.data.region
+										theMessage += "<br>Our Email: "+dataObj.data.email;
+										
+										if( typeof dataObj.message !== 'undefined' ){
+											dataObj.message = dataObj.message.replace('Enquiry successful', '');
+											theMessage += dataObj.message;
+										}
+										
+										popupMessage( 'Success', theMessage, 'success' ); 
+										clearFormFields( thisFormObj );	
+									}
+									else
+									{
+										popupMessage( 'Failure', dataObj.message ); 
+									}
+									
+									isClicked = false;
+										
+								} // function
+				   });
+
+			/*
+			// since 2.8 ajaxurl is always defined in the admin header and points to admin-ajax.php
+			$.post(	ajaxUrl, 
+					{ action: 'enquiry_email', postcode: document.getElementById('postcode').value }, 
+					function(output) 
+					{
+						alert(output);
+					}
+				  );
+	*/
+		}
+
+	} // submitEnquiryAjax
+
+	//-----------------------------------
+	function submitBecomeSalesAgentAjax( infoObj,
+										 thisFormObj )
+	{
+		infoObj.isError 	= false;
+		infoObj.errorMsg	= '';
+		infoObj.sourceUrl	= ( typeof window.location.href == 'undefined' )? '' : window.location.href;
+		infoObj.referrer	= ( typeof document.referrer == 'undefined' )? '' : document.referrer;
+
+		checkForEmptyFields( infoObj, true );
+		validateThePhone( infoObj );
+		validateTheEmail( infoObj );
+		validateThePostcode( infoObj );
+
+		
+		//console.log( infoObj );
+		
+		if( infoObj.isError ) 
+		{ 
+			popupMessage( 'Incorrect Form Fields ', infoObj.errorMsg ); 
+			isClicked = false;
+		}
+		else
+		{
+			// tag Business name and ABN to comments
+			
+			var theComments  = "<h1>Become a Sales Agent Interest</h1>";
+			theComments 	+= "<strong>Business Name:</strong> " + infoObj.businessName + "<br>";
+			theComments 	+= "<strong>Business ABN/ACN:</strong> " + infoObj.businessABN + "<br><br>";
+			theComments		+= "<strong>The Message:</strong><br>";
+			theComments 	+= infoObj.comments;
+			
+			// use wordpress ajax
+
+			$.ajax({
+					url: 		ajaxUrl,
+					type: 		'post',
+					data:		{ 
+									action: 	'submit_enquiry_email', 
+									fullname:	infoObj.fullname,
+									phone:		infoObj.phone,
+									email:		infoObj.email,
+									postcode: 	infoObj.postcode,
+									comments:	theComments,
+									source_url:	window.location.href,
+									referrer:	document.referrer
+								}, 
+					success:	function( data ) 
+								{
+									var dataObj = jQuery.parseJSON( data );
+									if( dataObj.isSuccess )
+									{
+										var theMessage = "Your interest has been submitted, and we will be in contact with you.<br>";
+										theMessage += "<br>Region: "+dataObj.data.region+"<br>Email: "+dataObj.data.email;
+										popupMessage( 'Success', theMessage, 'success' ); 
+										clearFormFields( thisFormObj );	
+									}
+									else
+									{
+										popupMessage( 'Failure', dataObj.message ); 
+									}
+										
+									isClicked = false;
+									
+								} // function
+				   });
+
+			/*
+			// since 2.8 ajaxurl is always defined in the admin header and points to admin-ajax.php
+			$.post(	ajaxUrl, 
+					{ action: 'enquiry_email', postcode: document.getElementById('postcode').value }, 
+					function(output) 
+					{
+						alert(output);
+					}
+				  );
+	*/
+		}
+
+	} // submitBecomeSalesAgentAjax
+	
+	//-----------------------------------
+	function checkForEmptyFields( infoObj,
+								  isBecomeSalesAgent )
+	{
+		isBecomeSalesAgent = isBecomeSalesAgent || false;
+		
+		var errorMsg = '';
+
+		if( isBecomeSalesAgent )
+		{
+			if( infoObj.businessName == '' ) 	{ errorMsg  += "Please enter Business Name<br>"; }
+			if( infoObj.businessABN == '' ) 	{ errorMsg  += "Please enter Business ABN/ACN<br>"; }
+		}
+			
+		if( infoObj.fullname == '' ) 		{ errorMsg  += "Please enter Full Name<br>"; }
+		//if( infoObj.phone == '' ) 		{ errorMsg += "Please enter Phone<br>"; }
+		//if( infoObj.email == '' ) 		{ errorMsg += "Please enter Email<br>"; }
+		if( (infoObj.phone == '') && (infoObj.email == '') ) { errorMsg += "Please enter a Valid Phone or Email<br>"; }
+		
+		if( infoObj.postcode == '' ) 	{ errorMsg += "Please enter Postcode<br>"; }
+		if( infoObj.comments == '' ) 	{ errorMsg += "Please enter Comments/Message<br>"; }
+
+		infoObj.errorMsg 	= errorMsg;
+		infoObj.isError 	= ( errorMsg != '' );
+
+	} // checkForEmptyFields
+
+	//-----------------------------------
+	function clearFormFields( thisFormObj )	
+	{
+		//console.log( $( thisFormObj ).parent().find("[name]") );
+
+		var fieldsParamObj = { fullname:'', phone:'', email:'', postcode:'', comments:'' };
+
+		var FieldsFromPage = $( thisFormObj ).parent().find("[name]") 	
+		for( iField=0; iField < FieldsFromPage.length; ++iField ) 
+		{
+			var theName 	= $( FieldsFromPage[ iField ] ).attr( 'name' );
+			if( theName in fieldsParamObj ) { $( FieldsFromPage[ iField ] ).val(''); } // clear only the fields specified in the array set above
+		}
+
+
+	} // clearFormFields
+	
+	
+	//---------------------------
+	//---------------------------
+	// public functions
+	//
+	function submitEnquiry( thisFormObj )	
+	{
+		//console.log( $( thisFormObj ).parent().find("[name]") );
+
+		if( isClicked ) { return; }
+		isClicked = true;
+		
+		var fieldsParamObj = { fullname:'', phone:'', email:'', postcode:'', comments:'' };
+
+		var FieldsFromPage = $( thisFormObj ).parent().find("[name]");
+		for( iField=0; iField < FieldsFromPage.length; ++iField ) 
+		{
+			var theName 	= $( FieldsFromPage[ iField ] ).attr( 'name' );
+			var theValue 	= $( FieldsFromPage[ iField ] ).val();
+
+			fieldsParamObj[ theName ] = theValue.trim();
+			//console.log( theName );
+			//console.log( theValue );
+		}
+
+		//console.log( fieldsParamObj );
+
+		submitEnquiryAjax( fieldsParamObj, thisFormObj );
+
+	} // submitEnquiry
+	
+	//---------------------------
+	function submitBecomeSalesAgent( thisFormObj )	
+	{
+		if( isClicked ) { return; }
+		isClicked = true;
+		
+		var fieldsParamObj = { businessName:'', businessABN: '', fullname:'', phone:'', email:'', postcode:'', comments:'' };
+
+		var FieldsFromPage = $( thisFormObj ).parent().parent().find("[name]");	
+		console.log( FieldsFromPage );
+		for( iField=0; iField < FieldsFromPage.length; ++iField ) 
+		{
+			var theName 	= $( FieldsFromPage[ iField ] ).attr( 'name' );
+			var theValue 	= $( FieldsFromPage[ iField ] ).val();
+
+			fieldsParamObj[ theName ] = theValue.trim();
+			//console.log( theName );
+			//console.log( theValue );
+		}
+
+		console.log( fieldsParamObj );
+
+		submitBecomeSalesAgentAjax( fieldsParamObj, thisFormObj );
+		
+	} // submitBecomeSalesAgent
+	
+	//---------------------------
+	function popupMessage(	theTitle, 
+							theMessage,	
+							theMessageType )
+	{
+		theTitle = theTitle || '';
+		theMessage = theMessage || '';
+		theMessageType = theMessageType || 'error';
+		
+		var thePopupBox = '.popup-div.general-alert-box';
+		
+		// determine what type of message it is success or error and act accordingly
+		//
+		$(thePopupBox).removeClass( 'alert-danger' );
+		$(thePopupBox).removeClass( 'alert-success' );
+		if( theMessageType == 'success'){ $(thePopupBox).addClass( 'alert-success' ); 
+										  //seoRegisterEnquirySuccess(); 
+										}
+		else 							{ $(thePopupBox).addClass( 'alert-danger' ); }
+		
+		// set the title and content of the message
+		//
+        $(thePopupBox + ' > .alert-title').html( theTitle ); // set the title of the message
+        $(thePopupBox + ' > .alert-content').html( theMessage ); // set the message in the content area
+
+		//Fade in the Popup and add close button
+		$(thePopupBox).fadeIn(300);
+		
+		// position the message box in the viewport - Set the center alignment padding + border
+		//
+		var popupTop	= ( $( window ).height() - ($(thePopupBox).height() + 24) ) / 2; 
+		var popupLeft 	= ( $( window ).width() - ($(thePopupBox).width() + 24) ) / 2; 
+		$(thePopupBox).css({ 'top': popupTop, 'left': popupLeft });
+		
+		// Add the mask to body
+		$('body').append("<div id='popup-div-mask'></div>");
+		$('#popup-div-mask').fadeIn(300);
+		
+
+	} // popupMessage
+	
+	//---------------------------
+	function seoRegisterEnquirySuccess() 
+	{
+		//console.log( 'In seoRegisterEnquirySuccess' );
+		
+		$.ajax({type: 	"POST",
+				url: 	"https://www.nationalpolyindustries.com.au/seo-enquiry-success/", 
+				success: function(result){}
+			   });				
+
+	} // seoRegisterEnquirySuccess
+	
+	
+	//---------------------------
+	return 	{ 
+				submitEnquiry:			submitEnquiry, 
+				submitBecomeSalesAgent: submitBecomeSalesAgent,
+				popupMessage:			popupMessage
+			};
+	
+})(); // enquiry
+
+//---------------------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------------------
+var events = (function() {
+	
+	var isClicked = false;
+	
+	//---------------------------
+	//---------------------------
+	// private functions
+	//
+	
+	//---------------------------------------------------
+	// submitInterestAjax 
+	//---------------------------------------------------
+	function submitInterestAjax(	infoObj, 
+									thisFormObj )
+	{
+		infoObj.isError 	= false;
+		infoObj.errorMsg	= '';
+
+		checkForEmptyFields_submitRegistration( infoObj );
+		validateTheEmail( infoObj );
+		validateThePostcode( infoObj );
+
+		//console.log( infoObj );
+		
+		if( infoObj.isError ) 
+		{ 
+			popupMessage( 'Incorrect Form Fields ', infoObj.errorMsg ); 
+		}
+		else
+		{
+			// use wordpress ajax
+
+			$.ajax({
+					url: 		ajaxUrl,
+					type: 		'post',
+					data:		{ 
+									action: 			'submit_event_registration', 
+									event:				infoObj.event,
+									firstname:			infoObj.firstname,
+									lastname:			infoObj.lastname,
+									email:				infoObj.email,
+									postcode: 			infoObj.postcode,
+									howdidyouhearofus: 	(infoObj.howdidyouhearofus == 'other')? infoObj.other : infoObj.howdidyouhearofus
+								}, 
+					success:	function( data ) 
+								{
+									var dataObj = jQuery.parseJSON( data );
+									if( dataObj.isSuccess )
+									{
+										var theMessage = "You have been registered. Please record and bring Voucher code to the event to get your discount.<br>";
+										theMessage += "<br>Voucher code: " + dataObj.data.voucherCode + "<br>";
+										theMessage += "<br>An email with your voucher code has been sent to you.<br>";
+										popupMessage( 'Success', theMessage, 'success' ); 
+										clearFormFields( thisFormObj );	
+									}
+									else
+									{
+										popupMessage( 'Failure', dataObj.message ); 
+									}
+									
+									isClicked = false;
+									
+								} // function
+				   });
+
+			/*
+			// since 2.8 ajaxurl is always defined in the admin header and points to admin-ajax.php
+			$.post(	ajaxUrl, 
+					{ action: 'enquiry_email', postcode: document.getElementById('postcode').value }, 
+					function(output) 
+					{
+						alert(output);
+					}
+				  );
+	*/
+		}
+
+	} // submitEnquiryAjax
+
+	
+	//---------------------------------------------------
+	// retrieveVoucherAjax 
+	//---------------------------------------------------
+	function retrieveVoucherAjax( 	infoObj, 
+									thisFormObj )
+	{
+		infoObj.isError 	= false;
+		infoObj.errorMsg	= '';
+
+		checkForEmptyFields_retrieveVoucher( infoObj );
+		validateTheEmail( infoObj );
+
+		//console.log( infoObj );
+		
+		if( infoObj.isError ) 
+		{ 
+			popupMessage( 'Incorrect Form Fields ', infoObj.errorMsg ); 
+		}
+		else
+		{
+			// use wordpress ajax
+
+			$.ajax({
+					url: 		ajaxUrl,
+					type: 		'post',
+					data:		{ 
+									action: 			'retrieve_event_registration_voucher', 
+									event:				infoObj.event,
+									email:				infoObj.email
+								}, 
+					success:	function( data ) 
+								{
+									var dataObj = jQuery.parseJSON( data );
+									if( dataObj.isSuccess )
+									{
+										var theMessage = "Your voucher code is: " + dataObj.data.voucherCode;
+										popupMessage( 'Success', theMessage, 'success' ); 
+										clearFormFields( thisFormObj );	
+									}
+									else
+									{
+										popupMessage( 'Failure', dataObj.message ); 
+									}
+										
+								} // function
+				   });
+
+		}
+		
+		
+	} // retrieveEventRegistrationVoucher
+	
+	//---------------------------------------------------
+	// resendEmailAjax 
+	//---------------------------------------------------
+	function resendEmailAjax(	infoObj, 
+								thisFormObj )
+	{
+		infoObj.isError 	= false;
+		infoObj.errorMsg	= '';
+
+		checkForEmptyFields_retrieveVoucher( infoObj );
+		validateTheEmail( infoObj );
+
+		//console.log( infoObj );
+		
+		if( infoObj.isErrolr ) 
+		{ 
+			popupMessage( 'Incorrect Form Fields ', infoObj.errorMsg ); 
+		}
+		else
+		{
+			// use wordpress ajax
+
+			$.ajax({
+					url: 		ajaxUrl,
+					type: 		'post',
+					data:		{ 
+									action: 			'resend_event_registration_email', 
+									event:				infoObj.event,
+									email:				infoObj.email
+								}, 
+					success:	function( data ) 
+								{
+									var dataObj = jQuery.parseJSON( data );
+									if( dataObj.isSuccess )
+									{
+										var theMessage = "The registration email has been re-sent to: " + dataObj.data.email;
+										popupMessage( 'Success', theMessage, 'success' ); 
+										clearFormFields( thisFormObj );	
+									}
+									else
+									{
+										popupMessage( 'Failure', dataObj.message ); 
+									}
+										
+								} // function
+				   });
+
+		}
+		
+		
+	} // retrieveEventRegistrationVoucher
+	
+	//---------------------------
+	function getTheFormFields( thisFormObj, 
+							   fieldsParamObj )
+	{
+		var FieldsFromPage = $( thisFormObj ).parent().find("[name]") ;	
+		for( iField=0; iField < FieldsFromPage.length; ++iField ) 
+		{
+			var theName 	= $( FieldsFromPage[ iField ] ).attr( 'name' );
+			var theValue 	= $( FieldsFromPage[ iField ] ).val();
+
+			fieldsParamObj[ theName ] = theValue.trim();
+			console.log( theName + ': ' + theValue );
+		}
+		
+	} // getTheFormFields
+	
+	//-----------------------------------
+	function checkForEmptyFields_submitRegistration( infoObj )
+	{
+		var errorMsg = '';
+
+		if( infoObj.firstname == '' ) 			{ errorMsg  = "Please enter First Name<br>"; }
+		if( infoObj.lastname == '' ) 			{ errorMsg += "Please enter Last Name<br>"; }
+		if( infoObj.email == '' ) 				{ errorMsg += "Please enter Email<br>"; }
+		if( infoObj.postcode == '' ) 			{ errorMsg += "Please enter Postcode<br>"; }
+		if( infoObj.howdidyouhearofus == '' ) 	{ errorMsg += "Please enter how your heard of us<br>"; }
+		
+		if( infoObj.howdidyouhearofus == 'other' )
+		{
+			if( infoObj.other == '' ) 	{ errorMsg += "Please enter in how your heard of us in the 'Other' field<br>"; }
+		}
+
+		infoObj.errorMsg 	= errorMsg;
+		infoObj.isError 	= ( errorMsg != '' );
+
+	} // checkForEmptyFields_submitRegistration
+
+	//-----------------------------------
+	function checkForEmptyFields_retrieveVoucher( infoObj )
+	{
+		var errorMsg = '';
+
+		if( infoObj.email == '' ) { errorMsg += "Please enter Email<br>"; }
+
+		infoObj.errorMsg 	= errorMsg;
+		infoObj.isError 	= ( errorMsg != '' );
+
+	} // checkForEmptyFields_retrieveVoucher
+
+	//-----------------------------------
+	function clearFormFields( thisFormObj )	
+	{
+		console.log( "Events: clearFormFields" );
+		//console.log( $( thisFormObj ).parent().find("[name]") );
+
+		var fieldsParamObj = { firstname:'', lastname:'', email:'', postcode:''  };
+
+		var FieldsFromPage = $( thisFormObj ).parent().find("[name]") 	
+		for( iField=0; iField < FieldsFromPage.length; ++iField ) 
+		{
+			var theName 	= $( FieldsFromPage[ iField ] ).attr( 'name' );
+			if( theName in fieldsParamObj ) { $( FieldsFromPage[ iField ] ).val(''); } // clear only the fields specified in the array set above
+			console.log( "theName="+theName );
+		}
+		
+	} // clearFormFields
+	
+	//---------------------------
+	//---------------------------
+	// public functions
+	//
+	function lodgeInterest( thisFormObj )	
+	{
+		//console.log( "In lodge Interest ");
+		//console.log( $( thisFormObj ).parent().find("[name]") );
+
+		if( isClicked ) { return; }
+		isClicked = true;
+
+		var fieldsParamObj = { event: '', firstname:'', lastname:'', email:'', postcode:'', howdidyouhearofus:'', other: '' };
+		getTheFormFields( thisFormObj, fieldsParamObj );
+		fieldsParamObj.howdidyouhearofus = $('input[name=howdidyouhearofus]:checked').val() || '';
+		submitInterestAjax( fieldsParamObj, thisFormObj );
+
+	} // lodgeInterest
+	
+	//---------------------------
+	function retrieveVoucher( thisFormObj )	
+	{
+		//console.log( $( thisFormObj ).parent().find("[name]") );
+
+		var fieldsParamObj = { event: '', email:'' };
+		getTheFormFields( thisFormObj, fieldsParamObj );
+		retrieveVoucherAjax( fieldsParamObj, thisFormObj );
+
+	} // retrieveVoucher
+
+	//---------------------------
+	function resendEmail( thisFormObj )	
+	{
+		//console.log( $( thisFormObj ).parent().find("[name]") );
+
+		var fieldsParamObj = { event: '', email:'' };
+		getTheFormFields( thisFormObj, fieldsParamObj );
+		resendEmailAjax( fieldsParamObj, thisFormObj );
+
+	} // resendEmail
+	
+	//---------------------------
+	function popupMessage(	theTitle, 
+							theMessage,	
+							theMessageType )
+	{
+		theTitle = theTitle || '';
+		theMessage = theMessage || '';
+		theMessageType = theMessageType || 'error';
+		
+		
+		var thePopupBox = '.popup-div.general-alert-box';
+		
+		// determine what type of message it is success or error and act accordingly
+		//
+		$(thePopupBox).removeClass( 'alert-danger' );
+		$(thePopupBox).removeClass( 'alert-success' );
+		if( theMessageType == 'success'){ $(thePopupBox).addClass( 'alert-success' ); 
+										  //seoRegisterEnquirySuccess(); 
+										}
+		else 							{ $(thePopupBox).addClass( 'alert-danger' ); }
+		
+		// set the title and content of the message
+		//
+        $(thePopupBox + ' > .alert-title').html( theTitle ); // set the title of the message
+        $(thePopupBox + ' > .alert-content').html( theMessage ); // set the message in the content area
+
+		//Fade in the Popup and add close button
+		$(thePopupBox).fadeIn(300);
+		
+		// position the message box in the viewport - Set the center alignment padding + border
+		//
+		var popupTop	= ( $( window ).height() - ($(thePopupBox).height() + 24) ) / 2; 
+		var popupLeft 	= ( $( window ).width() - ($(thePopupBox).width() + 24) ) / 2; 
+		$(thePopupBox).css({ 'top': popupTop, 'left': popupLeft });
+		
+		// Add the mask to body
+		$('body').append("<div id='popup-div-mask'></div>");
+		$('#popup-div-mask').fadeIn(300);
+		
+
+	} // popupMessage
+	
+	//---------------------------
+	function seoRegisterEnquirySuccess() 
+	{
+		//console.log( 'In seoRegisterEnquirySuccess' );
+		
+		$.ajax({type: 	"POST",
+				url: 	"https://www.nationalpolyindustries.com.au/seo-enquiry-success/", 
+				success: function(result){}
+			   });				
+
+	} // seoRegisterEnquirySuccess
+	
+	//---------------------------
+	return 	{ 
+				lodgeInterest:		lodgeInterest, 
+				retrieveVoucher: 	retrieveVoucher,
+				resendEmail: 		resendEmail,
+				popupMessage:		popupMessage
+		
+			};
+	
+})(); // events
+
+	
+$(document).ready( function() 
+{
+    //---------------------------------------------------------------------------------------------
+    $('.popup-div.general-alert-box > a.close').click( function()   
+    { 
+	    $('.popup-div.general-alert-box').fadeOut(300 , function() 
+        {
+		    $('#popup-div-mask').remove();  
+	    }); 
+	    return false;
+    });
+	
+}); // $(document).ready
+
+
+</script>
+<script type="text/javascript">
+/*	
+	$(function() {
+
+		$( 'footer .info-bar .footer-enquire-now div.enquiry-content-wrapper label' ).focus( function() { 
+			$(this).prev().focus();
+		});
+
+	}); // $( document ).ready
+*/
+</script>
+
+<script type="text/javascript" src="https://nationalpolyindustries.com.au/wp-content/themes/3rdmill_nationalpoly_industries/assets/js/water-usage-calculator.js"></script>
+
+</body>
+</html>
+
+
+

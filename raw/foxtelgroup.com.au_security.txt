@@ -1,0 +1,15 @@
+# security.txt file for https://foxtelgroup.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: user@example.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-03-23T21:56:50+11:00
+
+# (optional) OpenPGP key:
+Encryption: https://foxtelgroup.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://foxtelgroup.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://foxtelgroup.com.au/hall-of-fame
