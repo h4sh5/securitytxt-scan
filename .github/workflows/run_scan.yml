@@ -2,7 +2,7 @@ name: Scan domains for security.txt
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * MON'
+    - cron:  '0 */2 * * *'
 
 jobs:
   scan:
@@ -24,7 +24,7 @@ jobs:
        echo nameserver 1.0.0.1 | sudo tee -a /etc/resolv.conf
 
     - name: run scan
-      run: timeout 10m ./sectxtscanner top-au-domains.txt || echo exited with $?
+      run: shuf top-au-domains.txt | timeout 1h ./sectxtscanner  || echo exited with $?
 
     - name: Push results
       run: |
