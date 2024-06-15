@@ -1,0 +1,34 @@
+name: Scan domains for security.txt
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * MON'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-go@v5
+      with:
+        go-version: '>=1.21.0'
+
+    - name: build
+      run: go build sectxtscanner.go
+
+    - name: run scan
+      run: ./sectxtscanner top-au-domains.txt
+
+    - name: Push results
+      run: |
+        git config --global user.name 'securitytxt-scan-bot'
+        git config --global user.email 'securitytxt-scan-bot@open-source.local'
+        git config --global branch.autoSetupMerge always
+        git config --global core.mergeoptions --no-edit
+        git config --global pull.rebase false
+
+        git add raw/ || echo nothing to add
+        git commit -m "new scan output $(date)"
+        git pull
+        git push 
+
