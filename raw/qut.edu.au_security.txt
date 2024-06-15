@@ -1,0 +1,6 @@
+Contact: mailto:security@qut.edu.au
+Expires: 2025-04-29T14:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.qut.edu.au/.well-known/security.txt
+Canonical: https://www.qut.edu.au/security.txt
+Policy: https://mopp.qut.edu.au/document/view.php?id=73

@@ -1,0 +1,5 @@
+Contact: security@downdetector.com
+Contact: security@ookla.com
+Preferred-Languages: en
+Canonical: https://downdetector.com/.well-known/security.txt
+Hiring: https://www.ookla.com/about/careers

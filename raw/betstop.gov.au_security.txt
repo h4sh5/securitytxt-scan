@@ -1,0 +1,5 @@
+Contact: https://www.betstop.gov.au/webform/feedback/
+Contact: mailto: neil.lefevre@ixup.com
+Expires: 2025-08-20T14:00:00.000Z
+Preferred-Languages: en
+Policy: https://www.betstop.gov.au/report-vulnerability/

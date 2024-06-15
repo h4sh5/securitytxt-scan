@@ -1,0 +1,15 @@
+# security.txt file for https://defence.nioa.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: admin@clearpixel.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-11-15T15:30:58+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://defence.nioa.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://defence.nioa.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://defence.nioa.com.au/hall-of-fame

@@ -1,0 +1,4 @@
+Contact: mailto:securitytxt@lwb.org.au
+Expires: Fri, 1 Apr 2022 00:00 +1000
+Preferred-Languages: en
+Canonical: https://www.lwb.org.au/.well-known/security.txt

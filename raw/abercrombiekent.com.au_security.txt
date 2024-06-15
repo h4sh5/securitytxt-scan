@@ -1,0 +1,15 @@
+# security.txt file for https://www.abercrombiekent.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: dev@evolution7.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-15T22:01:53+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.abercrombiekent.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.abercrombiekent.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.abercrombiekent.com.au/hall-of-fame

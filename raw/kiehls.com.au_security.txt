@@ -1,0 +1,14 @@
+# We value your findings !
+# 
+# Dear security researcher, if you are looking for this page is because you may
+# have found a security bug on our website. You have to know that our teams are
+# performing security tests on a regular basis on this website. However, we are
+# glad to count on the community to notify us in case a security issue findings
+# on our websites according to our Rules of Engagement.
+# 
+# We do have a VDP program available to manage your report.
+
+Contact: https://vdp.loreal.com
+Contact: mailto:bugbounty@loreal.com
+Expires: 2024-12-31T23:59:00.000Z
+Preferred-Languages: en

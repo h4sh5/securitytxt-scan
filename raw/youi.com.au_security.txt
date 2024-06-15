@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@youi.com
+Expires: 2024-01-25T02:01:00.000Z
+Encryption: https://www.youi.com.au/pgp-key
+Preferred-Languages: en
+Canonical: https://www.youi.com.au/.well-known/security.txt
+Policy: https://www.youi.com.au/about-us/security-vulnerability-disclosure-policy
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSJbdHAqkmGui8K327S6Kbfa+usGQUCZCEb/wAKCRDS6Kbfa+us
+GaYbAP9dZE9ET2Klu8bEJnUsUvXhS6JGTTIMGDNwxKDNzbNocQEAr6nkHz3yldH+
+znH6Tmx2W0NupSeAxovR5BHjSpEj+ww=
+=u+fS
+-----END PGP SIGNATURE-----

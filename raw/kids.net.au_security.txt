@@ -1,0 +1,31 @@
+<?
+//ini_set("session.cookie_domain",substr($_SERVER[HTTP_HOST],3));
+session_start();
+//echo session_id();
+
+include('/home/kidsnetau/dbconnect.php');
+
+mysql_select_db ("users")
+or die ('I cannot select the database because: '. mysql_error());
+
+
+//$query = "SELECT * FROM users WHERE username = '".$_SESSION[user][username]."' AND password = '".$_SESSION[user][password]."';";
+//print $query;
+
+//mysql_select_db ("users")
+//or die ('I cannot select the database because: '. mysql_error());
+//$result = mysql_query($query);
+//$num1 = mysql_num_rows($result);
+
+
+//IF ($num1 > '0') {
+
+//$_SESSION[user][loggedin] = '1';
+//$_SESSION[user][url] = '';
+//} ELSE {
+//$_SESSION[user][loggedin] = '0';
+//};
+
+//print_r($_SESSION[user]);
+
+?>

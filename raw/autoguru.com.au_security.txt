@@ -1,0 +1,8 @@
+Contact: mailto:security@autoguru.com.au
+
+Expires: 2025-01-31T02:59:00.000Z
+
+Preferred-Languages: en
+
+Canonical: https://autoguru.com.au/.well-known/security.txt
+

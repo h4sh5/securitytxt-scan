@@ -1,0 +1,15 @@
+# security.txt file for https://www.wilderness.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: nerds@carterdigital.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-14T03:25:51+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.wilderness.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.wilderness.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.wilderness.org.au/hall-of-fame

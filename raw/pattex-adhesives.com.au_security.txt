@@ -1,0 +1,7 @@
+For Coordinated Vulnerability Disclosure
+Contact: https://www.intigriti.com/
+Contact: https://www.henkel.com/security
+Expires: 2099-06-29T12:00:00.000Z
+Preferred-Languages: de, en
+Canonical: https://www.henkel.com/.well-known/security.txt
+

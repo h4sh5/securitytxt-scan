@@ -1,0 +1,14 @@
+# Email here for security reports
+Contact: mailto:security@volkis.com.au
+
+# Encryption is optional, but use the below key if you need to
+Encryption: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xB09DA8B36BC8034B
+
+# Accepted submissions get a mention below
+Acknowledgments: https://www.volkis.com.au/vulnerability-disclosure/#contributors
+
+# We prefer English submissions
+Preferred-Languages: en
+
+# Please read the policy below prior to submitting a bug
+Policy: https://www.volkis.com.au/vulnerability-disclosure/

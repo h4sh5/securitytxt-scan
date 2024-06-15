@@ -1,0 +1,15 @@
+# security.txt file for https://awl.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: team@mangochutney.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-06-16T08:16:46+09:30
+
+# (optional) OpenPGP key:
+Encryption: https://awl.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://awl.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://awl.org.au/hall-of-fame

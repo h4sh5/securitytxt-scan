@@ -1,0 +1,15 @@
+# security.txt file for https://www.nioa.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: user@example.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-03-04T00:56:48+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.nioa.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.nioa.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.nioa.com.au/hall-of-fame

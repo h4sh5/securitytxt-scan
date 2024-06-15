@@ -1,0 +1,2 @@
+Contact: mailto:security@v1.com.au
+Encryption: https://www.studentsuper.com.au/publickey.txt

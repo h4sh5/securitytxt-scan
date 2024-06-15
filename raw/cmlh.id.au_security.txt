@@ -1,0 +1,5 @@
+# Please report abusive content (including spam, privacy violations, etc) at https://www.tumblr.com/abuse
+Contact: https://hackerone.com/automattic/reports/new
+Policy: https://hackerone.com/automattic
+Acknowledgments: https://hackerone.com/automattic/thanks
+Hiring: https://www.tumblr.com/jobs

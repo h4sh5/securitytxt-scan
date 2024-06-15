@@ -1,0 +1,3 @@
+Contact: mailto:Vulnerability.Disclosure@industry.gov.au
+Policy: https://www.industry.gov.au/vulnerability-disclosure-policy
+Acknowledgement: https://www.industry.gov.au/vulnerability-disclosure-policy

@@ -1,0 +1,6 @@
+Contact: mailto:vulnerability@cba.com.au
+Expires: Thu, 30 Jun 2024 23:59 +1000
+Encryption: https://www.commbank.com.au/support/security/cba-vdp-pgp-public-key.asc
+Preferred-Languages: en
+Policy: https://www.commbank.com.au/support/security/vulnerability-disclosure-program.html
+Hiring: https://www.commbank.com.au/about-us/careers.html

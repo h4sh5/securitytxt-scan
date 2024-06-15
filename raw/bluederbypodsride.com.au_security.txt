@@ -1,0 +1,15 @@
+# security.txt file for https://bluederbypodsride.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: web@sgroup.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-15T22:01:31+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://bluederbypodsride.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://bluederbypodsride.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://bluederbypodsride.com.au/hall-of-fame

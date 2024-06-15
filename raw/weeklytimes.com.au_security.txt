@@ -1,0 +1,4 @@
+Contact: mailto:security@weeklytimes.com.au
+Expires: Wed, 5 Apr 2023 12:00 +1000
+Encryption: https://weeklytimes.com.au/public_html/.well-known/PGP-Key.txt
+Canonical: https://weeklytimes.com.au/public_html/.well-known/security.txt

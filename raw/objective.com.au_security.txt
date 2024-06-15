@@ -1,0 +1,13 @@
+Version: 2.0
+Objective Corporation - reporting security vulnerabilities
+ 
+Please report any security vulnerabilities identified within any Objective Product(s), services or websites to us via the Objective Support link below.
+ 
+When accessing the Objective Support page, no login is required to report a security issue, with users able to select "Continue as Guest" from the login screen.
+ 
+Once logged in as a guest, users can view previously reported security notifications via the "Security Issue" link at the bottom of the page, or raise a new Security Issue via the "Raise a Support Ticket" link at the top of the page.
+ 
+Contact: https://support.objective.com/
+ 
+Expires: 2025-06-30T12:00:00.000Z
+Preferred-Languages: en

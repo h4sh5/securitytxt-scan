@@ -1,0 +1,3 @@
+Contact: AppSec@AcushnetGolf.Com
+Policy: https://www.AcushnetGolf.Com/.well-known/appsec.html
+PGP Public Key: https://www.AcushnetGolf.Com/.well-known/pgp_public_key.txt

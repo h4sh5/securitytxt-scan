@@ -1,0 +1,6 @@
+Contact: https://bugcrowd.com/etsy
+Expires: 2025-05-24T04:00:00.000Z
+Acknowledgments: https://bugcrowd.com/etsy/hall-of-fame
+Preferred-Languages: en
+Policy: https://bugcrowd.com/etsy
+Hiring: https://etsy.com/careers

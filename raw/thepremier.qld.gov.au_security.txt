@@ -1,0 +1,2 @@
+Contact: mailto:infosec@premiers.qld.gov.au
+Encryption: https://www.premiers.qld.gov.au/.well-known/pgp-key.txt

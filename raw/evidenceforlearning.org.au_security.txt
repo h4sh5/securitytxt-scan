@@ -1,0 +1,15 @@
+# security.txt file for https://evidenceforlearning.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: eef@engageinteractive.co.uk
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-04-23T10:25:00+01:00
+
+# (optional) OpenPGP key:
+Encryption: https://evidenceforlearning.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://evidenceforlearning.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://evidenceforlearning.org.au/hall-of-fame

@@ -1,0 +1,2 @@
+Contact: mailto:vulnerabilitydisclosure@dewr.gov.au
+Policy: https://www.dewr.gov.au/using-site/vulnerability-disclosure-policy

@@ -1,0 +1,3 @@
+# If you would like to report a security issue please
+# please report it via the method below.
+Contact: alex@taxifare.com.au

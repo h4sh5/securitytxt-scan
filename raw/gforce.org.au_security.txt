@@ -1,0 +1,6 @@
+© Copyright - gforce
+
+gforce does not invite unsolicited penetration testing of its public website or other internet-accessible services.
+gforce does not operate a bug bounty program that awards payments (or other rewards) to those who may discover deficiencies with our systems.
+
+gforce encourages and welcomes the responsible disclosure of issues impacting the security of our systems. Please contact info[at]gforce[dot]org[dot]au if you would like to report such an issue.

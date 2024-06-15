@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+ 
+# If you would like to report a security issue, please contact us as below.
+Contact: cybersecurity@rba.gov.au
+Encryption: https://rba.gov.au/.well-known/pgp-key.txt
+Expires: Sun, 31 Dec 2024 00:00 +1000
+Preferred-Languages: en
+Canonical: https://rba.gov.au/.well-known/security.txt
+Hiring: https://careers.rba.gov.au
+# Thanks for helping out! We're working on developing more in this space to provide acknowledgements to security researchers.
+-----BEGIN PGP SIGNATURE-----
+ 
+iQIzBAEBCgAdFiEEGgMboDSRJB287sliaLjEpmUraO0FAmB/dj4ACgkQaLjEpmUr
+aO2LBg/+ItpVVtaM09VDBfQU/x8DdmLY2GErtUwDhsIwaR/iZ531agA5jfCl/VkQ
+obC70MyDtJ3E+oHlpKJy0q+rxu3Pa7ZTnGkab8XA4Nnmd2ZT/WZsHXCDywtvduXz
+p7evrgN/PsSe4wrEykZmvGY7A+0EvPEC65JiM8/4ygFkKKuY0c9UENwayNQhNcoh
+H9mqr+O6Rsg7XiOkloHednsxn36bex2fav58Sc/GCLdijaF7RF/QsWwP43f6YHI6
+Pi9NnPlQJ8cDJoEIid2gKGa3kQGVuuEEtkc09O1KX+7pS+y5+7yHN7zV34UKG6jf
+4w97J3N4jvJ330/a/78N3Y1trfX04Qp/9mGOCLnUuHNFcMnbSzmLi3Ok78Wpoddc
+JsnWUSnmo1QVsp838y3BG0uRip88iXra9YZfNg8kBqydXv1DoWDQFZQgMT21i4+6
+LvC4LzD3lbd3kQRtORFUu2H39g9fh/MWELqNGAagyx+1F5+zNw4iBe2tX5PVEjR2
+lsTwNjs0heW7VxC7ypK0HVbZnv+8emGxpqbJPpBmU+ygiCZPMhZIc+XTgK6sZyMT
+ZdvZnkdc5gWJVe26I7N9c/iVFBsxkteBDLk+ZojncTSgDHBcqezi7sc1nEuT0/QO
+p/3TvJtOWUtTGLMcXvXi6Ul0T1U9Hx9a4skLVcRzhOVXka/dcQI=
+=P9D8
+-----END PGP SIGNATURE-----

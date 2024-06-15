@@ -1,0 +1,3 @@
+Policy: https://www.finder.com.au/vulnerability-disclosure-policy
+Contact: https://www.finder.com.au/vulnerability-disclosure-policy
+Preferred-Languages: en

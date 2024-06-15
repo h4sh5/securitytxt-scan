@@ -1,0 +1,4 @@
+Contact: mailto:security@cpfc.com.au
+Expires: 2050-12-31T12:59:00.000Z
+Preferred-Languages: en
+Canonical: https://cpfc.au/.well-known/security.txt

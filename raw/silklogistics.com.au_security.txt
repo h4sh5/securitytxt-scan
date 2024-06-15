@@ -1,0 +1,4 @@
+Contact: mailto:security@silklogistics.com.au
+Contact: mailto:kaganit@silklogistics.com.au
+Expires: 2026-01-31T00:59:00.000Z
+Canonical: https://www.silklogisticsholdings.com.au/.well-known/security.txt

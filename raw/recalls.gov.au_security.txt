@@ -1,0 +1,3 @@
+Security.txt
+Contact: mailto:vulnerabilitydisclosure@accc.gov.au
+Policy: https://www.accc.gov.au/about-us/using-our-website/vulnerability-disclosure-policy
