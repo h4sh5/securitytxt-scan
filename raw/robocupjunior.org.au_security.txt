@@ -1,0 +1,6 @@
+Contact: mailto:digitalplatforms@robocupjunior.org.au
+Contact: mailto:president@robocupjunior.org.au
+Expires: 2024-12-31T01:00:00.000Z
+Preferred-Languages: en
+Canonical: https://robocupjunior.org.au
+Canonical: https://rcja.app

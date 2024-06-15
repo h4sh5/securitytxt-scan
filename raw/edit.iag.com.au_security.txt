@@ -1,0 +1,15 @@
+Contact: mailto:cybersecurity@iag.com.au
+Expires: Wed, 1 Jan 2025 00:00 +1000
+
+Preferred-Languages: EN
+
+Canonical: https://www.NRMA.com.au/.well-known/security.txt 
+Canonical: https://www.CGU.com.au/.well-known/security.txt 
+Canonical: https://www.sgio.com.au/.well-known/security.txt 
+Canonical: https://www.sgic.com.au/.well-known/security.txt 
+Canonical: https://www.iag.com.au/.well-known/security.txt 
+Canonical: https://www.wfi.com.au/.well-known/security.txt 
+Canonical: https://www.lsvcarinsurance.com.au/.well-known/security.txt 
+
+Policy: No paid bounties currently offered
+Hiring: https://careers.iag.com.au/ & https://careers.iag.co.nz/ 

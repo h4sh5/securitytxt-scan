@@ -1,0 +1,4 @@
+Contact: https://hackerone.com/kayak
+Contact: vulnerability-report@kayak.com
+Policy: https://www.kayak.com/security/
+Hiring: https://www.kayak.com/careers/all

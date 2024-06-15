@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:cyberteam+disclosure@monash.edu
+Contact: https://www.monash.edu/cybersecurity
+Expires: 2024-11-30T13:00:00.000Z
+Encryption: openpgp4fpr:e13256efd996264719974fc31a52946d7a71d665
+Encryption: https://monash.edu/.well-known/cyberteam.asc
+Preferred-Languages: English
+Canonical: https://monash.edu/.well-known/security.txt
+Policy: https://www.monash.edu/cybersecurity
+Policy: https://www.bugcrowd.com/resources/essentials/standard-disclosure-terms/
+Hiring: https://www.monash.edu/jobs
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE7jO+oMXEdD1Z/RveVTiGVTlCXuwFAmOABh8ACgkQVTiGVTlC
+XuxLYw/6A39/3M2d+U52ApTMifPNRsTtswPaKiwucQrk1LpxrzKfakfD2p+zuYuf
+p7BKTeXBQ/JS1evH4Ds7V6gKjn9sSd0lmlyRSMKsQ5K9XE4XV3wefqME2Q4J0bd5
+ZDoPvzbYi6cd48xhIpxp/ZAUp+E+1KunNI3PQBYLFfyt3pCMC8MvmHdP6LM3nqLX
+nm23278H/63oNL/+ljNfiZQ4rsfX5FlMSjHshw69YVcP1LBHEuWrgB1K8u5i2r0u
+7hdDsopX2ldqMhWl4NEVfqKRQ+bAWG0XVTYDVJPj2eApoyO5eV2s7WkfEnEa1bCu
+cM00G7Uc3RrMOURPii+o34MltnHNgUaRec/3vLnK8pOiV7/6kt4j1cbhyrUuQHMb
+LrOrWAXsLjaZIa9a3cG38Ia8bSd0VRKVlvE+FNuysfqgGbX6MaSUgaNlXFrEHGh1
+CBtjlpj/28CAVyeOlv6FLaa0g0ItsTWTzh/ZsMKn58+2DTZpjlvA7u+0DhaEMr9z
+4Whnbhfe/dSX8w46+GQ6qDEUsZx/qrdo0snRWGaA2qpnzsLX+Bs3dhaaP6qHGD90
+XkMJ4vtnMgWE3IayGytBmXD+o3hLfeTfagXLtjJ0xi/7t/en2kajurjMQZPtdX5o
+5R+SrfUKoQ6MqjyXeFpRYzB6TkDPirMhjpv1XreU8FmRMPbATEE=
+=mtnk
+-----END PGP SIGNATURE-----

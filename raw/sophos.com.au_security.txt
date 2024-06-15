@@ -1,0 +1,4 @@
+Contact: mailto:security-alert@sophos.com
+Contact: tel:https://www.sophos.com/security
+Policy: https://www.sophos.com/security
+Acknowledgments: https://www.sophos.com/en-us/legal/sophos-responsible-disclosure-policy/thanks.aspx

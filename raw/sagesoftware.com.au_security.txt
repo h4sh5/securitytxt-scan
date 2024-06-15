@@ -1,0 +1,7 @@
+Contact: mailto:security@sage.com
+Contact: mailto:soc@sage.com
+Expires: 2024-08-02T00:00:00.000Z
+Preferred-Languages: en
+Policy: https://www.sage.com/en-gb/trust-security/
+Acknowledgments:  Thank you for staying vigilant Sage Security Team
+                                   

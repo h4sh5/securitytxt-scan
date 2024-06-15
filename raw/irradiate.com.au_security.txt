@@ -1,0 +1,7 @@
+# Gday, thanks for checking out our security.txt file!
+# We're glad you're interested in helping us keep our website secure.
+# If you find a security vulnerability or cool bugs, please let us know as soon as possible at:
+
+Contact: info@irradiate.com.au
+
+# Happy hacking! o/

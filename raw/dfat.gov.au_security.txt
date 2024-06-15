@@ -1,0 +1,2 @@
+Contact: mailto:vulnerability.disclosure@dfat.gov.au
+Policy: https://www.dfat.gov.au/about-us/about-this-website/vulnerability-disclosure-policy

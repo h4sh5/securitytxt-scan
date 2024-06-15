@@ -1,0 +1,7 @@
+# security.txt file for https://linkupvictoria.org.au/ - more info: https://securitytxt.org/
+
+# (required) Contact email address for security issues
+Contact: mailto:info@brightlabs.com.au, anthony@brightlabs.com.au, devs@brightlabs.com.au
+
+# (required) Expiration date for the security information herein
+Expires: 2025-06-15T22:02:32+10:00

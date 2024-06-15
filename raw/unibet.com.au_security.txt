@@ -1,0 +1,10 @@
+# Our security address
+Contact: mailto:csirt@kindredgroup.com
+# Our OpenPGP key
+Encryption: https://keys.openpgp.org/search?q=csirt@kindredgroup.com
+# Our Security Policy
+Policy: https://www.kindredgroup.com/globalassets/documents/about/rfc2350.pdf
+# Our Bug Bounty Program
+Bug Bounty program: https://hackerone.com/kindred_group
+# Our acknowledgements
+Acknowledgements: https://hackerone.com/kindred_group/thanks

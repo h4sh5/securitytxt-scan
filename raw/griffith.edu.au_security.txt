@@ -1,0 +1,4 @@
+Contact: mailto:security-reports@griffith.edu.au
+Preferred-Languages: English
+Policy: No paid bounties currently offered
+Hiring: https://www.griffith.edu.au/jobs/search-jobs

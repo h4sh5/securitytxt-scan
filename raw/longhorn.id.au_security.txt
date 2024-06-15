@@ -1,0 +1,4 @@
+Contact: https://keybase.io/encrypt#gadjet
+Encryption: https://keybase.io/gadjet/key.asc
+Preferred-Languages: en
+Canonical: https://unrelated.net.au/.well-known/security.txt

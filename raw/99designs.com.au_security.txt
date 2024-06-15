@@ -1,0 +1,4 @@
+Contact: mailto:bugbounty@cimpress.com
+Preferred-Languages: en
+Canonical: https://99designs.com/.well-known/security.txt
+Hiring: https://99designs.com/about/jobs

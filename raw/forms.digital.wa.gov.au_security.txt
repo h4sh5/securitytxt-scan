@@ -1,0 +1,5 @@
+Contact: https://www.jotform.com/vulnerability-disclosure-program
+Expires: 2024-02-01T00:00:00.000Z
+Preferred-Languages: en
+Policy: https://www.jotform.com/vulnerability-disclosure-program/#program-rules
+Hiring: https://www.jotform.com/jobs/

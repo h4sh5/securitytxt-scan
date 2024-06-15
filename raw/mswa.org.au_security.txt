@@ -1,0 +1,15 @@
+# security.txt file for https://mswa.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: teverts@thebrandagency.co
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-15T20:01:11+08:00
+
+# (optional) OpenPGP key:
+Encryption: https://mswa.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://mswa.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://mswa.org.au/hall-of-fame

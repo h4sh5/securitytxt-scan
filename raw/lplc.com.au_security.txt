@@ -1,0 +1,15 @@
+# security.txt file for https://lplc.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: devs@yump.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-06-15T22:02:11+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://lplc.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://lplc.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://lplc.com.au/hall-of-fame

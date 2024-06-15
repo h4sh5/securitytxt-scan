@@ -1,0 +1,15 @@
+# security.txt file for https://www.quitcentre.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: michael@northmoststudio.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T08:48:34+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.quitcentre.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.quitcentre.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.quitcentre.org.au/hall-of-fame

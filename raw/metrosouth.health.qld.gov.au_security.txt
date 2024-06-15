@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@catalyst-au.net
+OpenBugBounty: https://openbugbounty.org/bugbounty/Catalyst_IT_AU/
+Encryption: https://openpgpkey.catalyst-au.net/.well-known/openpgpkey/catalyst-au.net/hu/t5s8ztdbon8yzntexy6oz5y48etqsnbb
+Preferred-Languages: en
+Canonical: https://www.catalyst-au.net/.well-known/security.txt
+Policy: https://www.catalyst-au.net/information-security-policy
+Hiring: https://www.catalyst-au.net/jobs
+Expires: 2024-02-17T00:00:00z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEGlYHinKCYIxAhSw22c4khTxmHaMFAmEKECEACgkQ2c4khTxm
+HaPpvRAApGRy4YFmETQYllXlK40GDB3HBlTzwXtCrNmnVpaEtCoYBdRI2zqXQmyD
+W8ZKTDetHjSXQZQHSb3+co+TI72eOgyMgWxZ0BPNDex7DA3fN/5QtJVpzW9jOnnW
+DUX2fEODsQjymrqVEXzSeehxqXZANYXUCmp6+PuZLbm9ULUiN/rMZsLShWw0pWpX
+JRcDf27c2joSwdoMB7G9XxjAzaUplXBNCRp2i5UFmAsMLLHyVtbbBTDG/cLEsgPV
+OBg1CzSvVEYjUxbTYaajXVgjnKbdWVGUeaRmy0GPOtzsW5DT1pN68JIMPRPrtFZb
+VdyTaN7n1FbQlKwwoJOhErGPkjKZkFlkwBFBWH/eRjb2Xnia/LDO2AzIiYN0rjSt
+wwoXvJHy/Dw3Tshi5QEfMGw+R6H3Pe/W5nO7ZtJliAnfJvBvZ6V96ZvHiSICDR+I
+4IMEhlF6RPupYqjooIwhdHqX3u4NeAHAcrn3hYqLClCmGohazoBX28wUmX7+OrPY
+HhABQ0gTYnlMgnl34lIMuwOwt7BjhcZ4X+CADBXuVSaPGgIZQ9T3qqR8RMOQlnPk
+60gFd1LFXcFBLTqqmJIQ0eujDgbYt9KMBDfdf4r2+JNdULRG7YNsADfWGHicyFZ/
+Yx4Q/6rTcfS5k+mCtfRYgMosPeVBsBl+vvt56kjC/kGuDyZOu8c=
+=9jtN
+-----END PGP SIGNATURE-----

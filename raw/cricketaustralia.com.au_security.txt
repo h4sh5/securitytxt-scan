@@ -1,0 +1,5 @@
+Contact: mailto:vulnerabilitydisclosures@cricket.com.au
+Expires: 2024-11-30T12:59:00.000Z
+Acknowledgments: https://www.cricket.com.au/vulnerability-disclosure-program/
+Preferred-Languages: en
+Policy: https://www.cricket.com.au/vulnerability-disclosure-program/

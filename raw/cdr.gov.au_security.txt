@@ -1,0 +1,3 @@
+Contact: mailto:security@cdr.gov.au
+Encryption: https://www.cdr.gov.au/sites/default/files/2023-02/pgp-key.txt
+Policy: https://www.cdr.gov.au/resources/responsible-disclosure-security-vulnerabilities-policy

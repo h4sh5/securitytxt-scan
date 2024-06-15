@@ -1,0 +1,15 @@
+# security.txt file for https://cotasa.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: web@simple.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-06-16T08:17:17+09:30
+
+# (optional) OpenPGP key:
+Encryption: https://cotasa.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://cotasa.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://cotasa.org.au/hall-of-fame

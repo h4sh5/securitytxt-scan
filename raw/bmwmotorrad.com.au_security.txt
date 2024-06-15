@@ -1,0 +1,12 @@
+Expires: 2025-05-05T07:00:00.000Z
+Contact: https://www.bmwgroup.com/en/general/Security.html
+Contact: https://www.bmwgroup.com/de/general/Security.html
+Contact: mailto:cert@bmw.de
+Preferred-Languages: en,de
+Encryption: https://www.bmwgroup.com/content/dam/grpw/websites/bmwgroup_com/general/security/cert.txt
+Policy: https://www.bmwgroup.com/en/general/Security.html
+Policy: https://www.bmwgroup.com/de/general/Security.html
+Acknowledgments: https://www.bmwgroup.com/en/general/Security.html
+Acknowledgments: https://www.bmwgroup.com/de/general/Security.html
+
+

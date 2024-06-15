@@ -1,0 +1,3 @@
+Contact: security@bitly.com
+Encryption: https://bitly.com/security_pgp.txt
+Disclosure: Partial

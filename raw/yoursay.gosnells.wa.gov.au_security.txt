@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# Our security address
+Contact: mailto:security@harvestdp.com
+# Expiry
+Expires: 2025-03-15T00:00:00.000Z
+# Our OpenPGP key
+Encryption: https://harvestdp.com/security-research/pgp-key.txt
+# Our security policy
+Policy: https://harvestdp.com/security-research-policy
+# Preferred languages
+Preferred-Languages: en
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEt4JLwu2orT+HjEQSa1ITO/0oB8kFAmXziVMACgkQa1ITO/0o
+B8lL+wgAj3PQLNPhglFAoCE5hVgbNe6Av5kW+biJdrkV380YA9O9SbH/4y9x5Nub
+ioxtlBMBHYmvT7AoZfstOes531KLedILC80tLzhnK2QpvuM2utAiwcwyhAR9EUnS
+LE/IqG26EAStQVfIl4nJf8zbQZyTY58kOjPlBWZSTIsb/Hl3RTWo0/r3sGqccv2b
+qHliwoRfGGlRP2+4In6iJcUaxj/HQ5uD1P+8yhzoUWx4XkPGJjtUlf6gJGMj7WLb
+C9GEeJuZkn9rj6n3gziTMUDA7uBJGJe48Eo0DNN3p9BjefSDml1AtAUh2Tw1+y85
+RzmkjJJxH2m0WtgN3rwtxIpoIjbUnw==
+=m9S/
+-----END PGP SIGNATURE-----

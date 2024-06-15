@@ -1,0 +1,15 @@
+# security.txt file for https://dubbo.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: web@simple.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-06-16T08:42:20+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://dubbo.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://dubbo.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://dubbo.com.au/hall-of-fame

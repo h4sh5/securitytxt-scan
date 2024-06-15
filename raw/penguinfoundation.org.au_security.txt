@@ -1,0 +1,15 @@
+# security.txt file for https://penguinfoundation.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: web@simple.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T08:12:33+09:30
+
+# (optional) OpenPGP key:
+Encryption: https://penguinfoundation.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://penguinfoundation.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://penguinfoundation.org.au/hall-of-fame

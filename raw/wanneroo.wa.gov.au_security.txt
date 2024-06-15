@@ -1,0 +1,4 @@
+Contact: mailto:cyber@wanneroo.wa.gov.au
+Expires: 2025-03-16T16:01:00.000Z
+Preferred-Languages: en
+Canonical: https://www.wanneroo.wa.gov.au/.well-known/security.txt

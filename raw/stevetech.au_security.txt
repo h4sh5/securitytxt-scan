@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# security.txt formatted file: https://securitytxt.org/
+
+# I'm trying to avoid bots, you can add anything before the '@' (it's a wildcard)
+# or use the email on this page:
+Contact: https://horvath.au
+Preferred-Languages: en
+
+# My PGP key, mostly just used for git commits, but I can sign emails on request
+Encryption: https://horvath.au/pgp-key.asc
+
+Canonical: https://horvath.au/.well-known/security.txt
+Expires: 2024-05-10T14:00:00.000Z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEWf5ulVknXww6qoigVpnKd2YqUywFAmXqyPkACgkQVpnKd2Yq
+UyymvQ/8CIoKnSXE7i5P0iy0ah2Gtbiepw0+wJQyVshBbhpHhZgaFWQnvSnT2Y58
+hRlL0KfJ9J4kfQ3tNSeegnuktB8KyJGb/D7wAGouw+kKv9rg55Xg0AJDcYDjaY67
+Wvu5+GueKO0X51mrg/98vQt8PD5um1pGC2raFeAnnI2TGw24LijPzynmO4X5RdHp
+ZO8lUguY5GBlhq7gqg0HVs0hx1tRoF2vZgZm8AdvPZAwB3Ntzi3EQYFlYLIdnbA6
+gIgYXBnkv7G+QNQUe5gSPMxtlDRKIYIboggaJf2OaWA2YdkUDVbgcRz+aCMVGR7g
+/aukRmqTzKabWe3SZle/lbpRYJiPPrA7X7jy2MFIEkh/d+6vzNIX45mSxR67yEkT
+WluyVPT9fqyYNNAqnFvfYRZF/asZLnSnV7dobgUuhMtnSi2WHqj1KVnrC2ArTg/j
+HqZF4YnMB80EMXt5+jMxkZ5rutNtNROte1eBLy5E1rYYT9l48GAW2GYG3SZdAlnf
+e5kMIPvNK8kLMHaJAUaZjGE+kxuiCnfkIvArcGgwS6VdO0ZaVK/aXN7ItkDcxT+g
+DD+LZelAIM3XKSvnlRpaHNlQ9njauypjYRkn7lECxNHNGpno7xS2gFFPFcsH3c4j
+tMY7bU3Q5PuhzDjyrsSSvgspQU1UaGBXPZ/VjzmbelBqJfjAnJE=
+=rqvn
+-----END PGP SIGNATURE-----

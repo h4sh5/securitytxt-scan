@@ -1,0 +1,15 @@
+# security.txt file for https://explore.fundingcentre.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: web@sgroup.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-06-15T22:02:44+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://explore.fundingcentre.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://explore.fundingcentre.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://explore.fundingcentre.com.au/hall-of-fame

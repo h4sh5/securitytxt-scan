@@ -1,0 +1,10 @@
+# To report a vulnerability, please phone us on +61 02 8305 2100 and email our security address.
+# For additional information refer to our vulnerability disclosure policy
+
+# Our Security Address:
+Contact: securityresponse@intechiq.com
+
+#Our Vulnerability Disclosure policies:
+Policy: https://www.intechsolutions.com.au/security/
+
+Canonical: https://www.intechsolutions.com.au/.well-known/security.txt
