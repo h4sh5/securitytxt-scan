@@ -1,0 +1,59 @@
+<title>security.txt checker</title>
+
+<style>
+	* {
+		font-family: monospace;
+	}
+	#statusbox {
+		color: red;
+	}
+</style>
+
+<h2>security.txt checker</h2>
+
+<p>Note: this website does not make live requests to the target domain, but finds results from this <a href=https://github.com/h4sh5/securitytxt-scan target=_blank>Github repo</a>.</p>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<body>
+
+	<p>Domain: <input id=domain name=domain></p>
+	<p><button id=checkbutton onclick=check()>check</button></p>
+
+	<div id=statusbox></div>
+	<div id=result></div>
+
+
+</body>
+
+<script>
+
+function check(e) {
+	var input = document.getElementById('domain').value;
+	var domain = input.replace(/\s/g, "").toLowerCase(); //remove spaces
+	var filepath = 'raw/' + domain + "_security.txt";
+	fetch(filepath).then(async function (response) {
+		if (!response.ok) {
+			document.getElementById("result").innerText = "";
+			document.getElementById("statusbox").style["color"] = "red";
+			document.getElementById("statusbox").innerText = "No security.txt found for " + domain + ": "+ response.status + " " + response.statusText;
+		} else {
+			document.getElementById("statusbox").innerText = "security.txt found for " + domain + ":";
+			document.getElementById("statusbox").style["color"] = "#008631"; // green
+			document.getElementById("result").innerText = await response.text();
+		}
+		
+	});
+
+}
+
+document.getElementById("domain").addEventListener("keypress", function(event) {
+	if (event.key === "Enter") {
+	    // Cancel the default action, if needed
+	    event.preventDefault();
+	    // Trigger the button element with a click
+	    document.getElementById("checkbutton").click();
+	  }
+});
+
+</script>
