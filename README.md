@@ -1,6 +1,8 @@
 # security.txt scanning
 
-Scan websites for security.txt files
+Scan websites for security.txt files.
+
+A front-end interface for getting the results for a domain is available [here](https://h4sh5.github.io/securitytxt-scan/).
 
 ## Usage
 
