@@ -1,0 +1,11 @@
+# security.txt for zoho.com; Zoho (zoho.com) is owned and operated by Zoho Corporation (zohocorp.com)
+# To report abuse of our services, please contact: abuse@zohocorp.com
+
+Contact: https://bugbounty.zohocorp.com/bb/#/submitbug
+Contact: mailto:security@zohocorp.com
+Encryption: https://www.zohocorp.com/security/zoho-security-pub.txt
+Policy: https://bugbounty.zohocorp.com/bb/info
+Acknowledgements: https://bugbounty.zohocorp.com/bb/info#hof
+Canonical: https://www.zoho.com/.well-known/security.txt
+Preferred-Languages: en
+Expires: 2024-12-31T00:00:00.000Z
