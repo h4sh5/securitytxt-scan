@@ -1,0 +1,4 @@
+Contact: mailto:socREMOVETHIS@page.com
+Expires: 2024-10-09T16:05:24+11:00
+Signature: https://www.michaelpage.com.au/.well-known/security.txt.sig
+Preferred Languages: en

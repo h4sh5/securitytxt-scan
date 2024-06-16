@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<meta content='initial-scale=1,user-scalable=no,maximum-scale=1' name='viewport'>
+<title>Security | Online payments | Pin Payments</title>
+<link href='/favicon.ico' rel='shortcut icon' type='image/x-icon'>
+<link href='/assets/application-12c9a21999474f6fd07faa240551aade8492e0d150143da3216b1b14f3625353.css' rel='stylesheet'>
+<!--[if IE]>
+<link href='/assets/ie-12d047df60dedf6d9a881326ee40c3f197d1decc0c1df82df0046b3b3f69b784.css' rel='stylesheet'>
+<![endif]-->
+<script src='/assets/application-6cf9c7da483c3e51785b6850f99c9713fbc68079cba8fafe2bf7d0d5eca2136c.js'></script>
+<meta content='aab429a3a94056950136fb6db8578c2c' name='p:domain_verify'>
+<link href='//dashboard.pinpayments.com' rel='dns-prefetch'>
+<title>Security | Online payments | Pin Payments</title>
+<meta content='66R7k4Tq1lqRdeS5wLo0TuHmUlOrsbl5XEVPtakJ2AI' name='google-site-verification'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'>
+<link href='/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'>
+<link href='/favicon.ico' rel='shortcut icon' type='image/x-icon'>
+<link href='/manifest.json' rel='manifest'>
+<link color='#cc1111' href='/safari-pinned-tab.svg' rel='mask-icon'>
+<meta content='Pin Payments' name='apple-mobile-web-app-title'>
+<meta content='Pin Payments' name='application-name'>
+<meta content='#ffffff' name='theme-color'>
+<meta content='Pin Payments takes several steps to prevent unauthorised disclosure or modification of sensitive information, including being a PCI-DSS Level 1 compliant provider' name='description'>
+<meta content='Pin Payments takes several steps to prevent unauthorised disclosure or modification of sensitive information, including being a PCI-DSS Level 1 compliant provider' property='og:description'>
+<meta content='Pin Payments' property='og:site_name'>
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='https://pinpayments.com/security.txt' property='og:url'>
+<link href='https://pinpayments.com/security.txt' rel='canonical'>
+<meta content='https://pinpayments.com/opengraph/legal/security/og.png' property='og:image'>
+<meta content='https://pinpayments.com/opengraph/legal/security/fb.png' property='fb:image'>
+<meta content='560' property='og:image:width'>
+<meta content='300' property='og:image:height'>
+<meta content='600' property='fb:image:width'>
+<meta content='315' property='fb:image:height'>
+<meta class='swiftype' content='Security' data-type='string' name='title'>
+<meta class='swiftype' content='Security' data-type='string' name='sections'>
+<meta class='swiftype' content='PCI Compliance' data-type='string' name='sections'>
+<meta class='swiftype' content='Security Audits' data-type='string' name='sections'>
+<meta class='swiftype' content='Sensitive Information Storage' data-type='string' name='sections'>
+<meta class='swiftype' content='SSL' data-type='string' name='sections'>
+<meta class='swiftype' content='Hosted Fields' data-type='string' name='sections'>
+<meta class='swiftype' content='Pin Payments takes several steps to prevent unauthorised disclosure or modification of sensitive information, including being a PCI-DSS Level 1 compliant provider' data-type='string' name='description'>
+<meta class='swiftype' content='Security, Pci Compliance' data-type='string' name='keywords'>
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name" : "Pin Payments",
+  "url": "https://pinpayments.com",
+  "sameAs": [
+    "https://facebook.com/pinpayments",
+    "https://twitter.com/pinpayments",
+    "https://instagram.com/pinpayments",
+    "https://au.linkedin.com/company/pin-payments"
+  ],
+  "logo": "https://pinpayments.com/logo_landscape.png",
+  "image": "https://pinpayments.com/pin-thumb.png",
+  "description": "Take card payments online for your business with Pin Payments. No merchant account required. Easy setup.",
+  "telephone": "1300 364 800",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Melbourne",
+    "addressRegion": "VIC",
+    "streetAddress": "Level 4, 356 Collins Street",
+    "postalCode": "3000"
+  },
+  "contactPoint": {
+    "@type" : "ContactPoint",
+    "url": "https://pinpayments.com/contact",
+    "email": "support@pinpayments.com",
+    "contactType": "customer support"
+  }
+}
+
+</script>
+
+
+</head>
+<body>
+<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
+  analytics.load("q0qzxsu092");
+  analytics.page("Legal - Security");
+  }}();
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MT8L');</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MT8L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZM0X1DJ3VL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  var gtagId = 'G-ZM0X1DJ3VL'; // also called GA4 measurement Id
+  gtag('js', new Date());
+  gtag('config', gtagId);
+  
+  // Fetch GA session id and number to pass along to Gateway via form submit
+  var sessionIdPromise = new Promise(function(resolve) {
+    gtag('get', gtagId, 'session_id', resolve);
+  });
+  var sessionNumPromise = new Promise(function(resolve) {
+    gtag('get', gtagId, 'session_number', resolve);
+  });
+  
+  Promise.all([sessionIdPromise, sessionNumPromise]).then(function(session_data) {
+    var sessionId;
+    var sessionNumber;
+    var sessionIdFormField;
+    var sessionNumberFormField;
+  
+    if (session_data) {
+      sessionId = session_data[0];
+      sessionNumber = session_data[1];
+    }
+    if (document.getElementById('ga_session_id')) {
+      sessionIdFormField = document.getElementById('ga_session_id');
+    }
+    if (document.getElementById('ga_session_number')) {
+      sessionNumberFormField = document.getElementById('ga_session_number');
+    }
+    if (sessionIdFormField && sessionId) {
+      sessionIdFormField.value = sessionId;
+    }
+    if (sessionNumberFormField && sessionNumber) {
+      sessionNumberFormField.value = sessionNumber;
+    }
+  });
+</script>
+
+<header class='header' data-swiftype-index='false' role='banner'>
+<a href="/"><img alt="Pin Payments Official Logo" width="128px" height="24px" class="header__logo" src="/assets/logo/default-0f145e50fd62a941a93d62ea63c5778f6edf37141e191f47f0d5b023e10f08b6.svg" />
+</a><div class='header-wrapper'>
+<div class='header-path'>
+<nav class='header-nav'>
+<ol class='header-nav-main'>
+<li class='header-nav-main__item dropdown'>
+<button class="header__btn dropdown__btn">Solutions</button>
+<div class='dropdown_content'>
+<ol class='header-nav-sub'>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/solutions/ecommerce"><img alt="Shopping Cart icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/cart-5b2bbe6fa90ff834fe73ed0ede3e6ea14c3ebed719bff2c4f6c780cbbecf58e2.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Ecommerce</span>
+<span class='header-nav-sub-content__detail'>Accept online payments from your website or in-app.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/solutions/recurring-payments"><img alt="Loop icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/loop-7fb8de9b1dfdcf5e8aea7330cf8aa955a1b590794c16409149631322d351c306.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Recurring Payments</span>
+<span class='header-nav-sub-content__detail'>Collect payments using subscription and payment plans.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/solutions/payments-for-platforms"><img alt="Platform icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/platform-5fbf03f726236149b42a6279af05c24e06b0a62513cbfedc2c565a678abc4dcf.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Payments for Platforms</span>
+<span class='header-nav-sub-content__detail'>Embed payments features into your platform.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/solutions/xero"><img alt="Xero Merchant White logo" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/xero-white-ce391c0318f953e20677d7e5a03ac7491b43692ee92ed7dbc5fa37bda220b2e3.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Xero</span>
+<span class='header-nav-sub-content__detail'>Accept payments for invoices, with automated reconciling.</span>
+</div>
+</a></li>
+</ol>
+</div>
+</li>
+<li class='header-nav-main__item dropdown'>
+<button class="header__btn dropdown__btn">Features</button>
+<div class='dropdown_content'>
+<ol class='header-nav-sub'>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/support/guides/cards"><img alt="Credit Card Strip icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/credit_card-9cb375a12a593ecc3f68d7881d0ec417fe8f59cd419488671543e8f87092d034.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Cards</span>
+<span class='header-nav-sub-content__detail'>Process domestic and international card transactions.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/features/foreign-currencies"><img alt="Foreign Currency yen, euro and pound symbol icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/foreign_currency-c0132bfc73d48238fe7d5f5bef9b7a9b721669152e336694e1ca589717256d7a.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Foreign Currencies</span>
+<span class='header-nav-sub-content__detail'>Bill overseas customers in their local currency.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/features/manage-payments"><img alt="Person with a settings icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/manage-people-138c5c51ab1a3aed2d3367e799a64775743ec317f796f8cddcbdcb0b6b5012fc.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Manage Payments</span>
+<span class='header-nav-sub-content__detail'>Process and refund payments from your dashboard.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/support/guides/payment-pages"><img alt="Two connected lines icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/connected-lines-1af96677ef6124745ebbd3d192fa23f2da5b18409581736486320b822169125e.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Payment Page</span>
+<span class='header-nav-sub-content__detail'>Secure hosted payment page to share with customers.</span>
+</div>
+</a></li>
+</ol>
+</div>
+</li>
+<li class='header-nav-main__item dropdown'>
+<button class="header__btn dropdown__btn">Developers</button>
+<div class='dropdown_content'>
+<ol class='header-nav-sub'>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/developers/integration-guides"><img alt="Puzzle Piece icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/puzzle-piece-0464783b54808108f42a31dd71343f97ddfcdf298f40ce6285db842b5423b8c7.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Integration Guides</span>
+<span class='header-nav-sub-content__detail'>Step-by-step instructions for completing your integration.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/developers/api-reference"><img alt="Open and Close arrow icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/open_close_arrow-0c15d1c8fad7c5f185563de28c28e2c060b7cedd6bf71aeae2cbe5d6c21e3037.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>API Reference</span>
+<span class='header-nav-sub-content__detail'>A full list of our API endpoints and capabilities.</span>
+</div>
+</a></li>
+</ol>
+</div>
+</li>
+<li class='header-nav-main__item dropdown'>
+<button class="header__btn dropdown__btn">Support</button>
+<div class='dropdown_content'>
+<ol class='header-nav-sub'>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/support/getting-started"><img alt="Rounded play button Icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/play-button-6b1ab8e04541dbbebddf02692db16a2060727fc0e09b590775553c6e6cb95251.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Getting Started</span>
+<span class='header-nav-sub-content__detail'>Get clarify on what's required to setup an account.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/support/faqs"><img alt="Stacked question icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/stacked-question-67fae42a18a314f9b6f385b2107a8a74ad1fae2210d0305b484709bbe86f1f19.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Frequently Asked Questions</span>
+<span class='header-nav-sub-content__detail'>Learn from questions that have been asked before.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/support/guides"><img alt="Book icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/book-84f5b21ded0051dd3b6b6d5c1fdb37e14a653d33690f3805b0d2df4d83eb8d3e.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Product Guides</span>
+<span class='header-nav-sub-content__detail'>Guides to help you get the most from your account.</span>
+</div>
+</a></li>
+<li class='header-nav-sub__item'>
+<a class="header__link header__link--flex" href="/support/contact"><img alt="Support with Phone icon" width="32" height="32" class="header-nav-sub__icon" src="/assets/icons/support-af4d204b467600c4b2d49a7b7891cf15084ec0c0055b6c7b4a48028b4ef06386.svg" />
+<div class='header-nav-sub-content'>
+<span class='header-nav-sub-content__name'>Contact Support</span>
+<span class='header-nav-sub-content__detail'>Have a conversation with us, over email or phone.</span>
+</div>
+</a></li>
+</ol>
+</div>
+</li>
+<li class='header-nav-main__item'><a class="header__link" href="/pricing">Pricing</a></li>
+<li class='header-nav-main__item header--for-mobile'><a class="header__link" href="https://dashboard.pinpayments.com/login">Log In</a></li>
+</ol>
+</nav>
+
+<div class='header-search'>
+<form class="search-form" action="/search" accept-charset="UTF-8" method="get"><input class="global-search search__input search__input--sm" type="search" />
+<button type="submit" class="search__button">Go</button>
+</form><script>
+  (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+  (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+  e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+  })(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+  
+  _st('install','j3R1CLDj7u41LzLQ1S3f','2.0.0');
+</script>
+
+</div>
+</div>
+</div>
+<div class='header-access'>
+<a class="header__link header--for-desktop" href="https://dashboard.pinpayments.com/login">Log In</a>
+<a class="btn btn--red" href="/get-started">Get Started</a>
+<button class="header__menu-toggle"><span>Menu</span>
+</button></div>
+</header>
+
+<main><section class='vpadding'>
+<div class='pin-wrapper'>
+<h1>Security</h1>
+<p>Pin Payments takes several steps to prevent unauthorised disclosure or modification of sensitive information.</p>
+<h2>PCI Compliance</h2>
+<p>As a Level 1 Service Provider, our software, systems and procedures have been assessed and certified to the highest level of compliance provided by the <a target="_blank" rel="noopener noreferrer" href="https://www.pcisecuritystandards.org/pci_security/">PCI Data Security Standards</a>.</p>
+<h2>Security Audits</h2>
+<p>Pin Payments' Product and website are subject to periodic manual and automated security audits. Audits are conducted internally as well as by third parties.</p>
+<h2>Sensitive Information Storage</h2>
+<p>Credit card information is encrypted and stored in a system completely isolated from Pin Payments. At no time is unencrypted card data stored on disk either inside Pin Payments' system or in the card storage system. Internally card information is referenced only through the use of a token. The token is not derived from card information in any way.</p>
+<h2>SSL</h2>
+<p>All requests to our website and API are forced to use HTTPS to ensure encrypted communications.</p>
+<h2>Hosted fields</h2>
+<p><a href="/developers/integration-guides/hosted-fields">Hosted Fields</a> provides a library to outsource your acceptance of credit card payments to minimize your PCI requirements, while integrating seamlessly with your existing pages and styles. Using Hosted Fields allows a website to accept payments without ever handling credit card data.</p>
+</div>
+</section>
+</main>
+<footer class='footer' data-swiftype-index='false'>
+<div class='footer-company'>
+<img alt="Pin Payments logo" width="128px" class="footer__logo" src="/assets/logo/white-ee12f548da651432a5d927fea2bc85c82d15cd37801c6e78d1e058db0159526c.svg" />
+<address class='footer__address'>Southern Payment Systems Pty Ltd
+t/a Pin Payments
+ABN: 46 154 451 582
+Level 4, 356 Collins St,
+Melbourne VIC 3000</address>
+<div class='footer-checkout'>
+<span class='footer-checkout__detail'>A <a target="_blank" rel="noopener" class="footer__link" href="https://checkout.com">Checkout.com</a> company</span>
+<a target="_blank" rel="noopener" class="footer__link" href="https://checkout.com"><img alt="Checkout.com logo" width="162px" class="footer-checkout__logo" src="/assets/logo/merchant/checkout-com-0172abd9f2f98d0f7e5a88e7a1b00807ba33249fef1c2b1737973ff8a78cd9ee.svg" />
+</a></div>
+<ol class='footer-document'>
+<li class='footer-document__item'><a class="footer__link" href="/privacy">Privacy Policy</a></li>
+<li class='footer-document__item'><a class="footer__link" href="/terms">Terms</a></li>
+<li class='footer-document__item'><a class="footer__link" href="/security">Security</a></li>
+<li class='footer-document__item'><a class="footer__link" href="/status">Status</a></li>
+</ol>
+<ul class='footer-social'>
+<li class='footer-social__item'>
+<a target="_blank" rel="noopener" class="footer__link" href="https://facebook.com/pinpayments"><img alt="Facebook logo" width="16px" height="16px" class="footer-social__logo" src="/assets/icons/facebook-4a01b86ba219dd75366ea9aecaf0bde83a03b0bde65a2c5b72b51063cbf79772.svg" />
+</a></li>
+<li class='footer-social__item'>
+<a target="_blank" rel="noopener" class="footer__link" href="https://twitter.com/pinpayments"><img alt="X logo" width="16px" height="16px" class="footer-social__logo" src="/assets/icons/x-252137732ca3176223e5120f8615d4311d08ea1a005aef907c5d49ea1228800a.svg" />
+</a></li>
+<li class='footer-social__item'>
+<a target="_blank" rel="noopener" class="footer__link" href="https://instagram.com/pinpayments"><img alt="Instagram logo" width="16px" height="16px" class="footer-social__logo" src="/assets/icons/instagram-e3d5bde288ecc0fa5e846638130eb5b22bc47d1a24f4740db2b7ff4ba639cb1f.svg" />
+</a></li>
+<li class='footer-social__item'>
+<a target="_blank" rel="noopener" class="footer__link" href="https://au.linkedin.com/company/pin-payments"><img alt="Linked-In logo" width="16px" height="16px" class="footer-social__logo" src="/assets/icons/linkedin-01f5fede2038aa13d54e32443be04053d4bd872e80b29455d49ad463087eccdd.svg" />
+</a></li>
+</ul>
+</div>
+<nav class='footer-nav'>
+<ol class='footer-nav-menu footer-nav-main'>
+<li class='footer-nav-main__item'>
+<span class='footer-nav-main__name'>Solutions</span>
+<ol class='footer-nav-menu footer-nav-sub'>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/solutions/ecommerce">eCommerce</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/solutions/recurring-payments">Recurring Payments</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/solutions/payments-for-platforms">Payments for Platforms</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/solutions/xero">Xero</a></li>
+</ol>
+</li>
+<li class='footer-nav-main__item'>
+<span class='footer-nav-main__name'>Features</span>
+<ol class='footer-nav-menu footer-nav-sub'>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/support/guides/cards">Cards</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/features/foreign-currencies">Foreign Currency</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/features/manage-payments">Manage Payments</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/support/guides/payment-pages">Payment Page</a></li>
+</ol>
+</li>
+<li class='footer-nav-main__item'>
+<span class='footer-nav-main__name'>Developers</span>
+<ol class='footer-nav-menu footer-nav-sub'>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/developers/integration-guides">Integration Guides</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/developers/api-reference">API Reference</a></li>
+</ol>
+</li>
+<li class='footer-nav-main__item'>
+<span class='footer-nav-main__name'>Support</span>
+<ol class='footer-nav-menu footer-nav-sub'>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/support/getting-started">Getting Started</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/support/faqs">Frequently Asked Questions</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/support/guides">Product Guides</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/support/contact">Contact Support</a></li>
+</ol>
+</li>
+<li class='footer-nav-main__item'>
+<span class='footer-nav-main__name'>Resources</span>
+<ol class='footer-nav-menu footer-nav-sub'>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/pricing">Pricing</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/integrations">Integrations</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/developers/libraries">Libraries</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/blog">Blog</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/customers">Customer Stories</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/videos">Video Tour</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/partner">Partner Program</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/reviews">Reviews</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/friends-of-pin-payments">Friends of Pin Payments</a></li>
+</ol>
+</li>
+<li class='footer-nav-main__item'>
+<span class='footer-nav-main__name'>Company</span>
+<ol class='footer-nav-menu footer-nav-sub'>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/about-us">About Us</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/media-kit">Media Kit</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/jobs">Jobs</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/news">News</a></li>
+<li class='footer-nav-sub__item'><a class="footer__link" href="/contact">Contact</a></li>
+</ol>
+</li>
+</ol>
+</nav>
+</footer>
+
+<section class='welcome-to-country'>
+<div class='welcome-to-country-flags'>
+<img srcset="/assets/icons/flags/aboriginal_flag@2x-be02cddefcb82ea2fdd4e8c95a649feb3d2453998f0f0c9239462ca795f61a17.png 2x" title="Aboriginal flag" src="/assets/icons/flags/aboriginal_flag-99dede54deff0d3fcf6dd7ae0e7b128acd7486589fa1ee420ac24a87ae0b0102.png" />
+<img srcset="/assets/icons/flags/TSI_flag@2x-6cbbe40be5af3b4dc546eeb3bfb2061c1c70a256db45424c6c3b8b871a1c6a75.png 2x" title="Torres Strait Islander flag" src="/assets/icons/flags/TSI_flag-291767463ab45d5889d44b0640131c5ea6173f2f6bec7340be3b2ad883d3ea01.png" />
+</div>
+<div class='welcome-to-country-message'>
+<div>Pin Payments acknowledges the Traditional Owners and Custodians of the Country throughout Australia and recognises their continuing connection to land, water and community.</div>
+<div>We pay our respects to Aboriginal and Torres Strait Islander cultures, and to Elders past and present.</div>
+</div>
+</section>
+
+<script>
+  // https://support.google.com/google-ads/answer/6299296
+  function getParam(p) {
+    var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+  }
+  
+  function getExpiryRecord(value) {
+    var expiryPeriod = 90 * 24 * 60 * 60 * 1000; // 90 day expiry in milliseconds
+  
+    var expiryDate = new Date().getTime() + expiryPeriod;
+    return {
+      value: value,
+      expiryDate: expiryDate
+    };
+  }
+  
+  function addGclid() {
+    var gclidParam = getParam('gclid');
+    var gclidFormFields = ['gclid']; // all possible gclid form field ids here
+    var gclidRecord = null;
+    var currGclidFormField;
+  
+    var gclsrcParam = getParam('gclsrc');
+    var isGclsrcValid = !gclsrcParam || gclsrcParam.indexOf('aw') !== -1;
+  
+    gclidFormFields.forEach(function (field) {
+      if (document.getElementById(field)) {
+        currGclidFormField = document.getElementById(field);
+      }
+    });
+  
+    if (gclidParam && isGclsrcValid) {
+      gclidRecord = getExpiryRecord(gclidParam);
+      localStorage.setItem('gclid', JSON.stringify(gclidRecord));
+    }
+  
+    var gclid = gclidRecord || JSON.parse(localStorage.getItem('gclid'));
+    var isGclidValid = gclid && new Date().getTime() < gclid.expiryDate;
+  
+    if (currGclidFormField && isGclidValid) {
+      currGclidFormField.value = gclid.value;
+    }
+  }
+  
+  window.addEventListener('load', addGclid);
+</script>
+
+<script src='https://cdn.pinpayments.com/pin.v2.js'></script>
+</body>
+</html>

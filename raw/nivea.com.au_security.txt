@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://soc.beiersdorf.com
+Contact: mailto:security@beiersdorf.com
+Expires: 2027-02-01T02:00:00.000Z
+Encryption: https://soc.beiersdorf.com/PGPKeys/disclosure-pgp.asc
+Preferred-Languages: en,de
+Policy: https://soc.beiersdorf.com/disclosurepolicy.html
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEV0vOWLtZptoJG8i/DO2/5svCx48FAmWyPWkACgkQDO2/5svC
+x4+QgAv/QoF0WTO0PD25WasDSgNE580zp/PTbnZvvut0YYIuX0dkTwoZ8YSrTEf7
+rNt8KQcKH6RBwI5wUJWZBpQaB/6sqinLscW0shd1dK4sD4GFaUN2AMKL0Ug+vBM5
+q3GO6d5WZLhpKEQLE5DfsKgeQNF3LlPWk1aVDC9bHOro0QCnc0jdrkgC7e75gpk7
+oKAJEVdVvwYDKU+vgK6TTLfyqEoaLPr61Aw9PSYht8JwFJunNftacmGcRkVLNFo0
+7ca3F7bTvsv88+zqdq6RMqrYIGig/6lgZ+TKLMXnSCO0NjfApfRl01bf6p4/HPWH
+qOWONepCVfoc1Q+kj2yitJq04lX/ZUBSROR/Z/31cuQLvXMHN8gz3PvUGsaVmm9M
+JbVX+ZJylinx2DI48/1d9mjCMgM7N29np1A6jMLRC4FDPPmTzPPT+BJGVDIATiN+
+7p9gHKtwHLdw3id8K2/yGCah1c+M4TQh5gd3iT4SPpPeP+d2WayndAHqiTn1H6hG
+WBQ0ZzZS
+=gJa1
+-----END PGP SIGNATURE-----

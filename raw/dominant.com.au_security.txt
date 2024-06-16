@@ -1,0 +1,15 @@
+# security.txt file for https://www.dominant.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: web@simple.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-06-16T01:32:23+09:30
+
+# (optional) OpenPGP key:
+Encryption: https://www.dominant.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.dominant.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.dominant.com.au/hall-of-fame

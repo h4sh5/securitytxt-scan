@@ -1,0 +1,6 @@
+Contact: https://www.sitecentre.com.au/
+Contact: mailto:issues@sitecentre.com.au
+Policy: https://datcom.com.au/privacy-policy
+Preferred-Languages: en
+Expires: Mon, 19 Aug 2024 00:40:28 +1000
+Hiring: https://www.sitecentre.com.au/careers

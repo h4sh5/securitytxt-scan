@@ -1,0 +1,4 @@
+Contact: mailto:info@technocats.com.au
+Expires: 2024-12-31T06:00:00.000Z
+Preferred-Languages: en
+Canonical: https://bdcu.org.au/.well-known/security.txt

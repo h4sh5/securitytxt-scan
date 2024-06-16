@@ -1,0 +1,7 @@
+Policy: https://ukg.responsibledisclosure.com/hc/en-us
+Contact: mailto:security@ukg.com
+Encryption: https://www.ukg.com/security-pgp-key.txt
+Preferred-Languages: en
+Canonical: https://www.ukg.com/.well-known/security.txt
+Hiring: https://www.ukg.com/careers
+Expires: 2023-07-13T22:00:00.000Z

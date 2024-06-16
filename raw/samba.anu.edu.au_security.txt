@@ -1,0 +1,10 @@
+# Our security address
+Contact: mailto:security@samba.org
+
+# Our OpenPGP key
+Encryption: https://download.samba.org/pub/samba/samba-pubkey.asc
+
+Policy: https://wiki.samba.org/index.php/Samba_Security_Process
+Preferred-Languages: en, de
+Expires: 2026-01-01T00:00:00.000Z
+

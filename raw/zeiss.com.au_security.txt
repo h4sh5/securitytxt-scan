@@ -1,0 +1,19 @@
+# ZEISS Security.txt 
+
+## Contact e-mail address
+Contact: mailto:vulnerability-disclosure@zeiss.com
+
+## Expiration date
+Expires: 2026-05-31T22:00:00.000Z
+
+## PGP-key
+Encryption: https://www.zeiss.com/pgp-key.txt
+
+## Prefered languages
+Preferred-Languages: en, de
+
+## Our disclousure policy
+Policy: https://www.zeiss.com/disclosure-policy.pdf
+
+## Looking for a job?
+Hiring: https://www.zeiss.com/corporate/int/careers/job-openings-and-applications.html

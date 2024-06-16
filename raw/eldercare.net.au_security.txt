@@ -1,0 +1,15 @@
+# security.txt file for https://www.eldercare.net.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: web@simple.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2024-06-16T09:12:12+09:30
+
+# (optional) OpenPGP key:
+Encryption: https://www.eldercare.net.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.eldercare.net.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.eldercare.net.au/hall-of-fame

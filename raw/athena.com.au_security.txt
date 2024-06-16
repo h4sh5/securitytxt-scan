@@ -1,0 +1,5 @@
+Contact: mailto:security@athena.com.au
+Expires: Tue, 30 Apr 2025 17:00 +1000
+Encryption: https://www.athena.com.au/.well-known/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://www.athena.com.au/.well-known/security.txt

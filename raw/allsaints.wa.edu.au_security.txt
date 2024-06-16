@@ -1,0 +1,4 @@
+Contact: mailto:cyber@allsaints.wa.edu.au
+Expires: 2024-12-31T00:14:00.000Z
+Preferred-Languages: en
+Canonical: https://www.allsaints.wa.edu.au/.well-known/security.txt

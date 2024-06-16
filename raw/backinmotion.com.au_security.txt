@@ -1,0 +1,7 @@
+# Our security address
+Contact: WebSecurity@healthia.com.au
+Contact: +61 7 3180 4900
+Contact: Healthia Webmaster
+
+# Our disclosure policy
+Disclosure: Partial

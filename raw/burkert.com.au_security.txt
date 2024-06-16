@@ -1,0 +1,64 @@
+
+#####################################################################
+# 
+#  ____  _   _      _             _   
+# |  _ \|_| |_|    | |           | |  
+# | |_) |_   _ _ __| | _____ _ __| |_ 
+# |  _ <| | | | '__| |/ / _ \ '__| __|
+# | |_) | |_| | |  |   <  __/ |  | |_ 
+# |____/ \__,_|_|  |_|\_\___|_|   \__|
+#
+# Buerkert Fluid Control Systems
+# Christian Buerkert GmbH & Co. KG
+
+####################################################################
+
+# security.txt for https://burkert.com, https://www.buerkert.de and all subdomains
+
+Contact: mailto:information-security@burkert.com
+Expires: 2025-12-31T23:59:00.000Z
+Preferred-Languages: de, en
+Canonical: https://burkert.*/.well-known/security.txt
+Canonical: https://buerkert.*/.well-known/security.txt
+Hiring: https://www.burkert.com/en/Company-Career/Career/Job-openings2?n=1
+
+
+Please, report a security issue
+  We are committed to the security of our users and appreciate your help in improving our products and services. 
+
+Out of Scope Vulnerabilities and Exclusions
+  Known vulnerabilities are not in scope and some reports may be marked as duplicates if the root cause aligns too closely with an already claimed report.
+  Burkert intends to award the maximum allowable bounty for every report. We encourage hackers to contact us to ask questions before and after making reports to help alleviate collisions.
+  When reporting vulnerabilities, please consider (1) attack scenario / exploitability , and (2) the security impact of the bug.
+  
+  The following issues are considered out of scope:
+  - Clickjacking on pages with no sensitive actions
+  - Cross-Site Request Forgery (CSRF) on unauthenticated forms or forms with no sensitive actions
+  - previously known vulnerable libraries without a working Proof of Concept
+  - any activity that could lead to the disruption of our service (DoS)
+  - content spoofing and text injection issues without showing an attack vector/without being able to modify HTML/CSS
+  - rate limiting or bruteforce issues on non-authentication endpoints
+  - missing best practices in Content Security Policy
+  - missing email best practices (Invalid, incomplete or missing SPF/DKIM/DMARC records, etc.)
+  - vulnerabilities only affecting users of outdated or unpatched browsers.
+  - software version disclosure / Banner identification issues / Descriptive error messages or headers (e.g. stack traces, application or server errors)
+  - public Zero-day vulnerabilities that have had an official patch for less than 1 month will be awarded on a case-by-case basis
+  - tabnabbing
+  - open redirect - unless an additional security impact can be demonstrated
+  - issues that require unlikely user interaction
+
+
+Program Rules
+  Please provide detailed reports with reproducible steps. If the report is not detailed enough to reproduce the issue, the issue will not be eligible for a reward.
+  - accessing any customer data is always strictly prohibited
+  - accessing any Burkert internal data is always strictly prohibited
+  - submit one vulnerability per report, unless you need to chain vulnerabilities to provide impact
+  - when duplicates occur, we only award the first report that was received (provided that it can be fully reproduced)
+  - multiple vulnerabilities caused by one underlying issue will be awarded one bounty
+  - Social engineering (e.g. phishing, vishing, smishing) is prohibited
+  - make a good faith effort to avoid privacy violations, destruction of data, and interruption of degradation of our service. Only interact with accounts you own or the explicit permission of the account holder
+  - a vulnerability in the context of this bug bounty is any issue that creates a new attack due to the installation or existence of any Burkert product or service
+  - results matching the findings from SSL/TLS testing sites, CAA reports, and Security Score sites will not be eligible for bug bounties
+  
+You can submit your report directly to information-security@burkert.com. 
+Ethical disclosure reports will not be eligible for any bounty under the bug bounty program.

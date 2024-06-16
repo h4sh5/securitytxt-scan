@@ -1,0 +1,7 @@
+# If you have received a spam/phishing email or SMS, purporting to be from the Australian Taxation Office, report it by sending an email to reportemailfraud@ato.gov.au.
+# If you would like to report a security issue, contact us via:
+Contact: mailto:vulnerabilitydisclosure@ato.gov.au
+Expires: 2024-06-30T00:00:00.000Z
+Canonical: https://onlineservices.ato.gov.au/.well-known/security.txt
+Policy: https://www.ato.gov.au/General/Online-services/Online-security/Report-a-system-security-vulnerability
+# The ATO is serious about cyber security and we thank you for helping to protect the ATO and the community it serves.

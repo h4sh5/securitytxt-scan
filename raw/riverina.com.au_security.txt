@@ -1,0 +1,9 @@
+# We appreciate responsible disclosure
+Contact: mailto:vulnerability-reporting@clevvi.com.au
+
+# If you're looking at this file, you're our kind of person!
+Hiring: mailto:engineering-candidates@clevvi.com.au
+Hiring: https://www.clevvi.com.au/careers/join-our-team
+
+Expires: 2023-02-28T14:00:00.000Z
+Preferred-Languages: en

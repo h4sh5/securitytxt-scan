@@ -1,0 +1,8 @@
+Contact: mailto:webmaster@dav.com.au
+Contact: mailto:security@dav.com.au
+Contact: mailto:abuse@dav.com.au
+Contact: tel:+61393489477
+Expires: 2024-12-31T23:59:59.000Z
+Preferred-Languages: en-AU,en-GB,en
+Canonical: https://dav.com.au/.well-known/security.txt
+Canonical: https://www.dav.com.au/.well-known/security.txt

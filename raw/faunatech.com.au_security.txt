@@ -1,0 +1,15 @@
+# security.txt file for https://www.faunatech.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: ian@wildlifeacoustics.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-15T19:42:10-04:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.faunatech.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.faunatech.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.faunatech.com.au/hall-of-fame

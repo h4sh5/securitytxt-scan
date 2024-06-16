@@ -1,0 +1,5 @@
+Contact: cert@michelin.com
+Encryption: cert.michelin.com
+Acknowledgements: cert.michelin.com
+Permission: None
+Hiring: careers.michelin.com

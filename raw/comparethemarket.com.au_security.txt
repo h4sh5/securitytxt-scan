@@ -1,0 +1,7 @@
+Contact: cybersecurity@comparethemarket.com.au
+
+Expires: 2024-01-30T14:00:00.000Z
+
+Preferred-Languages: en
+
+Policy: https://secure.comparethemarket.com.au/static/legal/external_vulnerability_disclosure_policy.pdf

@@ -1,0 +1,8 @@
+# Our Security Email Address
+Contact: mailto:cyberthreatresponse@hbf.com.au
+
+# This Informations expiry date
+Expires: 2024-11-30T16:00:00.000Z
+
+# Please write to us in English
+Preferred-Languages: en

@@ -1,0 +1,4 @@
+Contact: mailto:security@readytech.io
+Preferred-Languages: en
+Policy: https://readytech.io/vulnerability-disclosure
+Hiring: https://www.readytech.com.au/careers

@@ -1,0 +1,4 @@
+﻿# If you would like to report a security issue
+# you may report it to Challenger.com.au
+Contact: mailto:cyberteam@challenger.com.au
+Preferred-Languages: en

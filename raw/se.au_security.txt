@@ -1,0 +1,6 @@
+Contact: https://se.au/contact/
+Contact: mailto:hello@se.au
+Encryption: https://keybase.io/ewing
+Expires: 2026-01-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://se.au/.well-known/security.txt

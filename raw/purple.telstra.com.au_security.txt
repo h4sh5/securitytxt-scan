@@ -1,0 +1,3 @@
+Contact: security@purple.telstra.com
+Encryption: https://keybase.io/readifysecurity
+Hiring: https://careers.purple.telstra.com

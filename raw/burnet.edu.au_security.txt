@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Canonical: https://www.burnet.edu.au/.well-known/security.txt
+Contact: mailto:cybersecurity@burnet.edu.au
+Encryption: https://www.burnet.edu.au/.well-known/gpg-key.asc
+Expires: 2025-12-3100:00:00z
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEJwvfQQy/mI1lBzfFn+1oEdIhyMoFAmQFxbAACgkQn+1oEdIh
+yMqdxwv9FnnTWkTYL0+vuk8ejTcVCBcPYlGXaGC0nzoWpeG4GL9N3eotarmy8NXo
+wNuFquyomJYRoE6bLFbHAHUiXwMmZ2ojlCHsw9LFcjtt+EpMSyDjv93JZpseckcj
+6/Pn8QgetLUjPqP64rR9jVTuYtIDjRwT+pcZO9ixT5EGyiqvVotD6UYNn1G7J5Fd
+Aim64iNicgbjnJW7CCNCYKzTPGxGptMzqBIYuoxte5gLURv3YMA45SabNqu9m/t9
+n29NvC/6WbeLZ4pjMwes8SkAXKIn3ET4+GXX5jIz5CxXn5qM2uut9jbEcY8fR6BR
+pjuU2C3rpnxwalVF0y3iuI64AHBOVvPWT/VhzdO8xhhmc/6m5rlhu2EhxgSkeNl3
+TEGuO0oIJjMkhkZeFLJFCdE/z04QUYJsoB9H+PBCymIVMoh1SJShJeChdm4plXUB
+6FV5An6xUKLWniUEjX6Kb3Wieq29Y5Wpo2obmls5lZwxacbUNoBfAZPuCSxBCALB
+QenVdjy9
+=9OD9
+-----END PGP SIGNATURE-----

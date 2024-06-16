@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@safetyculture.com
+Preferred-Languages: en
+Encryption: https://safetyculture.com/pgp-safetyculture-security-public.asc
+Canonical: https://safetyculture.com/.well-known/security.txt
+Policy: https://safetyculture.com/security
+Expires: 2026-02-01T00:00:00Z
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEi/kRr0YpvvyugPOfbH6XTNS/MBYFAmXOc4sACgkQbH6XTNS/
+MBaGWg//ZkyNGOmXkz5BsT08DzOBDuj4EcZLuVwNO1fjqjyO+dXeDHwjh+SlPZhf
+lhc36VOxi1HxzUkHUbvDnqToJkBmQQAFwZrSwDyRMHtIdThv/F4zWSiqwWOrWzbf
+HkWcjlzPzp+jZxmr0u6NZSawtKNbvGeTyE5hyiuAtkch9DomijCpOzUHnLOEDGml
+Sryd3pC6XA3ebFV3cxnl3ilnVwj/OVgzXpnZmHPy9dghvjAnSSzQgoa+5pLhAs/B
+bB/lVZDuHhe3yl9Z3sJeHsFhIyWUJ16casIFZhZ3XLpmtN/WKALPGEhvg7LGZ4eI
+VFrXpRHd9Mjq+Pyp9UrPmeqUSa7bV0TJ38DFCvkjJ8YLTY7pBjIUvvn+OBYxJQnO
+giKISo7+z3xF9Obrh+qSH/8H11wOvHXGW4I8JzjONVv4z4ggVEP7AcCbpMNZp+iN
+p3C33kxN8xCt5tAE+GKkmZOe/PHJB2Jy+2cCyQ4d+qLC1ymWoBXTE2q4mPGNKy94
+SaWqVpy/JJeyl4BR4T+wJlAAMrlNAMYNzoxh9e5Qs2OU5p/w5exl6RWYMXXu4iq6
+agvzmUdr8w7vWsUnxS2kdFG5nhMz8/nrt8IgxeJbMD8pdhjX5d/s2OB2HjO1YXqJ
+x8ImpVjqp9TzEWA9avbkPOPFTGTGURxB+qsG1Ie+J8dZkVj1URQ=
+=zxLk
+-----END PGP SIGNATURE-----

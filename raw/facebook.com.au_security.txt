@@ -1,0 +1,11 @@
+Contact: https://www.facebook.com/whitehat/report/
+Acknowledgments: https://www.facebook.com/whitehat/thanks/
+Hiring: https://www.metacareers.com/areas-of-work/security/
+
+# Found a bug? Our bug bounty policy:
+Policy: https://www.facebook.com/whitehat/info/
+
+# What we do when we find a bug in another product:
+Policy: https://about.meta.com/security/vulnerability-disclosure-policy
+
+Expires: Mon, 15 Jul 2024 16:41:38 -0700

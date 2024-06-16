@@ -1,0 +1,4 @@
+Contact: mailto:vulnerabilitydisclosure@qiagen.com
+Expires: 2025-01-31T11:59:00.000Z
+Preferred-Languages: en
+Policy: https://www.qiagen.com/privacy/privacy-policy

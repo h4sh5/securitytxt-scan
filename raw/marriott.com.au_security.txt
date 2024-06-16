@@ -1,0 +1,6 @@
+Contact: https://hackerone.com/marriott
+Expires: 2026-12-31T06:00:00.000Z
+Preferred-languages: en
+Policy: https://hackerone.com/marriott?type=team&view_policy=true
+Hiring: https://jobs.marriott.com/marriott
+Acknowledgments: https://hackerone.com/marriott/thanks
