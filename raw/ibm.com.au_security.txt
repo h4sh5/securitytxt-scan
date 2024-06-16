@@ -1,0 +1,7 @@
+# PSIRT manages  Product, Website, Secrets / Tokens Vulnerabilities
+Contact: https://www.ibm.com/trust/security-psirt
+Contact: https://hackerone.com/ibm?type=team
+Contact: mailto:psirt@us.ibm.com
+Encryption: https://ibm.ent.box.com/s/gxyniavjpmqj6bnn3gsssirzbp6bmn8p
+Acknowledgments: https://www.ibm.com/blogs/psirt/ibm-acknowledgement/
+Expires: 2024-07-16T00:00+00:00

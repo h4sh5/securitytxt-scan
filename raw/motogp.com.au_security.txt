@@ -1,0 +1,15 @@
+# security.txt file for https://www.motogp.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: rico@carterdigital.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T12:25:32+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.motogp.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.motogp.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.motogp.com.au/hall-of-fame

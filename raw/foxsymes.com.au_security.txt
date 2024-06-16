@@ -1,0 +1,15 @@
+# security.txt file for https://www.foxsymes.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: dave@daverayner.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2023-11-18T08:52:38+11:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.foxsymes.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.foxsymes.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.foxsymes.com.au/hall-of-fame

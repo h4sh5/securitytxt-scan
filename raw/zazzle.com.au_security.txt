@@ -1,0 +1,5 @@
+If you have stumbled across a security bug, let us know! 
+
+Contact: the email address "security" on the domain "zazzle.com"
+Acknowledgments: https://www.zazzle.com/hackers.txt
+Hiring: https://www.zazzle.com/jobs

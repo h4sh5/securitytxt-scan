@@ -1,0 +1,5 @@
+Contact: mailto:help@digitalhealth.gov.au
+
+Preferred-Languages: en
+
+Canonical: https://pca.digitalhealth.gov.au/.well-known/security.txt

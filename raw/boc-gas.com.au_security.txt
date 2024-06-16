@@ -1,0 +1,6 @@
+# to contact Linde plc regarding a security matter 
+# please use the following address:
+Contact: mailto:cybersecurity.contact@linde.com
+
+Expires: Sun, 30 Apr 2028 00:00 -0700
+Preferred-Languages: en

@@ -1,0 +1,3 @@
+Contact: mailto:sonja@stpauls.com.au
+Contact: https://secure.stpauls.com.au/contact
+Policy: https://magento.com/security

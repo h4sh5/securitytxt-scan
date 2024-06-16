@@ -1,0 +1,10 @@
+## Status:
+#  - Rewards advertised @ https://bugbounty.livesport.eu/
+
+Contact: https://www.livesport.eu/en/contacts
+
+Policy: https://bugbounty.livesport.eu/#rules
+
+Expires: 2024-12-31T10:00:00.000Z
+
+Preferred-Languages: en

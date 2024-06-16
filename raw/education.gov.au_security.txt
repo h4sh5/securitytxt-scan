@@ -1,0 +1,5 @@
+Contact: vulnerabilitydisclosure@dewr.gov.au
+Expires: 2024-06-30T06:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.education.gov.au/.well-known/security.txt
+Policy: https://www.dewr.gov.au/using-site/vulnerability-disclosure-policy

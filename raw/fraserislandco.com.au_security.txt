@@ -1,0 +1,15 @@
+# security.txt file for https://www.fraserexplorertours.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: user@example.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T11:54:54+09:30
+
+# (optional) OpenPGP key:
+Encryption: https://www.fraserexplorertours.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.fraserexplorertours.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.fraserexplorertours.com.au/hall-of-fame

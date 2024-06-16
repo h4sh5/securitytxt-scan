@@ -1,0 +1,7 @@
+Contact: mailto:stephen@rees-carter.net
+Contact: https://twitter.com/valorin
+Expires: 2024-09-14T14:00:00.000Z
+Encryption: https://keybase.io/valorin
+Encryption: https://stephenreescarter.net/pgp-key.txt
+Preferred-Languages: en
+

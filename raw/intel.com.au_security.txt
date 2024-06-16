@@ -1,0 +1,22 @@
+#To report information about a security issue or vulnerability with an Intel branded product or technology:
+Contact: mailto:secure@intel.com
+
+#For issues related to Intel's external web presence (Intel.com and related subdomains):
+Contact: mailto:external.security.research@intel.com
+
+Expires: 2024-10-11T19:30:00.000Z
+
+#Intel Product Security Incident Response PGP key:
+Encryption: https://www.intel.com/content/www/us/en/security-center/pgp-public-key.html
+
+Preferred-Languages: en
+
+#Location of this file:
+Canonical: https://www.intel.com/security.txt
+
+#Product Vulnerability Handling Guidelines:
+Policy: https://www.intel.com/content/www/us/en/security-center/vulnerability-handling-guidelines.html
+
+#Jobs @Intel:
+Hiring: https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html
+
