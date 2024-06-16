@@ -1,0 +1,15 @@
+# security.txt file for https://www.berrystreetschool.vic.edu.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: devs@yump.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T21:46:50+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.berrystreetschool.vic.edu.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.berrystreetschool.vic.edu.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.berrystreetschool.vic.edu.au/hall-of-fame
