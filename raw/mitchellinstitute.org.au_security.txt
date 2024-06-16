@@ -1,0 +1,210 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Page not found</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="robots" content="noindex">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TNRVD4');</script>
+  <!-- End Google Tag Manager -->
+  <script src="//use.typekit.net/vnw2lhd.js?1511231467"></script>
+  <script>try {
+    Typekit.load();
+  } catch (e) {
+  }</script>
+  <link type="text/css" rel="stylesheet" href="https://use.typekit.net/ufa3blf.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" media="all" />
+  <style>
+    html, body, main {
+      height: 100%;
+    }
+
+    body {
+      background-color: #eee;
+      color: #262626;
+      font-family: 'source-sans-pro', Arial, sans-serif;
+      font-size: 16px;
+      margin: 0;
+      padding: 0;
+    }
+
+    main {
+      align-items: center;
+      display: flex;
+      flex-flow: row;
+    }
+
+    div {
+      background-color: #fff;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    div.section {
+      padding: 20px 0;
+    }
+
+    div.container {
+      padding: 0 15px;
+    }
+
+    img {
+      width: 140px;
+    }
+
+    p.lead-paragraph {
+      font-size: 1.125rem;
+      line-height: 1.625rem;
+      font-weight: 300;
+    }
+
+    h3 {
+      margin: 22px 0 12px;
+    }
+
+    ul {
+      margin-left: 16px;
+    }
+
+    li {
+      display: table;
+      margin-left: -32px;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      font-weight: 400;
+    }
+
+    li::before {
+      content: '\25B8';
+      display: table-cell;
+      padding-right: 16px;
+      vertical-align: top;
+    }
+
+    li a {
+      color: #1e1248;
+      box-shadow: inset 0 -1px 0 #1e1248;
+      cursor: pointer;
+      background: linear-gradient(to bottom, #5bc2e7 0%, #5bc2e7 100%);
+      background-position: 0 100%;
+      background-repeat: repeat-x;
+      background-size: 0 0;
+      text-decoration: none;
+      transition: background-size .2s;
+    }
+
+    li a:active, li a:hover {
+      box-shadow: inset 0 -1px 0 #1e1248;
+      background-size: 4px 100%;
+      text-decoration: none;
+      color: #1e1248;
+    }
+
+    .ext::after {
+      color: inherit;
+      content: '\f08e';
+      display: inline-block;
+      font-family: FontAwesome;
+      font-size: .8em;
+      font-style: normal;
+      font-weight: normal;
+      margin-left: 0.5em;
+      text-decoration: inherit;
+    }
+
+    .ext .accessibility {
+      border: 0;
+      clip: rect(0, 0, 0, 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+
+
+
+
+
+
+
+
+    @media (min-width: 768px) {
+      div.container {
+        width: 738px;
+      }
+    }
+
+    @media (min-width: 1000px) {
+      div.section {
+        padding: 40px 0;
+      }
+
+      div.container {
+        width: 970px;
+      }
+    }
+
+    @media (min-width: 1260px) {
+      div.section {
+        width: calc((100% - 1200px) / 2 + 1200px);
+      }
+
+      div.container {
+        width: 1200px;
+      }
+    }
+
+    @media (min-width: 1920px) {
+      div.section {
+        width: calc((100% - 1200px) / 1.666 + 1200px);
+      }
+    }
+  </style>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNRVD4"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<main>
+  <div class="section">
+    <div class="container">
+      <a href="/" title="Victoria University | Melbourne Australia home">
+        <img src="/profiles/vicuni/themes/custom/victory/logo.svg"/>
+      </a>
+      <p class="lead-paragraph">We couldn't find the page you were looking for.</p>
+      <p>Here are some links that we hope help:</p>
+      <ul>
+        <li>
+         our <a href="/courses/search">course search</a>
+        </li>
+        <li>
+         our <a href="/search">site search</a>
+        </li>
+        <li>
+          the <a href="/">home page</a>
+        </li>
+        <li>
+         <a href="http://askvu.vu.edu.au" target="_blank" class="ext">ASKVU<span
+                  class="accessibility"> (external link)</span></a> for frequently asked questions
+        </li>
+        <li>
+         <a href="/contact-us">contact us</a> directly for more information
+        </li>
+        <li>
+         our <a href="/sitemap">sitemap</a>.
+        </li>
+      </ul>
+    </div>
+  </div>
+</main>
+</body>
+</html>

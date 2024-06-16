@@ -1,0 +1,10 @@
+******************************************************************************************************
+# If you would like to report a security issue, contact us via:
+Contact: mailto:vulnerabilitydisclosure@dss.gov.au
+Expires: 2024-06-30T13:59:00.000Z
+Acknowledgments: https://www.dss.gov.au/vulnerability-disclosure-policy
+Preferred-Languages: en
+Canonical: https://www.dss.gov.au/.well-known/security.txt
+Policy: https://www.dss.gov.au/vulnerability-disclosure-policy
+# DSS cyber security is delivered by Services Australia. All vulnerabilities reported to DSS under this policy will be forwarded to Services Australia who may contact you if more information is required.
+******************************************************************************************************

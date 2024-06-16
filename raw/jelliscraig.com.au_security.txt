@@ -1,0 +1,15 @@
+# security.txt file for https://www.jelliscraig.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: geoff@bananaworks.co
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T16:07:26+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.jelliscraig.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.jelliscraig.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.jelliscraig.com.au/hall-of-fame

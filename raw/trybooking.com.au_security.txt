@@ -1,0 +1,5 @@
+Contact: mailto:security@trybooking.com
+Expires: 2026-08-08T02:00:00.000Z
+Encryption: https://www.trybooking.com/.well-known/TryBooking_0xCE8AB6EC_public.asc
+Preferred-Languages: en
+Canonical: https://www.trybooking.com/.well-known/security.txt

@@ -1,0 +1,15 @@
+# security.txt file for https://www.carersnsw.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: devs@yump.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T08:59:02+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.carersnsw.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.carersnsw.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.carersnsw.org.au/hall-of-fame

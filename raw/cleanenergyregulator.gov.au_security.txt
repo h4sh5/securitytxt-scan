@@ -1,0 +1,8 @@
+# If you have any concerns around emails purporting to be from the Clean Energy Regulator (CER)
+Contact: mailto:itsa@cer.gov.au
+Expires: 2025-11-30T12:59:00.000Z
+Preferred-Languages: EN
+Canonical: https://cer.gov.au/.well-known/security.txt
+Policy: https://cleanenergyregulator.gov.au/about-us/our-policies/security-vulnerability-disclosure
+Hiring: https://cleanenergyregulator.gov.au/careers
+# The CER is serious about Cyber Security and your contributions will be valued.

@@ -1,0 +1,4 @@
+Contact: mailto:security-vulnerability@marketplacer.com
+Contact: mailto:iso@marketplacer.com
+Expires: 2024-08-31T13:59:00.000Z
+Policy: https://marketplacer.com/legal/responsible-disclosure-policy/
