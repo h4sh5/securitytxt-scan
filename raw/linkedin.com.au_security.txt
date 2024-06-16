@@ -1,0 +1,5 @@
+# Conforms to IETF `draft-foudil-securitytxt-07`
+Contact: https://hackerone.com/linkedin
+Contact: https://www.linkedin.com/help/linkedin/answer/62924
+Canonical: https://www.linkedin.com/.well-known/security.txt
+Policy: https://hackerone.com/linkedin?view_policy=true

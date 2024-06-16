@@ -1,0 +1,7 @@
+﻿Contact:
+mailto:VulnerabilityDisclosure@bendigoadelaide.com.au
+Expires: 2024-07-05T14:00:00.000Z
+Policy:
+https://www.bendigobank.com.au/security/responsible-disclosure/
+Hiring:
+https://careers-ext.bendigoadelaide.com.au/information-security 
