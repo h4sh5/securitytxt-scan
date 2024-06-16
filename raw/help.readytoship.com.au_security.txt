@@ -1,0 +1,13 @@
+# Intercom - reporting security vulnerabilities to Intercom
+# Please report any security vulnerabilities to us via the contact method(s) below, only after reading the disclosure policy.
+Contact: https://bugcrowd.com/intercom
+Contact: mailto:security@intercom.com
+Preferred-Languages: en
+Canonical: https://app.intercom.com/.well-known/security.txt
+# Our disclosure policy. By submitting a potential security issue to us, you are implicitly accepting these terms - please read this before submitting:
+Policy: https://www.bugcrowd.com/resource/standard-disclosure-terms/
+# Please visit the link below if you are interested in a career at Intercom.
+Hiring: https://boards.greenhouse.io/intercom/jobs/1888872
+# Hall of Fame
+Acknowledgments: https://bugcrowd.com/intercom/hall-of-fame
+Expires: 2029-03-15T00:00:00z

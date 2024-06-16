@@ -1,0 +1,19 @@
+Preferred-Languages: English
+
+# RMIT Cybersecurity contact address
+Contact: mailto:its-secops-alerts@rmit.edu.au
+
+# RMIT Information Security Policy
+Policy: https://policies.rmit.edu.au/document/view.php?id=75
+
+# Responsible Disclosure of Cybersecurity Issues
+Contact: https://bugcrowd.com/rmit-university-vdp-pro
+Policy: https://www.bugcrowd.com/resources/essentials/standard-disclosure-terms/
+
+Canonical: https://rmit.edu.au/.well-known/security.txt
+Canonical: https://www.rmit.edu.au/.well-known/security.txt
+
+# PGP Public Key for Encryption
+Encryption: https://rmit.edu.au/.well-known/publickey.txt
+
+Expires: 2025-02-28T14:00:00.000Z
