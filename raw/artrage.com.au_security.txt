@@ -1,0 +1,15 @@
+# security.txt file for https://artrage.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: user@example.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-15T20:02:42+08:00
+
+# (optional) OpenPGP key:
+Encryption: https://artrage.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://artrage.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://artrage.com.au/hall-of-fame

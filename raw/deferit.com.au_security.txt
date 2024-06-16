@@ -1,0 +1,6 @@
+Contact: mailto:security@deferit.com
+Expires: 2024-07-31T02:00:00.000Z
+Preferred-Languages: en
+Canonical: https://deferit.com/.well-known/security.txt
+Policy: https://deferit.com/en-au/vulnerability-disclosure-policy/
+Policy: https://deferit.com/en-us/vulnerability-disclosure-policy/

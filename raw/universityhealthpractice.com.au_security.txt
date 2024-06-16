@@ -1,0 +1,15 @@
+# security.txt file for https://universityhealthpractice.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: ingrid@blis.net.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-06-16T08:49:33+09:30
+
+# (optional) OpenPGP key:
+Encryption: https://universityhealthpractice.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://universityhealthpractice.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://universityhealthpractice.com.au/hall-of-fame
