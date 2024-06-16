@@ -1,0 +1,55 @@
+Security Vulnerability Disclosure Policy
+
+This Security Vulnerability Disclosure Policy (Policy) gives a person a point of contact to directly submit their findings if they believe they have found a potential security vulnerability within ICT systems operated by HAIRMOP Pty Ltd (MOSH).
+
+About this Policy:
+The security of our systems and the data we hold is a critical priority for MOSH. We take every effort to keep our ICT systems secure. Despite our efforts, there may still be vulnerabilities.
+This Policy allows you to responsibly share your findings with us. If you think you have found a potential vulnerability in one of our ICT systems, services or products, please let us know as quickly as possible.
+We will not compensate you for finding potential or confirmed vulnerabilities. However, we will recognise you by publishing your name or alias on this page. If you have not exploited the vulnerability or prematurely disclosed its possible existence, MOSH will not take any legal action against you.
+
+What this Policy covers:
+This Policy covers any product or service operated by MOSH to which you have lawful access.
+This Policy does not cover:
+- clickjacking;
+- social engineering or phishing;
+- weak or insecure SSL ciphers and certificates;
+- denial of service (DoS or DDoS) attacks;
+- posting, transmitting, uploading, linking to, or sending any malware;
+- physical attacks;
+- attempts to modify or destroy data; or
+- attempts to extract or exfiltrate sensitive data.
+
+This policy does not authorise individuals or groups to undertake hacking or penetration testing against MOSH ICT systems. 
+
+Under this Policy, you must not: 
+- disclose vulnerability information publicly;
+- engage in unlawful or unethical behaviour;
+- modify, destroy, exfiltrate, or retain data stored by MOSH; or
+- access or attempt to access accounts or data that does not belong to you.
+
+
+This Policy does not cover any other action that is unlawful or contrary to legally enforceable terms and conditions for using a product or service.
+
+How to report a vulnerability:
+To report a vulnerability, email security@getmosh.com.
+Include enough detail so we can reproduce your steps.
+Ensure that you include details of the potential security vulnerability and exploit with enough information to enable the Security Team to reproduce your steps.
+If you report a vulnerability under this Policy, you must keep it confidential until we have completed our investigation and, if necessary, have remediated or mitigated the potential security vulnerability. Otherwise, MOSH may take legal action.
+
+Next steps:
+We will:
+- respond to your report within 5 business days;
+- keep you informed of our progress; and
+- with your consent credit you as the person who discovered the vulnerability.
+
+
+We will not:
+- financially compensate you for reporting; or 
+- share your details with any other organisation, without your permission.
+
+People who have disclosed vulnerabilities to us:
+Listed below are disclosed vulnerabilities, a name or alias is included if consent has been received from the person/s who have identified it. We thank the researchers who have helped keep our products and services safe by reporting security vulnerabilities responsibly in accordance with this Policy. 
+
+- none recorded at this time
+
+
