@@ -1,0 +1,9 @@
+** Resource dumped by PlainTextRenderer**
+Resource path:/content/corporate/vet-hospital/home
+Resource metadata: {sling.modificationTime=-1, sling.characterEncoding=null, sling.parameterMap={}, sling.contentType=null, sling.creationTime=-1, sling.contentLength=-1, sling.resolutionPath=/content/corporate/vet-hospital/home, sling.resolutionPathInfo=.htmlsecurity.txt}
+Resource type: cq:Page
+Resource super type: -
+
+** Resource properties **
+jcr:primaryType: cq:Page
+jcr:created: java.util.GregorianCalendar[time=1687414286337,areFieldsSet=true,areAllFieldsSet=true,lenient=false,zone=sun.util.calendar.ZoneInfo[id="GMT+10:00",offset=36000000,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2023,MONTH=5,WEEK_OF_YEAR=25,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=173,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=4,HOUR_OF_DAY=16,MINUTE=11,SECOND=26,MILLISECOND=337,ZONE_OFFSET=36000000,DST_OFFSET=0]

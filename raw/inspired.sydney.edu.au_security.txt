@@ -1,0 +1,9 @@
+** Resource dumped by PlainTextRenderer**
+Resource path:/content/corporate/engage/give
+Resource metadata: {sling.modificationTime=-1, sling.characterEncoding=null, sling.parameterMap={}, sling.contentType=null, sling.creationTime=-1, sling.contentLength=-1, sling.resolutionPath=/content/corporate/engage/give, sling.resolutionPathInfo=.htmlsecurity.txt}
+Resource type: cq:Page
+Resource super type: -
+
+** Resource properties **
+jcr:primaryType: cq:Page
+jcr:created: java.util.GregorianCalendar[time=1574291517799,areFieldsSet=true,areAllFieldsSet=true,lenient=false,zone=sun.util.calendar.ZoneInfo[id="GMT+11:00",offset=39600000,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2019,MONTH=10,WEEK_OF_YEAR=47,WEEK_OF_MONTH=4,DAY_OF_MONTH=21,DAY_OF_YEAR=325,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=3,AM_PM=0,HOUR=10,HOUR_OF_DAY=10,MINUTE=11,SECOND=57,MILLISECOND=799,ZONE_OFFSET=39600000,DST_OFFSET=0]

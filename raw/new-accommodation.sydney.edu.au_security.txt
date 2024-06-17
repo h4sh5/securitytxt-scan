@@ -1,0 +1,10 @@
+** Resource dumped by PlainTextRenderer**
+Resource path:/content/corporate/study/accommodation
+Resource metadata: {sling.modificationTime=-1, sling.characterEncoding=null, sling.parameterMap={}, sling.contentType=null, sling.creationTime=-1, sling.contentLength=-1, sling.resolutionPath=/content/corporate/study/accommodation, sling.resolutionPathInfo=.htmlsecurity.txt}
+Resource type: cq:Page
+Resource super type: -
+
+** Resource properties **
+jcr:primaryType: cq:Page
+jcr:mixinTypes: [rep:AccessControllable]
+jcr:created: java.util.GregorianCalendar[time=1587283299032,areFieldsSet=true,areAllFieldsSet=true,lenient=false,zone=sun.util.calendar.ZoneInfo[id="GMT+10:00",offset=36000000,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2020,MONTH=3,WEEK_OF_YEAR=17,WEEK_OF_MONTH=4,DAY_OF_MONTH=19,DAY_OF_YEAR=110,DAY_OF_WEEK=1,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=6,HOUR_OF_DAY=18,MINUTE=1,SECOND=39,MILLISECOND=32,ZONE_OFFSET=36000000,DST_OFFSET=0]
