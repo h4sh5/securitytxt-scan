@@ -1,0 +1,5 @@
+Contact: mailto:digital@hollowayremovals.com.au
+Contact: mailto:hello@hollowayremovals.com.au
+Expires: 2029-12-31T13:59:00.000Z
+Preferred-Languages: en
+Canonical: https://hollowayremovals.com.au/.well-known/security.txt
