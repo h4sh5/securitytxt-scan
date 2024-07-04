@@ -1,0 +1,4 @@
+Contact: https://www.education.wa.edu.au/en/website-security
+Expires: 2026-02-07T04:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.education.wa.edu.au/security.txt
