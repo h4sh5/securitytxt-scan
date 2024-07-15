@@ -1,0 +1,11 @@
+# Fastmail security contacts and policy
+Expires: 2025-07-01T00:00:00.000Z
+
+# Our security contact details
+Contact: mailto:security@fastmailteam.com
+
+# Link to our vulnerability disclosure policy
+Policy: https://www.fastmail.com/bug-bounty/
+
+# Languages that our team speaks and understands
+Preferred-Languages: en
