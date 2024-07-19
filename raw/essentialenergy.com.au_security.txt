@@ -1,0 +1,11 @@
+<Html>
+<Head>
+<title>Essential Energy - Error</title>
+</Head>
+<Body>
+<img src="https://www.essentialenergy.com.au/-/media/Project/EssentialEnergy/shared/logo.svg" alt="Essential Energy Logo" style="float: left;" />
+<br><br><br><br><br>Access to this page has been blocked. Our website can be found at <a href="https://www.essentialenergy.com.au" style="color:#f58025">essentialenergy.com.au</a>, or contact us on <a href="tel:132391" style="color:#f58025">132391</a>.
+<br/><br/> Your support ID is: abbd5b01-a04c-48b2-a79f-e7625bf34c93<br/><br/><a href="javascript:history.back()" style="color:#f58025">Go Back</a>
+</Body>
+</Html>
+</Html>
