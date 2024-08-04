@@ -1,0 +1,3 @@
+Contact: mailto:security@chloeferres.com.au
+Canonical: https://chloeferres.com.au/security.txt
+Expires: 2034-01-01T00:00:00.000Z
