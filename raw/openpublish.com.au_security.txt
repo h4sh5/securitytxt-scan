@@ -1,0 +1,5 @@
+Contact: mailto:security@allette.com.au
+Expires: 2025-03-31T13:00:00.000Z
+Preferred-Languages: en,fr,pt,es
+Canonical: https://open-standards.com/.well-known/security.txt
+Policy: https://allette.com.au/security.html
