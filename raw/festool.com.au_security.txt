@@ -1,0 +1,3 @@
+Contact: mailto:webmaster@tooltechnic.com.au
+Contact: tel:0397685612
+Policy: https://magento.com/security
