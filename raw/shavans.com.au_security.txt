@@ -1,0 +1,6 @@
+
+# shavans.com.au Vulnerability Disclosure
+Contact: https://srs.securityforeveryone.com/shavans.com.au/report
+Acknowledgments: https://srs.securityforeveryone.com/shavans.com.au
+Preferred-Languages: en
+#s4e-verify-token: e10fd9df2d0be05fa478e36875227005
