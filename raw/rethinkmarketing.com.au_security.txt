@@ -1,0 +1,6 @@
+
+# rethinkmarketing.com.au Vulnerability Disclosure
+Contact: https://srs.s4e.io/rethinkmarketing.com.au/report
+Acknowledgments: https://srs.s4e.io/rethinkmarketing.com.au
+Preferred-Languages: en
+#s4e-verify-token: d4028cd2492772f286e934d860793c70
