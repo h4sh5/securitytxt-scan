@@ -1,0 +1,8 @@
+
+# security.txt
+# Security Policy
+
+Contact: mailto:support@bulletpoint.com.au
+Encryption: https://bulletpoint.com.au/.well-known/pgp-key.txt
+Acknowledgements: https://bulletpoint.com.au/security-acknowledgements.html
+Preferred-Languages: en
