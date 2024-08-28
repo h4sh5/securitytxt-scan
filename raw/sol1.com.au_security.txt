@@ -1,0 +1,11 @@
+# Sol1 Pty Ltd, based in Australia - security.txt file (as per RFC-9116)
+# Thank you for taking an interest in our Information Security!
+# We welcome responsible disclosure and will handle reports appropriately.
+
+Contact: mailto:security@sol1.com.au
+Expires: 2025-08-27T14:00:00.000Z
+Encryption: https://sol1.com.au/.well-known/GPG-pubkey-Sol1-Security.asc
+Acknowledgments: https://sol1.com.au/vulnerability-disclosure-policy
+Preferred-Languages: en
+Canonical: https://sol1.com.au/.well-known/security.txt
+Policy: https://sol1.com.au/vulnerability-disclosure-policy
