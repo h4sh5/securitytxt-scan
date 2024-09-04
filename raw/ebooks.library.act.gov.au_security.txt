@@ -1,0 +1,6 @@
+Contact: mailto:security@overdrive.com
+Expires: 2024-01-01T04:59:00.000Z
+Preferred-Languages: en
+Canonical: https://www.overdrive.com/.well-known/security.txt
+
+# OverDrive does not offer a bug bounty program.
