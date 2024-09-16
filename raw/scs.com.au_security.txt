@@ -1,0 +1,11 @@
+# Sonic Healthcare PTY LTD - reporting security vulnerabilities to Sonic Healthcare
+  
+# Please report any security vulnerabilities to us via the contact method(s) below, only after reading our disclosure policy.
+# Please do not include any sensitive information in your initial message, we'll provide a secure communication method in our reply to you.
+# Please read our security disclosure policy at the below page
+Policy: https://www.sonichealthcare.com/privacy-and-security/vulnerability-disclosure-policy/
+Contact: https://www.sonichealthcare.com/privacy-and-security/vulnerability-disclosure-policy/
+Acknowledgments: https://www.sonichealthcare.com/privacy-and-security/vulnerability-disclosure-policy/
+Preferred-Languages: en
+Expires: 2034-05-13T13:37:00.000Z
+# Please see https://securitytxt.org/ for details of the specification of this file
