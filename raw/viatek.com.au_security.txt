@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Policy: https://viatek.com.au/vulnerability-disclosure-program
+Contact: mailto:vulnerabilitydisclosure@viatek.com.au
+Preferred-Languages: en
+
+Encryption: https://viatek.com.au/Viatek_Technology_VDP.txt
+Encryption: openpgp4fpr:2fbeee6eed56f9903fa0743c558696e07464fd55
+
+Canonical: https://viatek.com.au/.well-known/security.txt
+Expires: 2030-09-04T04:00:00z
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQvvu5u7Vb5kD+gdDxVhpbgdGT9VQUCZtk8bQAKCRBVhpbgdGT9
+VccGAQD4ljngJcBRywPevHB6ZxoE94kiw3LoU49A0b7kY9iKTgEAw2is+DhG+KL6
+BPL7IImvPEh5UKmLpQWaMaubS+Op7Ao=
+=i7mn
+-----END PGP SIGNATURE-----
