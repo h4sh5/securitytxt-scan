@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:servicedesk@scu.edu.au
+Contact: mailto:csec-reports@scu.edu.au
+Expires: 2027-09-01T23:59:00.000Z
+Encryption: openpgp4fpr:89d45a4493c260f5725dce8b915b8d96944935ce
+Preferred-Languages: en
+Canonical: https://www.scu.edu.au/.well-known/security.txt
+Canonical: https://www.scu.edu.au/security.txt
+OpenBugBounty: https://openbugbounty.org/bugbounty/scu-cybersec/
+-----BEGIN PGP SIGNATURE-----
+
+iI4EARYIADYWIQSJ1FpEk8Jg9XJdzouRW42WlEk1zgUCZuevoBgcY3NlYy1yZXBv
+cnRzQHNjdS5lZHUuYXUACgkQkVuNlpRJNc7DUQD/QEu4KiebwOieTxSql4QBeyDw
+zR08bcChAF5BwlCvKu4A/jResYZNA3xMi/zvxvFGQ+vrNkWphltt2TzHiCUjMEcA
+=Z1qw
+-----END PGP SIGNATURE-----
