@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# Our security address
+Contact: mailto:security@vorwerk.com
+
+# Our GPG key
+Encryption: https://keys.openpgp.org/search?q=security@vorwerk.com
+
+# Preferred languages
+Preferred-Languages: en
+
+# This file expires after
+Expires: 2026-12-31T12:05:00Z
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCAAzFiEEEXZHD36U4HSP7sG2glw50RoN1rgFAmYp8AMVHHNlY3VyaXR5
+QHZvcndlcmsuY29tAAoJEIJcOdEaDda4njIP/0P/XjFR6dVg/B4Ql68HrBfpEPws
+H5TtlvCdwfG6YsmL4ecY8YtanUpthxu4Ky5noedr9FuIkVGcQAFxb5BdwZg8pgAG
+LqxtvnGMd1ivsnj7PM2prypxiM2zOwtI+jS6OnbJHbxTQ1MOjCUT8WwfS4Gv/Cc9
+rTZcBu+Glau4hOIf99lI7EiauUJuPQlQgk8pgU9N8gq7zDcpeOdDQYhmv5PwIIyO
+CIk9drZKz4t3GREPu09zG0FOjtgVgxFAK14UsEejtJg5YtwgKoCVCjLxExeTsyQP
+34C76+lZSjmM4tpr5EiziaRsJotxTx83nOf4G2ap84AHm3uTazq1Asn5wILknFuc
+imA4P+i4ywm8VGdJojiHDgVxDYxTCHzAwyveYYNlyGzeSpmuEzozs9DfGsFK7Kyv
+GCFrps7RwkQxrtR6Ji4/inLj7HMJ/4AMjXSP3uWqPL1Wv6kQ/hNwQ73O2Db7Gcwx
+pBYf4WFA8hi4HWC1e3ljBFMFGUdhgJ5NZnofd56FuDzLf8T22Gd2iCKIvbYP5WPi
+UP9Rdo3LUiU0MHMTgxUKWVw2XQnZU8BwwX4UkKV5K7CJLu9j6XZFkZ3pkqoMVZVe
+eSgX6YGcGyOudaGS16ZDfxq2Jvrcf0IsxXmNxvLO8IbpvPpzxHlrvd0vQh71Gaww
+AP0Z9qN6EHaxi/IQ
+=jWUw
+-----END PGP SIGNATURE-----
