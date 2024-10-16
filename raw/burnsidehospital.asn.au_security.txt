@@ -1,0 +1,5 @@
+Contact: mailto:helpdesk@burnsidehospital.asn.au
+Expires: 2030-01-01T14:33:00Z
+Hiring: https://www.burnsidehospital.asn.au/about/careers/
+Policy: https://www.burnsidehospital.asn.au/patients/support-information/privacy-statement/
+Preferred-Languages: en
