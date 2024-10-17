@@ -1,0 +1,3 @@
+Contact: mailto:it@golfbox.com.au
+Expires: 2025-10-17T00:00:00Z
+Preferred-Languages: en
