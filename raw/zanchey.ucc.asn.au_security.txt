@@ -1,0 +1,13 @@
+# security.txt file for sites hosted at The University Computer Club
+
+# This email address goes to our systems administration group
+# For confidential matters, please drop an email asking for a 
+# executive committee member to reach back out to you
+Contact: mailto:wheel@ucc.asn.au
+Contact: tel:+61 8 6488 3901
+Contact: https://ucc.asn.au/aboutucc/contact.ucc
+Expires: 2026-01-01T13:37:00.000Z
+Preferred-Languages: en
+Canonical: https://www.ucc.asn.au/.well-known/security.txt
+Policy: https://www.ucc.asn.au/infobase/policies.ucc
+Policy: https://ucc.asn.au/infobase/policies/regulations_20180926.ucc#usage_guidelines
