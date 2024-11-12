@@ -1,0 +1,4 @@
+Contact: mailto:security@gamesmen.com.au
+Expires: 2025-11-05T14:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.gamesmen.com.au/.well-known/security.txt
