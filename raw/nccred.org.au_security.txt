@@ -1,0 +1,15 @@
+# security.txt file for https://nccred.org.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: devs@yump.com.au
+
+# (required) Expiration date for the security information herein
+Expiration: 2025-11-14T13:29:31+11:00
+
+# (optional) OpenPGP key:
+Encryption: https://nccred.org.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://nccred.org.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://nccred.org.au/hall-of-fame
