@@ -1,0 +1,6 @@
+Contact: https://www.babycenter.com.au/contact-us
+Contact: https://bugcrowd.com/ziffdavis-vdp-pro
+Expires: 2027-01-01T07:00:00.000Z
+Policy: https://www.babycenter.com.au/help-privacy
+Preferred-Languages: en
+Canonical: https://www.babycenter.com.au/.well-known/security.txt
