@@ -1,0 +1,5 @@
+Contact: mailto:security@shellenergy.com.au
+Expires: 2025-12-31T11:44:00.000Z
+Preferred-Languages: en
+Canonical: https://powershop.com.au/security.txt
+Policy: https://www.powershop.com.au/privacy-policy/powershop-responsible-disclosure-policy
