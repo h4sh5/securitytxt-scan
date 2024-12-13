@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# If you'd like to encrypt your message, please do so within the the body of the message.
+# Our email system doesn't handle PGP-MIME well.
+Contact: mailto:security@swoop.com.au
+
+# All abuse reports should be submitted to our abuse email, do not encrypt messages to this address.
+Contact: mailto:abuse@swoop.com.au
+
+Preferred-Languages: en
+ 
+Encryption: https://www.swoop.com.au/gpg/security-at-swoop-pubkey.txt
+Canonical: https://www.swoop.com.au/.well-known/security.txt
+
+Expires: 2024-11-21T07:01:28.890Z
+
+-----BEGIN PGP SIGNATURE-----
+
+iIwEARYKADQWIQS2m8IAEaks55BGQoucuSt9DdsowwUCZV2nSRYcc2VjdXJpdHlA
+c3dvb3AuY29tLmF1AAoJEJy5K30N2yjDSdsA/1l9Cin9LGCX4+0vnWfFbm8KwU42
+bVyqCBIaJ0gTUmQRAP4ylVXSLQb64RCrzNjkGfNdYX/vfsFAlVcO3TlgwKiNBQ==
+=bkkv
+-----END PGP SIGNATURE-----
