@@ -1,0 +1,6 @@
+
+# www.rilu-e-bike.com.au Vulnerability Disclosure
+Contact: https://srs.s4e.io/www.rilu-e-bike.com.au/report
+Acknowledgments: https://srs.s4e.io/www.rilu-e-bike.com.au
+Preferred-Languages: en
+#s4e-verify-token: 05d0f64f5c1a3f5b5cdaefdc7323bd13
