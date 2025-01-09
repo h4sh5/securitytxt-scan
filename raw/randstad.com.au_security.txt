@@ -1,0 +1,5 @@
+Contact: https://intigriti.com/programs/randstad/randstad/
+Expires: 2027-12-31T23:59:59.000Z
+Acknowledgements: https://intigriti.com/programs/randstad/randstad/leaderboard
+Preferred-Languages: en
+Policy: https://www.randstad.com/report-a-security-problem/
