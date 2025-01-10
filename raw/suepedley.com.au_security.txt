@@ -1,0 +1,3 @@
+Canonical: https://suepedley.com.au/security.txt
+Contact: mailto:codey@ianhobbsmedia.com
+Expires: 2028-01-30T12:12:00Z
