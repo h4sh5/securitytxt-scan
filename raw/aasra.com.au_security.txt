@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <title>Australian Automotive Service and Repair Authority</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//aasra.com.au' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="Australian Automotive Service and Repair Authority &raquo; Feed" href="https://aasra.com.au/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Australian Automotive Service and Repair Authority &raquo; Comments Feed" href="https://aasra.com.au/?feed=comments-rss2" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aasra.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://aasra.com.au/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='essential-widgets-css' href='https://aasra.com.au/wp-content/plugins/essential-widgets/public/css/essential-widgets-public.css?ver=2.2.1' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://aasra.com.au/wp-includes/css/dashicons.min.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='wpfd-modal-css' href='https://aasra.com.au/wp-content/plugins/wp-file-download/app/admin/assets/css/leanmodal.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='wpfd-viewer-css' href='https://aasra.com.au/wp-content/plugins/wp-file-download/app/site/assets/css/viewer.css?ver=6.2.0' media='all' />
+<link rel='stylesheet' id='parent-css' href='https://aasra.com.au/wp-content/themes/nastf_2021/style.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='custom-css' href='https://aasra.com.au/wp-content/themes/nastf_2021/public/build/nastf/tailwind.css?ver=1678063950' media='all' />
+<link rel='stylesheet' id='custom-child-css' href='https://aasra.com.au/wp-content/themes/nastf_2021/public/build/aasra/tailwind.css?ver=1678064561' media='all' />
+<link rel='stylesheet' id='nastf_2020-style-css' href='https://aasra.com.au/wp-content/themes/nastf-australia/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='simcal-qtip-css' href='https://aasra.com.au/wp-content/plugins/google-calendar-events/assets/generated/vendor/jquery.qtip.min.css?ver=3.4.8' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-grid-css' href='https://aasra.com.au/wp-content/plugins/google-calendar-events/assets/generated/default-calendar-grid.min.css?ver=3.4.8' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-list-css' href='https://aasra.com.au/wp-content/plugins/google-calendar-events/assets/generated/default-calendar-list.min.css?ver=3.4.8' media='all' />
+<link rel='stylesheet' id='fullcalendar-css' href='https://aasra.com.au/wp-content/plugins/simple-calendar-fullcalendar/assets/css/vendor/fullcalendar.css?ver=3.4.8' media='all' />
+<link rel='stylesheet' id='simcal-tooltip-css' href='https://aasra.com.au/wp-content/plugins/simple-calendar-fullcalendar/assets/css/vendor/tooltip.css?ver=3.4.8' media='all' />
+<link rel='stylesheet' id='simcal-fullcal-grid-css' href='https://aasra.com.au/wp-content/plugins/simple-calendar-fullcalendar/assets/css/fullcalendar-grid.css?ver=3.4.8' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css' href='https://use.fontawesome.com/releases/v6.1.1/css/all.css' media='all' integrity="sha384-/frq1SRXYH/bSyou/HUp/hib7RVN1TawQYja658FEOodR/FQBKVqT9Ol+Oz3Olq5" crossorigin="anonymous" />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css' href='https://use.fontawesome.com/releases/v6.1.1/css/v4-shims.css' media='all' integrity="sha384-4Jczmr1SlicmtiAiHGxwWtSzLJAS97HzJsKGqfC0JtZktLrPXIux1u6GJNVRRqiN" crossorigin="anonymous" />
+<script src="https://aasra.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://aasra.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://aasra.com.au/wp-content/plugins/essential-widgets/public/js/essential-widgets-public.js?ver=2.2.1" id="essential-widgets-js"></script>
+<script id="wpfd-mediaTable-js-extra">
+var wpfd_var = {"adminurl":"https:\/\/aasra.com.au\/wp-admin\/admin.php","wpfdajaxurl":"https:\/\/aasra.com.au\/wp-admin\/admin-ajax.php?juwpfisadmin=false&action=wpfd&"};
+</script>
+<script src="https://aasra.com.au/wp-content/plugins/wp-file-download/app/site/themes/wpfd-table/js/jquery.mediaTable.js?ver=6.7.1" id="wpfd-mediaTable-js"></script>
+<script src="https://aasra.com.au/wp-content/plugins/wp-file-download/app/admin/assets/js/jquery.leanModal.min.js?ver=6.7.1" id="wpfd-modal-js"></script>
+<script id="wpfd-modal-init-js-extra">
+var wpfdmodalvars = {"adminurl":"https:\/\/aasra.com.au\/wp-admin\/","wpfd_iframe_title":"WP File Download Iframe"};
+</script>
+<script src="https://aasra.com.au/wp-content/plugins/wp-file-download/app/site/assets/js/leanmodal.init.js?ver=6.7.1" id="wpfd-modal-init-js"></script>
+<link rel="https://api.w.org/" href="https://aasra.com.au/index.php?rest_route=/" /><link rel="alternate" title="JSON" type="application/json" href="https://aasra.com.au/index.php?rest_route=/wp/v2/pages/774" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aasra.com.au/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel="canonical" href="https://aasra.com.au/" />
+<link rel='shortlink' href='https://aasra.com.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://aasra.com.au/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Faasra.com.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://aasra.com.au/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Faasra.com.au%2F&#038;format=xml" />
+<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style></head>
+
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-774">
+            <div id="page" class="site">
+        <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+        <div class="root__grid">
+            <header id="masthead" class="root__header">
+                <div class="flex items-center sm:w-full">
+                    <div class="sm:flex sm:items-center ml-6">
+                        <div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAzQAAAE4AQMAAAC34SRmAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAADZJREFUGBntwQENAAAAwiD7p34PBwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACwF+wAABYTA6mgAAAABJRU5ErkJggg==" alt="" width="410px" height="156px" data-src="https://aasra.com.au/wp-content/uploads/2022/06/AASRA-Banner-2-72dpi.jpg" decoding="async" class="lazyload" data-eio-rwidth="820" data-eio-rheight="312"><noscript><img src="https://aasra.com.au/wp-content/uploads/2022/06/AASRA-Banner-2-72dpi.jpg" alt="" width="410px" height="156px" data-eio="l"></noscript></div>
+                        <div class="banner_image_2_container hidden sm:block">
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnAAAACcAQMAAADFxAQwAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUGBntwQENAAAAwiD7p34PBwwAAAAAAAAAAAAAALgQMCQAAdl9OosAAAAASUVORK5CYII=" alt="" height="156px" data-src="https://aasra.com.au/wp-content/uploads/2023/03/cropped-pexels-wendy-wei-1662570-2-e1678062890815.jpg" decoding="async" class="lazyload" data-eio-rwidth="624" data-eio-rheight="156"><noscript><img src="https://aasra.com.au/wp-content/uploads/2023/03/cropped-pexels-wendy-wei-1662570-2-e1678062890815.jpg" alt="" height="156px" data-eio="l"></noscript>
+                            <div class="banner_image_2_text text-white text-center align-middle text-2xl font-semibold">Australian Automotive Service and Repair Authority</div>
+                        </div>
+                    </div>
+                    <div class="sm:hidden">
+                        <button class="block text-opacity-50 text-white md:hover:text-white md:hover:bg-gray-300 focus:outline-none border-none mr-1">
+                            <svg class="h-6 w-6 fill-current" fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px" height="24px">
+                                <path d="M0 11H24V13H0zM0 2H24V4H0zM0 20H24V22H0z" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div id="site-navigation" class="px-2 pb-4 sm:hidden hidden">
+                    <div class="menu-australia-container"><ul id="hamburger-menu" class="pr-2"><li hidden><a href="https://sdrm.aasra.com.au/dashboard" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-home fa-fw"></i> Dashboard</a></li><li hidden><a href="https://sdrm.aasra.com.au/notifications" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-bell fa-fw"></i> Notifications</a></li><li hidden><a href="https://sdrm.aasra.com.au/users" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-users fa-fw"></i> Accounts</a></li><li hidden><a href="https://sdrm.aasra.com.au/companies" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-briefcase fa-fw"></i> Companies</a></li><li hidden><a href="https://sdrm.aasra.com.au/d1formnav-details" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fa fa-info-circle"></i> Security Request</a></li><li hidden><a href="https://sdrm.aasra.com.au/receipts" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fa fa-info-circle"></i> Receipts</a></li><li><a href="https://aasra.com.au/" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-774 current_page_item"><i class="fa fa-info-circle"></i> Home</a></li><li><a href="https://aasra.com.au/?page_id=344" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> Automotive Websites</a></li><li><a href="https://aasra.com.au/?page_id=1937" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> News and FAQ</a></li><li hidden><a href="https://aasra.com.au/?page_id=2832" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> Missing Information Report</a></li><li><a href="https://aasra.com.au/?page_id=842" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> About AASRA</a></li></ul></div>                </div>
+            </header><!-- #masthead --><div class="root__menu">
+    <nav class="nav-primary"><ul id="menu-australia" class="pt-3 pl-8"><li hidden><a href="https://sdrm.aasra.com.au/dashboard" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-home fa-fw"></i> Dashboard</a></li><li hidden><a href="https://sdrm.aasra.com.au/notifications" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-bell fa-fw"></i> Notifications</a></li><li hidden><a href="https://sdrm.aasra.com.au/users" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-users fa-fw"></i> Accounts</a></li><li hidden><a href="https://sdrm.aasra.com.au/companies" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fas fa-briefcase fa-fw"></i> Companies</a></li><li hidden><a href="https://sdrm.aasra.com.au/d1formnav-details" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fa fa-info-circle"></i> Security Request</a></li><li hidden><a href="https://sdrm.aasra.com.au/receipts" class=" menu-item menu-item-type-custom menu-item-object-custom"><i class="fa fa-info-circle"></i> Receipts</a></li><li><a href="https://aasra.com.au/" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-774 current_page_item"><i class="fa fa-info-circle"></i> Home</a></li><li><a href="https://aasra.com.au/?page_id=344" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> Automotive Websites</a></li><li><a href="https://aasra.com.au/?page_id=1937" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> News and FAQ</a></li><li hidden><a href="https://aasra.com.au/?page_id=2832" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> Missing Information Report</a></li><li><a href="https://aasra.com.au/?page_id=842" class=" menu-item menu-item-type-post_type menu-item-object-page"><i class="fa fa-info-circle"></i> About AASRA</a></li></ul></nav></div>
+<div class="root__content">
+    
+<div class="article__grid max-w-4xl">
+    <div class="article__header">
+        <div class="max-w-3xl ml-6 mt-4">
+            <p>As the Scheme Adviser of the <em>Motor Vehicle Service and Repair Information Sharing Scheme (MVIS)</em>, AASRA facilitates Automotive Repairers and Registered Training Organisation (RTO’s) access to car manufacturers and data providers repair information.</p>
+<p>To read more about the purpose and functions of AASRA, please <span style="text-decoration: underline;"><strong><a href="https://aasra.com.au/?page_id=842">click here</a>.</strong></span></p>
+<p>&nbsp;</p>
+<p>For a guide on how to join AASRA, please <a href="https://aasra.com.au/wp-content/uploads/2024/10/HOW-TO-JOIN-AASRA-2.mp4"><strong>CLICK HERE</strong></a>.<br />
+&nbsp;</p>
+        </div>
+        <div class="ml-4 mt-4 pl-2">
+            <dt class="font-bold text-black"><p><strong>AASRA MEMBERSHIP FEES: </strong>(refer to Automotive Websites for manufacturer access fees)</p>
+</dt>
+        </div>
+    </div>
+    <div class="article__content">
+        <dl class="grid grid-cols-1 gap-x-6">
+            <div class="mt-4 pl-2 pb-2 rounded-none border-2 border-indigo-500/100">
+                <dt class="font-bold text-black">TECHNICIAN</dt>
+                <dd class="text-sm text-black"><div class="flex justify-between mr-2">Access service manuals, repair procedures, TSBs, diagnostics etc.         <em>$90+ GST per year</em></div>
+</dd>
+            </div>
+
+            <div class="mt-4 pl-2 pb-2 rounded-none border-2 border-indigo-500/100">
+                <dt class="font-bold text-black">SAFETY UPGRADES</dt>
+                <dd class="text-sm text-black"><div class="flex justify-between mr-2">EV-hybrid high voltage *                           <em>  $50+ GST one-off fee</em> (certificate required)</div>
+<div class="flex justify-between mr-2">Hydrogen                                                   <em>$50+ GST one-off fee</em> (certificate required)</div>
+</dd>
+            </div>
+
+            <div class="mt-4 pl-2 pb-2 rounded-none border-2 border-indigo-500/100">
+                <dt class="font-bold text-black">VEHICLE SECURITY PROFESSIONAL (VSP) UPGRADE </dt>
+                <dd class="text-sm text-black"><div class="flex justify-between mr-2">Access keycodes, immobiliser codes, radio codes etc.               <em>$210+ GST per year</em></div>
+<p>Police certificate &amp; business insurance required</p>
+</dd>
+            </div>
+        </dl>
+    </div>
+    <div class="article__sidebar max-w-2xl">
+        <div class="grid grid-cols-[200px] mr-6 justify-items-center">
+            <div class="mt-4 max-w-1xl flex justify-end">
+                <button type="button" class="max-w-sm rounded-md border border-transparent bg-red-600 py-3 px-4 text-base font-medium text-white shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 focus:ring-offset-gray-50" onclick="window.location.href='https://sdrm.aasra.com.au/'">LOG-IN</button>
+            </div>
+            <div class="mt-4 max-w-1xl flex justify-end">
+                <button type="button" class="max-w-sm rounded-md border border-transparent bg-red-600 py-3 px-4 text-base font-medium text-white shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 focus:ring-offset-gray-50" onclick="window.location.href='https://sdrm.aasra.com.au/'">JOIN</button>
+            </div>
+            <div class="mt-4 max-w-1xl flex justify-end">
+                <button type="button" class="max-w-sm rounded-md border border-transparent bg-red-600 py-3 px-4 text-base font-medium text-white shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 focus:ring-offset-gray-50" onclick="window.open('https://aasra.com.au/wp-content/uploads/2023/03/AASRA-Registration-Docs-v2.pdf')">Joining Help</button>
+            </div>
+            <div class="mt-4 max-w-1xl flex justify-end">
+                <button type="button" class="max-w-sm rounded-md border border-transparent bg-red-600 py-3 px-4 text-base font-medium text-white shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 focus:ring-offset-gray-50" onclick="window.open('https://aasra.com.au/wp-content/uploads/2023/02/AASRA-Navigation-23022023.pdf')">Navigation <br> Help</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="article__footer">
+    <div class="mt-4 ml-6">
+        <dt class="font-bold text-black"></dt>
+        <dd class="text-sm text-black"><p><strong>* EV &#8211; HIGH VOLTAGE CERTIFICATES</strong></p>
+<p>The Legislation refers to Registered Training Organisations<em> (RTO)</em> <strong>AURETH101 (Depower and Reinitialise Battery Electric Vehicles)<br />
+</strong>or an equivalent course, or on the job training provided by or on behalf of a manufacturer.</p>
+<p>&nbsp;</p>
+<p><strong>CONTACT AASRA</strong></p>
+<p><strong>Email: </strong><a href="mailto:support@aasra.com.au">support@aasra.com.au</a></p>
+<p><strong>Phone:</strong> 1300 222 772 (9am to 5pm EST)</p>
+<p><span style="text-decoration: underline;"><a href="https://youtu.be/POzWXVyNXxI" target="_blank" rel="noopener"><strong>Click Here for a website walkthrough</strong></a></span></p>
+</dd>
+    </div>
+</div>
+
+<span class="hidden underline decoration-sky-600 hover:decoration-blue-400"><a class="decoration-indigo-300" href="http://192.168.0.80/?page_id=732">click here</a></span></div>
+<footer id="colophon" class="site-footer root__footer">
+    <div class="text-center p-2">
+        <section class="footer-area footer-area-one"><h4>Search Posts</h4><form role="search" method="get" id="searchform" class="searchform" action="https://aasra.com.au/" >
+        <div class="max-w-md mb-3">
+	        <label class="screen-reader-text" for="s">Search for:</label>
+	        <div class="mt-1 flex rounded-md shadow-sm">
+		        <div class="relative flex items-stretch flex-grow focus-within:z-10">
+			      <input type="text" name="s" id="s" class="focus:ring-indigo-500 focus:border-indigo-500 block w-full rounded-none rounded-l-md pl-10 sm:text-sm border-gray-300" placeholder="Search terms" value="">
+		        </div>
+		        <button id="searchsubmit" class="-ml-px relative inline-flex items-center space-x-2 px-4 py-2 border border-gray-300 text-sm font-medium rounded-r-md text-gray-700 bg-gray-50 hover:bg-gray-100 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
+			      <span>Search</span>
+		        </button>
+	        </div>
+        </div>
+    </form></section>    </div>
+    <div class="text-center p-2">
+        <a href="mailto:support@aasra.com.au?subject=AASRA%20Support%20Request" target="blank">Contact Us</a>
+    </div>
+    <footer>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+            <div class="mt-4 md:mt-0 md:order-1">
+                <p class="text-center text-base text-gray-400">
+                    <a href="https://aasra.com.au/">&copy; 2019-2024 Australian Automotive Service and Repair Authority</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+</footer><!-- #colophon -->
+</div><!-- #root__grid -->
+</div><!-- #page -->
+
+<script id="eio-lazy-load-js-before">
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0,"use_dpr":1};
+</script>
+<script src="https://aasra.com.au/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=800" id="eio-lazy-load-js" async data-wp-strategy="async"></script>
+<script src="https://aasra.com.au/wp-content/themes/nastf_2021/js/navigation.js?ver=1.0.0" id="nastf_2020-navigation-js"></script>
+<script src="https://aasra.com.au/wp-content/themes/nastf_2021/js/video.js?ver=1.0.0" id="nastf_2021-video-js"></script>
+<script src="https://aasra.com.au/wp-content/plugins/google-calendar-events/assets/generated/vendor/jquery.qtip.min.js?ver=3.4.8" id="simcal-qtip-js"></script>
+<script id="simcal-default-calendar-js-extra">
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"9421d7dfae","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+</script>
+<script src="https://aasra.com.au/wp-content/plugins/google-calendar-events/assets/generated/default-calendar.min.js?ver=3.4.8" id="simcal-default-calendar-js"></script>
+<script src="https://aasra.com.au/wp-content/plugins/simple-calendar-fullcalendar/assets/js/vendor/moment.js?ver=3.4.8" id="simcal_fullcal_moment-js"></script>
+<script id="simcal_fullcal-js-extra">
+var simcal_fullcal = {"cal_nav_today":"today","cal_nav_months":"month","cal_nav_weeks":"week","cal_nav_days":"day"};
+</script>
+<script src="https://aasra.com.au/wp-content/plugins/simple-calendar-fullcalendar/assets/js/vendor/fullcalendar.js?ver=3.4.8" id="simcal_fullcal-js"></script>
+<script src="https://aasra.com.au/wp-content/plugins/simple-calendar-fullcalendar/assets/js/vendor/lang-all.js?ver=3.4.8" id="simcal_fullcal_locale-js"></script>
+<script src="https://aasra.com.au/wp-content/plugins/google-calendar-events/assets/js/vendor/jquery.qtip.js?ver=3.4.8" id="simcal_qtip-js"></script>
+<script src="https://unpkg.com/@popperjs/core@2?ver=3.4.8" id="simcal_popper-js"></script>
+<script src="https://unpkg.com/tippy.js@6?ver=3.4.8" id="simcal_tippy-js"></script>
+<script id="simcal_fullcal_grid-js-extra">
+var simcal_fullcal = {"settings":{"ajax_url":"\/wp-admin\/admin-ajax.php","lang":"en_US","isRTL":false},"today":"today","months":"month","weeks":"week","days":"day"};
+</script>
+<script src="https://aasra.com.au/wp-content/plugins/simple-calendar-fullcalendar/assets/js/fullcalendar-grid.js?ver=3.4.8" id="simcal_fullcal_grid-js"></script>
+<script src="https://aasra.com.au/wp-content/plugins/google-calendar-events/assets/generated/vendor/imagesloaded.pkgd.min.js?ver=3.4.8" id="simplecalendar-imagesloaded-js"></script>
+
+</body>
+
+</html>
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: 2025-01-19 19:33 (UTC:-5) -->
