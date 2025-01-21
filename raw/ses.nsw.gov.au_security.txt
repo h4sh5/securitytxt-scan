@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+Contact: mailto:website@ses.nsw.gov.au
+Expires: 2025-11-20T13:28:39+11:00
+
+-----BEGIN PGP SIGNATURE-----
+-----BEGIN PGP SIGNATURE-----
+
+iHUEABYKAB0WIQQ38ZFABTj7veq4InTwAsQ4GOuqCwUCZz1N3AAKCRDwAsQ4GOuq
+Cwf5AQCzfe+GB0utwsK1PUGR/gQY5XFvRC2j2loU4hOsLBSxtAD/ZNWrbaKjrRBR
+8cZ57vekrI0JLFd1uenUx0TPzNqNWQc=
+=hpRK
+-----END PGP SIGNATURE-----
+
+-----END PGP SIGNATURE-----
+Preferred-Languages: en
