@@ -1,0 +1,5 @@
+Contact: mailto:information-security@sma.de
+Expires: 2025-11-12T16:00:00.000Z
+Preferred-Languages: en, de
+Policy: https://www.sma.de/en/cybersecurity/responsible-disclosure
+CSAF: https://sma.csaf-tp.certvde.com/.well-known/csaf/provider-metadata.json
