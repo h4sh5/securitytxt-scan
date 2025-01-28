@@ -1,0 +1,9 @@
+** Resource dumped by PlainTextRenderer**
+Resource path:/content/corporate/about-us/governance-and-structure/university-calendar
+Resource metadata: {sling.modificationTime=-1, sling.characterEncoding=null, sling.parameterMap={}, sling.contentType=null, sling.creationTime=-1, sling.contentLength=-1, sling.resolutionPath=/content/corporate/about-us/governance-and-structure/university-calendar, sling.resolutionPathInfo=.htmlsecurity.txt}
+Resource type: cq:Page
+Resource super type: -
+
+** Resource properties **
+jcr:primaryType: cq:Page
+jcr:created: java.util.GregorianCalendar[time=1566362301235,areFieldsSet=true,areAllFieldsSet=true,lenient=false,zone=sun.util.calendar.ZoneInfo[id="GMT+10:00",offset=36000000,dstSavings=0,useDaylight=false,transitions=0,lastRule=null],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2019,MONTH=7,WEEK_OF_YEAR=34,WEEK_OF_MONTH=4,DAY_OF_MONTH=21,DAY_OF_YEAR=233,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=2,HOUR_OF_DAY=14,MINUTE=38,SECOND=21,MILLISECOND=235,ZONE_OFFSET=36000000,DST_OFFSET=0]
