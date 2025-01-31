@@ -1,0 +1,3 @@
+Contact: mailto:privacy@catch.com.au
+
+OpenBugBounty: https://openbugbounty.org/bugbounty/catch/
