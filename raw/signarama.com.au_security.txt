@@ -1,0 +1,5 @@
+Canonical: https://signarama.com.au/.well-known/security.txt
+Contact: mailto:alertsec@ufgdevteam.com
+Expires: 2026-01-08T12:00:00Z
+Policy: https://security.unitedfranchisegroup.com
+Preferred-Languages: en
