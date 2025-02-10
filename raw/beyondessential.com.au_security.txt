@@ -1,0 +1,6 @@
+Contact: mailto:security@bes.au
+Expires: 2026-03-31T10:59:00.000Z
+Acknowledgments: https://github.com/beyondessential/security#acknowledgments
+Preferred-Languages: en
+Canonical: https://bes.au/.well-known/security.txt
+Policy: https://github.com/beyondessential/security
