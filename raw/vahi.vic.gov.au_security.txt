@@ -1,0 +1,2 @@
+# Report security vulnerabilities to the Portal support team.
+Contact: mailto:portal.support@vahi.vic.gov.au
