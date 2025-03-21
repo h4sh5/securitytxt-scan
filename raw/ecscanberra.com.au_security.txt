@@ -1,0 +1,7 @@
+    # security.txt file
+    Contact: security@ecscanberra.com.au
+    Policy: https://ecscanberra.com.au/vulnerability-disclosure-policy
+    # Optional:
+    # Encryption: https://ecscanberra.com.au/pgp-key.asc
+    # Acknowledgments: https://ecscanberra.com.au/security-researchers
+    # Preferred-Languages: en,de
