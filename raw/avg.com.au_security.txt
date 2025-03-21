@@ -1,0 +1,8 @@
+Contact: https://gendigital.com/contact-us/report-a-vulnerability/
+Contact: mailto:cert@gendigital.com
+Contact: https://www.first.org/members/teams/gen_cert 
+Expires: 2025-12-31T22:59:00.000Z
+Encryption: https://keyserver.ubuntu.com/pks/lookup?search=cert%40gendigital.com&fingerprint=on&op=index 
+Encryption: https://keys.openpgp.org/search?q=cert%40gendigital.com 
+Acknowledgments: https://www.gendigital.com/us/en/contact-us/security-advisories/
+Preferred-Languages: en
