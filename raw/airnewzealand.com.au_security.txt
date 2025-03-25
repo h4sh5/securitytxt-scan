@@ -1,0 +1,4 @@
+Contact: mailto:infosec-disclosure@airnz.co.nz
+Expires: 2026-03-18T10:59:00.000Z
+Preferred-Languages: en
+Canonical: https://www.airnewzealand.co.nz/.well-known/security.txt
