@@ -1,0 +1,6 @@
+Contact: mailto:researchers@zepto.com.au
+Encryption: https://zepto.com.au/publickey.txt
+Expires: 2026-03-31T23:59:00Z
+Hiring: https://zepto.com.au/company/careers
+Policy: https://zepto.com.au/uploads/documents/Vulnerability-Disclosure-Policy.pdf
+Preferred-Languages: en
