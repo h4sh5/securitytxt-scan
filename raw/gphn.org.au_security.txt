@@ -1,0 +1,1282 @@
+
+			
+
+<!doctype html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Gippsland Primary Health Network</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Gippsland Primary Health Network" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://gphn.org.au/#website","url":"http://gphn.org.au/","name":"Gippsland Primary Health Network","description":"Gippsland PHN’s vision is for a measurably healthier Gippsland.","publisher":{"@id":"http://gphn.org.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://gphn.org.au/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"http://gphn.org.au/#organization","name":"Gippsland Primary Health Network","url":"http://gphn.org.au/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"http://gphn.org.au/#/schema/logo/image/","url":"https://gphn.org.au/wp-content/uploads/2020/12/gphn-logo.png","contentUrl":"https://gphn.org.au/wp-content/uploads/2020/12/gphn-logo.png","width":478,"height":300,"caption":"Gippsland Primary Health Network"},"image":{"@id":"http://gphn.org.au/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpo_min-header-0-css' href='https://gphn.org.au/wp-content/cache/wpo-minify/1745303110/assets/wpo-minify-header-cef9aaf3.min.css' media='all' />
+<script src="https://gphn.org.au/wp-content/cache/wpo-minify/1745303110/assets/wpo-minify-header-7b340e44.min.js" id="wpo_min-header-0-js"></script>
+<link rel="https://api.w.org/" href="https://gphn.org.au/wp-json/" /><meta name="generator" content="Elementor 3.28.3; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://gphn.org.au/wp-content/uploads/2020/12/favicon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://gphn.org.au/wp-content/uploads/2020/12/favicon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gphn.org.au/wp-content/uploads/2020/12/favicon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://gphn.org.au/wp-content/uploads/2020/12/favicon-300x300.png" />
+
+	<style>
+		html {
+			animation: fadein 2s;
+			-moz-animation: fadein 2s;
+			-webkit-animation: fadein 2s;
+			-o-animation: fadein 2s;
+		}
+		::-webkit-scrollbar {
+			width: 12px;
+		}
+		::-webkit-scrollbar-track {
+			background-color: #FFF;
+			 -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+		}
+		::-webkit-scrollbar-thumb {
+			background: #8DD7F7;
+		}
+		::-webkit-scrollbar-thumb:window-inactive {
+			background: rgba(255,0,0,0.4);
+		}
+		.preloader {
+			width: 100%;
+			height: 100%;
+			min-height: 100vh;
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			z-index: 999999;
+			-webkit-transition: .2s all ease;
+				-o-transition: .2s all ease;
+				transition: .2s all ease;
+			animation: fadein 2s;
+			-moz-animation: fadein 2s;
+			-webkit-animation: fadein 2s;
+			-o-animation: fadein 2s;
+			background: rgb(152,201,138);
+			background: linear-gradient(270deg, #8dd7f7 0%, #AFABD4 37%);
+			display: flex;
+			justify-content: center;
+    		align-items: center;
+			padding: 60px 20px;
+		}
+		.preloader .preloader-inner {
+			-webkit-transform: translateY(0%);
+			-ms-transform: translateY(0%);
+			transform: translateY(0%);
+			-webkit-transition: .2s all ease;
+				-o-transition: .2s all ease;
+				transition: .2s all ease;
+		}
+		.preloader-img {
+			text-align: center;
+		}
+		.preloader .preloader-img img, .preloader .preloader-img svg {
+			max-height: 120px;
+			width: auto;
+		}
+		.preloader-text {
+			font-family: "Roboto", Sans-serif;
+			font-size: 22px;
+			line-height: 34px;
+			color: #FFF;
+			margin-top: 25px;
+			text-align: center;
+		}
+		.dots {
+			position: relative;
+			height: 100px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		.dot {
+			width: 20px;
+			height: 20px;
+			background-color: #fff;
+			margin: 0 15px;
+		}
+		.dot:nth-child(1) {
+			animation-delay: 0s;
+			background: #FFF;
+		}
+		.dot:nth-child(2) {
+			animation-delay: 0.4s;
+			background: #8ed8f8;
+		}
+		.dot:nth-child(3) {
+			animation-delay: 0.8s;
+			background: #f89b6e;
+		}
+		.dot:nth-child(4) {
+			animation-delay: 1.2s;
+			background: #97ce8b;
+		}
+		.dot {
+			border-radius: 50%;
+			animation: topDown2 2.2s linear forwards infinite;
+		}
+
+		@keyframes topDown2 {
+			0%, 100% {
+				transform: translateY(0px);
+			}
+			25% {
+				transform: translateY(20px);
+			}
+			75% {
+				transform: translateY(-20px);
+			}
+		}
+	</style>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77469701-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-77469701-1');
+</script>
+	
+</head>
+<body class="archive category wp-custom-logo wp-embed-responsive wp-theme-hello-elementor wp-child-theme-hello-theme-child-master theme-default elementor-page-622 elementor-default elementor-template-full-width elementor-kit-6">
+
+<!-- <div class="preloader" id="preloader">
+	<div class="preloader-inner">
+		<div class="preloader-img" id="preloader-img">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 233.1825 145.3156"><g id="b6bea7c5-9337-4703-92c8-f551c6c53d07" data-name="Layer 2"><g id="a29169ea-b102-4e01-ad06-2e6f1314c700" data-name="Layer 1"><path d="M10.4205,134.25h.0352l1.6065,6.0886H8.6742Zm-.9883-1.7827L5.7973,145.07H7.42l.9366-3.46H12.38l.9,3.46h1.6252l-3.3892-12.6026Z" style="fill:#fff"/><path d="M15.9273,135.6094H17.34v1.1117h.0352a2.5262,2.5262,0,0,1,2.294-1.3585c2.489,0,2.489,1.8885,2.489,2.9991v6.7066H20.675v-6.53c0-.7227-.0529-1.9061-1.3949-1.9061a1.8248,1.8248,0,0,0-1.87,1.9061v6.53H15.9273Z" style="fill:#fff"/><path d="M31.251,132.4672h2.0824l3.388,12.6013H35.0985l-.9-3.4585H30.1745l-.9366,3.4585H27.615Zm-.7592,7.8713H33.881l-1.6065-6.09h-.0352Z" style="fill:#fff"/><path d="M43.8692,145.0686H42.4578v-1.1117h-.0352a2.5289,2.5289,0,0,1-2.2951,1.3585c-2.4879,0-2.4879-1.8885-2.4879-3V135.61h1.4819v6.5281c0,.7251.0529,1.9073,1.3949,1.9073a1.8247,1.8247,0,0,0,1.8709-1.9073V135.61h1.4819Z" style="fill:#fff"/><path d="M49.9583,138.38c0-1.2-.3185-1.8532-1.3938-1.8532a1.3627,1.3627,0,0,0-1.536,1.4467c0,1.1128,1.1646,1.3243,2.3292,1.7121,1.1482.389,2.3127.7945,2.3127,2.6665a2.7671,2.7671,0,0,1-3.053,2.9638c-3.2129,0-3.2482-2.3833-3.2482-3.3528h1.4831c0,1.147.3173,2.1882,1.7651,2.1882a1.4837,1.4837,0,0,0,1.57-1.5712c0-1.2692-1.1646-1.5336-2.3115-1.9226s-2.3293-.725-2.3293-2.684c0-1.764,1.3762-2.61,3.0179-2.61,2.7522,0,2.8592,1.9049,2.8768,3.0166Z" style="fill:#fff"/><path d="M53.6114,132.8557h1.4831v2.7535H56.735v1.1646H55.0945v6.0709c0,.76.1938,1.06.97,1.06a4.35,4.35,0,0,0,.6534-.0541v1.2175a6.1377,6.1377,0,0,1-1.2.1058c-1.5359,0-1.9061-.6358-1.9061-1.87v-6.53H52.2353v-1.1646h1.3761Z" style="fill:#fff"/><path d="M57.83,135.6094h1.4819v1.4114h.0353c.4242-.9.9883-1.6582,2.0471-1.6582a1.5147,1.5147,0,0,1,.6534.1046v1.4478a3.923,3.923,0,0,0-.7944-.0716,2.103,2.103,0,0,0-1.9414,2.2421v5.9828H57.83Z" style="fill:#fff"/><path d="M62.9117,138.4678c0-2.1529.9178-3.1047,3.1776-3.1047,2.8757,0,2.8757,1.7286,2.8757,2.717v5.2765c0,.3889,0,.7591.4595.7591a.5326.5326,0,0,0,.3525-.0881v1.0577a5.2608,5.2608,0,0,1-.8649.0881c-.5641,0-1.27,0-1.3409-1.2175H67.536a2.6757,2.6757,0,0,1-2.2764,1.36c-1.765,0-2.5771-1.0577-2.5771-2.7523a2.4479,2.4479,0,0,1,1.7827-2.6124l1.9943-.5993c1.0765-.3373,1.0765-.637,1.0765-1.43,0-.8837-.5289-1.3949-1.5172-1.3949a1.6162,1.6162,0,0,0-1.6241,1.8532v.0881Zm4.5714,1.4478c-.5476.5818-1.8533.7052-2.5243,1.1118a1.5086,1.5086,0,0,0-.7239,1.5c0,.953.3361,1.624,1.3421,1.624a1.9269,1.9269,0,0,0,1.9061-1.7991Z" style="fill:#fff"/><rect x="71.1534" y="132.4679" width="1.4831" height="12.6014" style="fill:#fff"/><path d="M74.5778,132.4679h1.4831v1.6946H74.5778Zm0,3.1412h1.4831v9.4589H74.5778Z" style="fill:#fff"/><path d="M77.6836,138.4678c0-2.1529.9178-3.1047,3.1776-3.1047,2.8757,0,2.8757,1.7286,2.8757,2.717v5.2765c0,.3889,0,.7591.4595.7591a.5326.5326,0,0,0,.3525-.0881v1.0577a5.2608,5.2608,0,0,1-.8649.0881c-.5641,0-1.27,0-1.3409-1.2175h-.0352a2.6772,2.6772,0,0,1-2.2764,1.36c-1.765,0-2.5771-1.0577-2.5771-2.7523a2.4467,2.4467,0,0,1,1.7827-2.6124l1.9943-.5993c1.0765-.3373,1.0765-.637,1.0765-1.43,0-.8837-.5289-1.3949-1.5184-1.3949a1.6159,1.6159,0,0,0-1.6229,1.8532v.0881Zm4.5714,1.4478c-.5476.5818-1.8533.7052-2.5243,1.1118a1.508,1.508,0,0,0-.7227,1.5c0,.953.3349,1.624,1.3409,1.624a1.9269,1.9269,0,0,0,1.9061-1.7991Z" style="fill:#fff"/><path d="M85.5726,135.6094h1.4126v1.1117h.0341a2.529,2.529,0,0,1,2.2951-1.3585c2.4878,0,2.4878,1.8885,2.4878,2.9991v6.7066H90.32v-6.53c0-.7227-.054-1.9061-1.3949-1.9061a1.8251,1.8251,0,0,0-1.8709,1.9061v6.53H85.5726Z" style="fill:#fff"/><path d="M104.02,135.9623c-.07-1.3243-.5653-2.4713-2.1012-2.4713-2.1518,0-2.435,2.3656-2.435,5.2765s.2832,5.2777,2.435,5.2777c2.1541,0,2.3127-2.5771,2.3127-4.2541h-2.4878v-1.27h3.9v6.5481h-1.1658v-1.7122h-.0353a2.7966,2.7966,0,0,1-2.717,1.959c-3.2834,0-3.8663-3.1589-3.8663-6.5481,0-3.1765.5829-6.5469,4.0591-6.5469a3.47,3.47,0,0,1,3.7253,3.7417Z" style="fill:#fff"/><path d="M110.3905,135.3628c2.7358,0,3.4057,2.31,3.4057,4.9757s-.6875,4.9769-3.4057,4.9769c-2.7358,0-3.4056-2.3117-3.4056-4.9769s.6875-4.9757,3.4056-4.9757m1.8533,4.9757c0-2.0471-.3-3.8111-1.89-3.8111-1.4995,0-1.8168,1.764-1.8168,3.8111s.3,3.8122,1.8168,3.8122c1.5724,0,1.89-1.7651,1.89-3.8122" style="fill:#fff"/><polygon points="114.467 135.609 116.091 135.609 117.855 143.199 117.891 143.199 119.656 135.609 121.28 135.609 118.72 145.068 117.026 145.068 114.467 135.609" style="fill:#fff"/><path d="M123.6443,140.5158c0,1.4467,0,3.6349,1.818,3.6349,1.4113,0,1.6064-1.4819,1.6064-2.1882h1.4819a3.2,3.2,0,0,1-3.1765,3.3527c-2.3127,0-3.2834-1.6052-3.2834-4.8522,0-2.3645.46-5.1,3.3716-5.1,2.8944,0,3.1588,2.5219,3.1588,4.5526v.6005Zm3.4244-1.1646v-.5135c0-1.0577-.3361-2.31-1.6417-2.31-1.5536,0-1.731,1.9049-1.731,2.47v.3537Z" style="fill:#fff"/><path d="M130.2273,135.6094h1.4819v1.4114h.0352c.4243-.9.9884-1.6582,2.0484-1.6582a1.5122,1.5122,0,0,1,.6522.1046v1.4478a3.923,3.923,0,0,0-.7944-.0716,2.1022,2.1022,0,0,0-1.9414,2.2421v5.9828h-1.4819Z" style="fill:#fff"/><path d="M135.4335,135.6094h1.4113v1.1117h.0353a2.5291,2.5291,0,0,1,2.2951-1.3585c2.4866,0,2.4866,1.8885,2.4866,2.9991v6.7066h-1.4807v-6.53c0-.7227-.054-1.9061-1.3937-1.9061a1.8254,1.8254,0,0,0-1.8721,1.9061v6.53h-1.4818Z" style="fill:#fff"/><path d="M143.7285,135.6094H145.14v1.1117h.0352a2.526,2.526,0,0,1,2.294-1.3585,1.8579,1.8579,0,0,1,2.0483,1.5,2.6244,2.6244,0,0,1,2.241-1.5c2.4879,0,2.4879,1.8885,2.4879,2.9991v6.7066h-1.4808v-6.53c0-.7227-.0552-1.9061-1.2715-1.9061a1.7408,1.7408,0,0,0-1.7663,1.9061v6.53h-1.4818v-6.53c0-.7227-.0529-1.9061-1.27-1.9061a1.74,1.74,0,0,0-1.7651,1.9061v6.53h-1.4819Z" style="fill:#fff"/><path d="M157.5462,140.5158c0,1.4467,0,3.6349,1.8179,3.6349,1.4126,0,1.6065-1.4819,1.6065-2.1882h1.4819a3.2,3.2,0,0,1-3.1765,3.3527c-2.3116,0-3.2823-1.6052-3.2823-4.8522,0-2.3645.46-5.1,3.37-5.1,2.8945,0,3.16,2.5219,3.16,4.5526v.6005Zm3.4244-1.1646v-.5135c0-1.0577-.3349-2.31-1.6417-2.31-1.5536,0-1.73,1.9049-1.73,2.47v.3537Z" style="fill:#fff"/><path d="M164.13,135.6094h1.4114v1.1117h.0352a2.5255,2.5255,0,0,1,2.2928-1.3585c2.489,0,2.489,1.8885,2.489,2.9991v6.7066h-1.4819v-6.53c0-.7227-.0529-1.9061-1.3937-1.9061a1.8259,1.8259,0,0,0-1.8721,1.9061v6.53H164.13Z" style="fill:#fff"/><path d="M172.7242,132.8557h1.4819v2.7535h1.6429v1.1646h-1.6429v6.0709c0,.76.195,1.06.9718,1.06a4.3791,4.3791,0,0,0,.6534-.0541v1.2175a6.1684,6.1684,0,0,1-1.2.1058c-1.5371,0-1.9073-.6358-1.9073-1.87v-6.53h-1.3773v-1.1646h1.3773Z" style="fill:#fff"/><rect x="180.9437" y="132.4679" width="1.5524" height="12.6014" style="fill:#fff"/><path d="M184.4207,135.6094h1.4113v1.1117h.0365a2.5234,2.5234,0,0,1,2.2939-1.3585c2.4867,0,2.4867,1.8885,2.4867,2.9991v6.7066h-1.4808v-6.53c0-.7227-.0528-1.9061-1.3937-1.9061a1.8253,1.8253,0,0,0-1.872,1.9061v6.53h-1.4819Z" style="fill:#fff"/><path d="M192.61,132.4679h1.4819v1.6946H192.61Zm0,3.1412h1.4819v9.4589H192.61Z" style="fill:#fff"/><path d="M196.4919,132.8557h1.483v2.7535h1.6418v1.1646h-1.6418v6.0709c0,.76.1939,1.06.97,1.06a4.3477,4.3477,0,0,0,.6534-.0541v1.2175a6.1251,6.1251,0,0,1-1.2.1058c-1.536,0-1.9061-.6358-1.9061-1.87v-6.53h-1.3762v-1.1646h1.3762Z" style="fill:#fff"/><path d="M200.6384,132.4679h1.483v1.6946h-1.483Zm0,3.1412h1.483v9.4589h-1.483Z" style="fill:#fff"/><path d="M203.8511,138.4678c0-2.1529.9178-3.1047,3.1765-3.1047,2.8768,0,2.8768,1.7286,2.8768,2.717v5.2765c0,.3889,0,.7591.4595.7591a.528.528,0,0,0,.3525-.0881v1.0577a5.276,5.276,0,0,1-.8649.0881c-.5641,0-1.27,0-1.3409-1.2175h-.0352a2.6774,2.6774,0,0,1-2.2775,1.36c-1.7639,0-2.5748-1.0577-2.5748-2.7523a2.4472,2.4472,0,0,1,1.78-2.6124l1.9943-.5993c1.0776-.3373,1.0776-.637,1.0776-1.43,0-.8837-.53-1.3949-1.5183-1.3949a1.6159,1.6159,0,0,0-1.623,1.8532v.0881Zm4.5715,1.4478c-.5477.5818-1.8533.7052-2.5243,1.1118a1.5078,1.5078,0,0,0-.7227,1.5c0,.953.3348,1.624,1.3408,1.624a1.9278,1.9278,0,0,0,1.9062-1.7991Z" style="fill:#fff"/><path d="M212.2873,132.8557H213.77v2.7535h1.6405v1.1646H213.77v6.0709c0,.76.1938,1.06.97,1.06a4.36,4.36,0,0,0,.6533-.0541v1.2175a6.1457,6.1457,0,0,1-1.2.1058c-1.536,0-1.9061-.6358-1.9061-1.87v-6.53H210.91v-1.1646h1.3773Z" style="fill:#fff"/><path d="M216.435,132.4679h1.4819v1.6946H216.435Zm0,3.1412h1.4819v9.4589H216.435Z" style="fill:#fff"/><polygon points="219.082 135.609 220.706 135.609 222.47 143.199 222.505 143.199 224.271 135.609 225.894 135.609 223.335 145.068 221.64 145.068 219.082 135.609" style="fill:#fff"/><path d="M228.2056,140.5158c0,1.4467,0,3.6349,1.818,3.6349,1.4125,0,1.6065-1.4819,1.6065-2.1882h1.4819a3.2,3.2,0,0,1-3.1765,3.3527c-2.3128,0-3.2823-1.6052-3.2823-4.8522,0-2.3645.4583-5.1,3.37-5.1,2.8944,0,3.1589,2.5219,3.1589,4.5526v.6005Zm3.4245-1.1646v-.5135c0-1.0577-.335-2.31-1.6418-2.31-1.5523,0-1.73,1.9049-1.73,2.47v.3537Z" style="fill:#fff"/><path d="M43.28,101.0516a10.4358,10.4358,0,0,1-5.595,1.3174A8.2746,8.2746,0,0,1,37.5674,85.82a7.69,7.69,0,0,1,5.5961,2.0813L42.006,88.9156a7.912,7.912,0,0,0-4.4386-1.7509c-4.1425,0-6.72,3.046-6.72,6.9886a6.3815,6.3815,0,0,0,6.72,6.7761,7.9039,7.9039,0,0,0,4.2341-.7286V94.1323l1.4784.021Z" style="fill:#fff"/><rect x="47.932" y="86.2237" width="1.4784" height="15.8578" style="fill:#fff"/><path d="M54.5587,86.2247h4.569c2.24,0,5.1061.8732,5.1061,4.1872,0,2.8674-2.2833,4.1448-4.77,4.1448H56.0371v7.5247H54.5587Zm1.4784,6.9876h3.36c1.6794,0,3.3587-.7168,3.3587-2.8,0-2.0377-1.7463-2.8439-3.4491-2.8439H56.0371Z" style="fill:#fff"/><path d="M67.5985,86.2247h4.569c2.24,0,5.1073.8732,5.1073,4.1872,0,2.8674-2.2845,4.1448-4.7712,4.1448H69.0769v7.5247H67.5985Zm1.4784,6.9876h3.36c1.68,0,3.3586-.7168,3.3586-2.8,0-2.0377-1.7463-2.8439-3.4491-2.8439H69.0769Z" style="fill:#fff"/><path d="M81.0615,99.2331a4.9548,4.9548,0,0,0,3.7558,1.7205c1.9943,0,3.307-1.0212,3.307-2.9262,0-3.9227-7.9207-2.6982-7.9207-8.0558,0-2.6418,2.4185-4.1507,5.0838-4.1507a5.13,5.13,0,0,1,4.0872,1.7052l-1.0811.8943a4.1037,4.1037,0,0,0-3.0508-1.2551c-1.9037,0-3.5607,1.2316-3.5607,2.8063,0,4.0732,7.9195,2.7405,7.9195,8.0558,0,2.8674-2,4.3611-4.575,4.3611a6.3851,6.3851,0,0,1-5.1273-2.1388Z" style="fill:#fff"/><polygon points="93.67 86.224 95.148 86.224 95.148 100.739 102.539 100.739 102.539 102.082 93.67 102.082 93.67 86.224" style="fill:#fff"/><path d="M111.8867,86.224h1.523l6.675,15.8577h-1.6582l-1.724-4.2107h-8.3989l-1.7933,4.2107h-1.5454Zm.6945,1.6122-3.6959,8.6917h7.279Z" style="fill:#fff"/><polygon points="123.439 86.224 125.343 86.224 134.996 100.111 135.04 100.111 135.04 86.224 136.52 86.224 136.52 102.082 134.616 102.082 124.962 88.195 124.918 88.195 124.918 102.082 123.439 102.082 123.439 86.224" style="fill:#fff"/><path d="M141.8076,86.2238h4.9063c8.2427,0,8.5776,6.7643,8.5776,7.9289s-.3349,7.9288-8.5776,7.9288h-4.9063Zm1.4784,14.5145h3.0472c4.2106,0,7.48-2.0377,7.48-6.5856s-3.2693-6.5845-7.48-6.5845H143.286Z" style="fill:#fff"/><path d="M36.0977,22.043c-7.5822,0-14.56,2.1236-18.8074,7.3824h-.2022c-2.1235-4.3481-7.6832-6.1672-12.6389-6.1672A12.7237,12.7237,0,0,0,0,23.9656L.6064,37.111a4.5077,4.5077,0,0,1,1.0118-.1033c2.2258,0,4.4433,1.9237,4.4433,7.08V94.363c-.0035.0694,0,.134,0,.2033a7.6815,7.6815,0,0,0,15.363.0259h.0106V68.8583h.2033a20.5335,20.5335,0,0,0,10.4155,5.5609,17.8127,17.8127,0,0,0,5.2566.5088c12.6413-.6075,22.7524-11.7293,22.7524-26.3931,0-15.1644-10.82-26.4919-23.9652-26.4919M32.0539,61.276a13.1337,13.1337,0,0,1-10.6188-5.6619V41.2571a12.806,12.806,0,0,1,10.6188-5.461,12.7416,12.7416,0,0,1,0,25.48" style="fill:#fff"/><path d="M99.1642,22.246a25.283,25.283,0,0,0-6.1662.4054A18.3663,18.3663,0,0,0,82.5837,28.92H82.38V0H67.0127V73.8137H82.38V41.3555c2.529-3.7407,5.5609-5.5609,10.1111-5.5609,6.2708,0,9.506,4.8534,9.506,12.237V73.8137H117.364V49.5464a56.0965,56.0965,0,0,0-.604-8.493c-1.5172-11.0219-7.3836-18.2-17.5958-18.8074" style="fill:#fff"/><path d="M155.7093,22.0431c-6.3718,0-12.7424,2.8311-15.4712,8.7974h-.2021l-.302-7.581H125.4768V73.8141h15.3665V41.3559c2.53-3.7406,5.5621-5.5621,10.1112-5.5621,6.2695,0,9.506,4.8535,9.506,12.2359V73.8141h15.37V48.03c0-15.571-6.7748-25.9866-20.1212-25.9866" style="fill:#fff"/><rect x="5.9373" y="120.5681" width="226.4953" height="0.785" style="fill:#fff"/></g></g></svg>
+		</div>
+		<div class="preloader-text" id="preloader-text">
+			Creating a healthier, better connected Gippsland.
+		</div>
+		<div class="dots">
+			<div class="dot"></div>
+			<div class="dot"></div>
+			<div class="dot"></div>
+			<div class="dot"></div>
+		</div>
+	</div>
+</div>
+
+<script>
+		if (sessionStorage.getItem('dontLoad') == null) {
+			window.onload = function() {
+				setTimeout(() => fadeOutEffect(), 1000);
+				sessionStorage.setItem('dontLoad', 'true');
+			}
+		} else {
+			document.getElementById("preloader").style.background = "rgba(0, 0, 0, 0.65)";
+			document.getElementById("preloader-text").remove();
+			document.getElementById("preloader-img").remove();
+			setTimeout(() => fadeOutEffect(), 3000);
+		}
+
+		function fadeOutEffect() {
+			var fadeTarget = document.getElementById("preloader");
+			var fadeEffect = setInterval(function () {
+				if (!fadeTarget.style.opacity) {
+					fadeTarget.style.opacity = 1;
+				}
+				if (fadeTarget.style.opacity > 0) {
+					fadeTarget.style.opacity -= 0.1;
+				} else {
+					clearInterval(fadeEffect);
+				}
+			}, 500);
+			document.getElementById("preloader").style.visibility = "hidden";
+			document.getElementById("overflow-class").removeAttribute("style");
+		}
+</script>
+ -->
+		<div data-elementor-type="header" data-elementor-id="22" class="elementor elementor-22 elementor-location-header" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3aa9f914 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3aa9f914" data-element_type="section" id="header_pop" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-186e7023" data-id="186e7023" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-98f19e9 elementor-widget elementor-widget-template" data-id="98f19e9" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-template">
+			<style id="elementor-post-1816">.elementor-1816 .elementor-element.elementor-element-e3059da:not(.elementor-motion-effects-element-type-background), .elementor-1816 .elementor-element.elementor-element-e3059da > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#8DD7F7;}.elementor-1816 .elementor-element.elementor-element-e3059da{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:12px 30px 12px 30px;}.elementor-1816 .elementor-element.elementor-element-e3059da > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-1816 .elementor-element.elementor-element-6bd0103.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-1816 .elementor-element.elementor-element-6bd0103.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-1816 .elementor-element.elementor-element-6bd0103.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}.elementor-1816 .elementor-element.elementor-element-6bd0103 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-1816 .elementor-element.elementor-element-6bd0103 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-1816 .elementor-element.elementor-element-c851c78 .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;}.elementor-1816 .elementor-element.elementor-element-c851c78 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-secondary );fill:var( --e-global-color-secondary );padding-left:15px;padding-right:15px;padding-top:0px;padding-bottom:0px;}.elementor-1816 .elementor-element.elementor-element-c851c78 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-1816 .elementor-element.elementor-element-c851c78 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-1816 .elementor-element.elementor-element-c851c78 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-1816 .elementor-element.elementor-element-c851c78 .elementor-nav-menu--main .elementor-item:focus{color:#FFFFFF;fill:#FFFFFF;}.elementor-1816 .elementor-element.elementor-element-c851c78{--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-1816 .elementor-element.elementor-element-c851c78 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-widget-search-form input[type="search"].elementor-search-form__input{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-search-form .elementor-search-form__input,
+					.elementor-widget-search-form .elementor-search-form__icon,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button:hover,
+					.elementor-widget-search-form.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-search-form .elementor-search-form__submit{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );background-color:var( --e-global-color-secondary );}.elementor-1816 .elementor-element.elementor-element-1262944 > .elementor-widget-container{margin:0px 45px 0px 35px;}.elementor-1816 .elementor-element.elementor-element-1262944 .elementor-search-form__toggle{--e-search-form-toggle-size:31px;--e-search-form-toggle-color:var( --e-global-color-secondary );--e-search-form-toggle-background-color:#02010100;--e-search-form-toggle-icon-size:calc(70em / 100);--e-search-form-toggle-border-width:0px;--e-search-form-toggle-border-radius:0px;}.elementor-1816 .elementor-element.elementor-element-1262944.elementor-search-form--skin-full_screen .elementor-search-form__container{background-color:var( --e-global-color-secondary );}.elementor-1816 .elementor-element.elementor-element-1262944 input[type="search"].elementor-search-form__input{font-family:"Montserrat", Sans-serif;font-size:40px;font-weight:300;}.elementor-1816 .elementor-element.elementor-element-1262944 .elementor-search-form__input,
+					.elementor-1816 .elementor-element.elementor-element-1262944 .elementor-search-form__icon,
+					.elementor-1816 .elementor-element.elementor-element-1262944 .elementor-lightbox .dialog-lightbox-close-button,
+					.elementor-1816 .elementor-element.elementor-element-1262944 .elementor-lightbox .dialog-lightbox-close-button:hover,
+					.elementor-1816 .elementor-element.elementor-element-1262944.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{color:#ffffff;fill:#ffffff;}.elementor-1816 .elementor-element.elementor-element-1262944:not(.elementor-search-form--skin-full_screen) .elementor-search-form__container{border-width:0px 0px 0px 0px;border-radius:0px;}.elementor-1816 .elementor-element.elementor-element-1262944.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{border-width:0px 0px 0px 0px;border-radius:0px;}.elementor-1816 .elementor-element.elementor-element-1262944 .elementor-search-form__toggle:hover{--e-search-form-toggle-color:#FFFFFF;}.elementor-1816 .elementor-element.elementor-element-1262944 .elementor-search-form__toggle:focus{--e-search-form-toggle-color:#FFFFFF;}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(12px/2);margin-left:calc(12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-12px/2);margin-left:calc(-12px/2);}body.rtl .elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-12px/2);}body:not(.rtl) .elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-icon i{color:var( --e-global-color-secondary );transition:color 0.3s;}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-icon svg{fill:var( --e-global-color-secondary );transition:fill 0.3s;}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-item:hover .elementor-icon-list-icon i{color:#FFFFFF;}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-item:hover .elementor-icon-list-icon svg{fill:#FFFFFF;}.elementor-1816 .elementor-element.elementor-element-7f62aff{--e-icon-list-icon-size:25px;--e-icon-list-icon-align:left;--e-icon-list-icon-margin:0 calc(var(--e-icon-list-icon-size, 1em) * 0.25) 0 0;--icon-vertical-offset:0px;}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-text{transition:color 0.3s;}@media(min-width:575px){.elementor-1816 .elementor-element.elementor-element-6bd0103{width:100%;}}@media(max-width:990px){.elementor-1816 .elementor-element.elementor-element-e3059da{padding:12px 20px 12px 20px;}.elementor-1816 .elementor-element.elementor-element-6bd0103.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-1816 .elementor-element.elementor-element-6bd0103 > .elementor-element-populated{padding:0px 0px 0px 0px;}}@media(max-width:574px){.elementor-1816 .elementor-element.elementor-element-e3059da{padding:12px 15px 10px 15px;}.elementor-1816 .elementor-element.elementor-element-6bd0103.elementor-column > .elementor-widget-wrap{justify-content:space-between;}.elementor-1816 .elementor-element.elementor-element-6bd0103 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-1816 .elementor-element.elementor-element-c851c78 > .elementor-widget-container{margin:5px 0px 5px 0px;}.elementor-1816 .elementor-element.elementor-element-1262944 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-1816 .elementor-element.elementor-element-7f62aff > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(12px/2);margin-left:calc(12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-12px/2);margin-left:calc(-12px/2);}body.rtl .elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-12px/2);}body:not(.rtl) .elementor-1816 .elementor-element.elementor-element-7f62aff .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-12px/2);}.elementor-1816 .elementor-element.elementor-element-7f62aff{--e-icon-list-icon-size:25px;}}</style>		<div data-elementor-type="section" data-elementor-id="1816" class="elementor elementor-1816 elementor-location-header" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-e3059da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e3059da" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bd0103" data-id="6bd0103" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c851c78 elementor-nav-menu--dropdown-none width-auto elementor-hidden-phone elementor-widget elementor-widget-nav-menu" data-id="c851c78" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-c851c78" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14627"><a href="https://gphn.org.au/careers/" class="elementor-item">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601"><a href="https://gphn.org.au/procurement-and-tendering/" class="elementor-item">Procurement &#038; Tendering</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a href="https://gphn.org.au/contact-us/" class="elementor-item">Contact Us</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-c851c78" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14627"><a href="https://gphn.org.au/careers/" class="elementor-item" tabindex="-1">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601"><a href="https://gphn.org.au/procurement-and-tendering/" class="elementor-item" tabindex="-1">Procurement &#038; Tendering</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a href="https://gphn.org.au/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1262944 elementor-search-form--skin-full_screen width-auto elementor-widget elementor-widget-search-form" data-id="1262944" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+							<search role="search">
+			<form class="elementor-search-form" action="https://gphn.org.au" method="get">
+												<div class="elementor-search-form__toggle" role="button" tabindex="0" aria-label="Search">
+					<i aria-hidden="true" class="fas fa-search"></i>				</div>
+								<div class="elementor-search-form__container">
+					<label class="elementor-screen-only" for="elementor-search-form-1262944">Search</label>
+
+					
+					<input id="elementor-search-form-1262944" placeholder="" class="elementor-search-form__input" type="search" name="s" value="">
+					
+					
+										<div class="dialog-lightbox-close-button dialog-close-button" role="button" tabindex="0" aria-label="Close this search box.">
+						<i aria-hidden="true" class="eicon-close"></i>					</div>
+									</div>
+			</form>
+		</search>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7f62aff elementor-icon-list--layout-inline elementor-mobile-align-left width-auto elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7f62aff" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.facebook.com/gippslandphn/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.linkedin.com/company/gippsland-phn/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-linkedin-in"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://twitter.com/gippslandphn" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-twitter"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.youtube.com/channel/UCICLdHH6oB--Vwhfxc5uanA" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-youtube"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				</div>
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-77851ee2 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77851ee2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4eb396a3" data-id="4eb396a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e052be1 elementor-widget elementor-widget-shortcode" data-id="e052be1" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<nav class="custom-menu-box">
+			<div class="logo">
+				<a href="https://gphn.org.au" style="display: block;">
+					<svg xmlns="http://www.w3.org/2000/svg" width="234" height="145" viewBox="0 0 233.1825 145.3156">
+						<g id="b723eedb-a8b8-4b2b-825c-aa2a8a6b6fb8" data-name="Layer 2"><g id="a582ff24-ac68-4a6d-b32f-cc7d87c3f832" data-name="Layer 1"><path d="M10.4205,134.25h.0352l1.6065,6.0886H8.6742Zm-.9883-1.7827L5.7973,145.07H7.42l.9366-3.46H12.38l.9,3.46h1.6252l-3.3892-12.6026Z" style="fill:#003e6a"/><path d="M15.9273,135.6094H17.34v1.1117h.0352a2.5262,2.5262,0,0,1,2.294-1.3585c2.489,0,2.489,1.8885,2.489,2.9991v6.7066H20.675v-6.53c0-.7227-.0529-1.9061-1.3949-1.9061a1.8248,1.8248,0,0,0-1.87,1.9061v6.53H15.9273Z" style="fill:#003e6a"/><path d="M31.251,132.4672h2.0824l3.388,12.6013H35.0985l-.9-3.4585H30.1745l-.9366,3.4585H27.615Zm-.7592,7.8713H33.881l-1.6065-6.09h-.0352Z" style="fill:#003e6a"/><path d="M43.8692,145.0686H42.4578v-1.1117h-.0352a2.5289,2.5289,0,0,1-2.2951,1.3585c-2.4879,0-2.4879-1.8885-2.4879-3V135.61h1.4819v6.5281c0,.7251.0529,1.9073,1.3949,1.9073a1.8247,1.8247,0,0,0,1.8709-1.9073V135.61h1.4819Z" style="fill:#003e6a"/><path d="M49.9583,138.38c0-1.2-.3185-1.8532-1.3938-1.8532a1.3627,1.3627,0,0,0-1.536,1.4467c0,1.1128,1.1646,1.3243,2.3292,1.7121,1.1482.389,2.3127.7945,2.3127,2.6665a2.7671,2.7671,0,0,1-3.053,2.9638c-3.2129,0-3.2482-2.3833-3.2482-3.3528h1.4831c0,1.147.3173,2.1882,1.7651,2.1882a1.4837,1.4837,0,0,0,1.57-1.5712c0-1.2692-1.1646-1.5336-2.3115-1.9226s-2.3293-.725-2.3293-2.684c0-1.764,1.3762-2.61,3.0179-2.61,2.7522,0,2.8592,1.9049,2.8768,3.0166Z" style="fill:#003e6a"/><path d="M53.6114,132.8557h1.4831v2.7535H56.735v1.1646H55.0945v6.0709c0,.76.1938,1.06.97,1.06a4.35,4.35,0,0,0,.6534-.0541v1.2175a6.1377,6.1377,0,0,1-1.2.1058c-1.5359,0-1.9061-.6358-1.9061-1.87v-6.53H52.2353v-1.1646h1.3761Z" style="fill:#003e6a"/><path d="M57.83,135.6094h1.4819v1.4114h.0353c.4242-.9.9883-1.6582,2.0471-1.6582a1.5147,1.5147,0,0,1,.6534.1046v1.4478a3.923,3.923,0,0,0-.7944-.0716,2.103,2.103,0,0,0-1.9414,2.2421v5.9828H57.83Z" style="fill:#003e6a"/><path d="M62.9117,138.4678c0-2.1529.9178-3.1047,3.1776-3.1047,2.8757,0,2.8757,1.7286,2.8757,2.717v5.2765c0,.3889,0,.7591.4595.7591a.5326.5326,0,0,0,.3525-.0881v1.0577a5.2608,5.2608,0,0,1-.8649.0881c-.5641,0-1.27,0-1.3409-1.2175H67.536a2.6757,2.6757,0,0,1-2.2764,1.36c-1.765,0-2.5771-1.0577-2.5771-2.7523a2.4479,2.4479,0,0,1,1.7827-2.6124l1.9943-.5993c1.0765-.3373,1.0765-.637,1.0765-1.43,0-.8837-.5289-1.3949-1.5172-1.3949a1.6162,1.6162,0,0,0-1.6241,1.8532v.0881Zm4.5714,1.4478c-.5476.5818-1.8533.7052-2.5243,1.1118a1.5086,1.5086,0,0,0-.7239,1.5c0,.953.3361,1.624,1.3421,1.624a1.9269,1.9269,0,0,0,1.9061-1.7991Z" style="fill:#003e6a"/><rect x="71.1534" y="132.4679" width="1.4831" height="12.6014" style="fill:#003e6a"/><path d="M74.5778,132.4679h1.4831v1.6946H74.5778Zm0,3.1412h1.4831v9.4589H74.5778Z" style="fill:#003e6a"/><path d="M77.6836,138.4678c0-2.1529.9178-3.1047,3.1776-3.1047,2.8757,0,2.8757,1.7286,2.8757,2.717v5.2765c0,.3889,0,.7591.4595.7591a.5326.5326,0,0,0,.3525-.0881v1.0577a5.2608,5.2608,0,0,1-.8649.0881c-.5641,0-1.27,0-1.3409-1.2175h-.0352a2.6772,2.6772,0,0,1-2.2764,1.36c-1.765,0-2.5771-1.0577-2.5771-2.7523a2.4467,2.4467,0,0,1,1.7827-2.6124l1.9943-.5993c1.0765-.3373,1.0765-.637,1.0765-1.43,0-.8837-.5289-1.3949-1.5184-1.3949a1.6159,1.6159,0,0,0-1.6229,1.8532v.0881Zm4.5714,1.4478c-.5476.5818-1.8533.7052-2.5243,1.1118a1.508,1.508,0,0,0-.7227,1.5c0,.953.3349,1.624,1.3409,1.624a1.9269,1.9269,0,0,0,1.9061-1.7991Z" style="fill:#003e6a"/><path d="M85.5726,135.6094h1.4126v1.1117h.0341a2.529,2.529,0,0,1,2.2951-1.3585c2.4878,0,2.4878,1.8885,2.4878,2.9991v6.7066H90.32v-6.53c0-.7227-.054-1.9061-1.3949-1.9061a1.8251,1.8251,0,0,0-1.8709,1.9061v6.53H85.5726Z" style="fill:#003e6a"/><path d="M104.02,135.9623c-.07-1.3243-.5653-2.4713-2.1012-2.4713-2.1518,0-2.435,2.3656-2.435,5.2765s.2832,5.2777,2.435,5.2777c2.1541,0,2.3127-2.5771,2.3127-4.2541h-2.4878v-1.27h3.9v6.5481h-1.1658v-1.7122h-.0353a2.7966,2.7966,0,0,1-2.717,1.959c-3.2834,0-3.8663-3.1589-3.8663-6.5481,0-3.1765.5829-6.5469,4.0591-6.5469a3.47,3.47,0,0,1,3.7253,3.7417Z" style="fill:#003e6a"/><path d="M110.3905,135.3628c2.7358,0,3.4057,2.31,3.4057,4.9757s-.6875,4.9769-3.4057,4.9769c-2.7358,0-3.4056-2.3117-3.4056-4.9769s.6875-4.9757,3.4056-4.9757m1.8533,4.9757c0-2.0471-.3-3.8111-1.89-3.8111-1.4995,0-1.8168,1.764-1.8168,3.8111s.3,3.8122,1.8168,3.8122c1.5724,0,1.89-1.7651,1.89-3.8122" style="fill:#003e6a"/><polygon points="114.467 135.609 116.091 135.609 117.855 143.199 117.891 143.199 119.656 135.609 121.28 135.609 118.72 145.068 117.026 145.068 114.467 135.609" style="fill:#003e6a"/><path d="M123.6443,140.5158c0,1.4467,0,3.6349,1.818,3.6349,1.4113,0,1.6064-1.4819,1.6064-2.1882h1.4819a3.2,3.2,0,0,1-3.1765,3.3527c-2.3127,0-3.2834-1.6052-3.2834-4.8522,0-2.3645.46-5.1,3.3716-5.1,2.8944,0,3.1588,2.5219,3.1588,4.5526v.6005Zm3.4244-1.1646v-.5135c0-1.0577-.3361-2.31-1.6417-2.31-1.5536,0-1.731,1.9049-1.731,2.47v.3537Z" style="fill:#003e6a"/><path d="M130.2273,135.6094h1.4819v1.4114h.0352c.4243-.9.9884-1.6582,2.0484-1.6582a1.5122,1.5122,0,0,1,.6522.1046v1.4478a3.923,3.923,0,0,0-.7944-.0716,2.1022,2.1022,0,0,0-1.9414,2.2421v5.9828h-1.4819Z" style="fill:#003e6a"/><path d="M135.4335,135.6094h1.4113v1.1117h.0353a2.5291,2.5291,0,0,1,2.2951-1.3585c2.4866,0,2.4866,1.8885,2.4866,2.9991v6.7066h-1.4807v-6.53c0-.7227-.054-1.9061-1.3937-1.9061a1.8254,1.8254,0,0,0-1.8721,1.9061v6.53h-1.4818Z" style="fill:#003e6a"/><path d="M143.7285,135.6094H145.14v1.1117h.0352a2.526,2.526,0,0,1,2.294-1.3585,1.8579,1.8579,0,0,1,2.0483,1.5,2.6244,2.6244,0,0,1,2.241-1.5c2.4879,0,2.4879,1.8885,2.4879,2.9991v6.7066h-1.4808v-6.53c0-.7227-.0552-1.9061-1.2715-1.9061a1.7408,1.7408,0,0,0-1.7663,1.9061v6.53h-1.4818v-6.53c0-.7227-.0529-1.9061-1.27-1.9061a1.74,1.74,0,0,0-1.7651,1.9061v6.53h-1.4819Z" style="fill:#003e6a"/><path d="M157.5462,140.5158c0,1.4467,0,3.6349,1.8179,3.6349,1.4126,0,1.6065-1.4819,1.6065-2.1882h1.4819a3.2,3.2,0,0,1-3.1765,3.3527c-2.3116,0-3.2823-1.6052-3.2823-4.8522,0-2.3645.46-5.1,3.37-5.1,2.8945,0,3.16,2.5219,3.16,4.5526v.6005Zm3.4244-1.1646v-.5135c0-1.0577-.3349-2.31-1.6417-2.31-1.5536,0-1.73,1.9049-1.73,2.47v.3537Z" style="fill:#003e6a"/><path d="M164.13,135.6094h1.4114v1.1117h.0352a2.5255,2.5255,0,0,1,2.2928-1.3585c2.489,0,2.489,1.8885,2.489,2.9991v6.7066h-1.4819v-6.53c0-.7227-.0529-1.9061-1.3937-1.9061a1.8259,1.8259,0,0,0-1.8721,1.9061v6.53H164.13Z" style="fill:#003e6a"/><path d="M172.7242,132.8557h1.4819v2.7535h1.6429v1.1646h-1.6429v6.0709c0,.76.195,1.06.9718,1.06a4.3791,4.3791,0,0,0,.6534-.0541v1.2175a6.1684,6.1684,0,0,1-1.2.1058c-1.5371,0-1.9073-.6358-1.9073-1.87v-6.53h-1.3773v-1.1646h1.3773Z" style="fill:#003e6a"/><rect x="180.9437" y="132.4679" width="1.5524" height="12.6014" style="fill:#003e6a"/><path d="M184.4207,135.6094h1.4113v1.1117h.0365a2.5234,2.5234,0,0,1,2.2939-1.3585c2.4867,0,2.4867,1.8885,2.4867,2.9991v6.7066h-1.4808v-6.53c0-.7227-.0528-1.9061-1.3937-1.9061a1.8253,1.8253,0,0,0-1.872,1.9061v6.53h-1.4819Z" style="fill:#003e6a"/><path d="M192.61,132.4679h1.4819v1.6946H192.61Zm0,3.1412h1.4819v9.4589H192.61Z" style="fill:#003e6a"/><path d="M196.4919,132.8557h1.483v2.7535h1.6418v1.1646h-1.6418v6.0709c0,.76.1939,1.06.97,1.06a4.3477,4.3477,0,0,0,.6534-.0541v1.2175a6.1251,6.1251,0,0,1-1.2.1058c-1.536,0-1.9061-.6358-1.9061-1.87v-6.53h-1.3762v-1.1646h1.3762Z" style="fill:#003e6a"/><path d="M200.6384,132.4679h1.483v1.6946h-1.483Zm0,3.1412h1.483v9.4589h-1.483Z" style="fill:#003e6a"/><path d="M203.8511,138.4678c0-2.1529.9178-3.1047,3.1765-3.1047,2.8768,0,2.8768,1.7286,2.8768,2.717v5.2765c0,.3889,0,.7591.4595.7591a.528.528,0,0,0,.3525-.0881v1.0577a5.276,5.276,0,0,1-.8649.0881c-.5641,0-1.27,0-1.3409-1.2175h-.0352a2.6774,2.6774,0,0,1-2.2775,1.36c-1.7639,0-2.5748-1.0577-2.5748-2.7523a2.4472,2.4472,0,0,1,1.78-2.6124l1.9943-.5993c1.0776-.3373,1.0776-.637,1.0776-1.43,0-.8837-.53-1.3949-1.5183-1.3949a1.6159,1.6159,0,0,0-1.623,1.8532v.0881Zm4.5715,1.4478c-.5477.5818-1.8533.7052-2.5243,1.1118a1.5078,1.5078,0,0,0-.7227,1.5c0,.953.3348,1.624,1.3408,1.624a1.9278,1.9278,0,0,0,1.9062-1.7991Z" style="fill:#003e6a"/><path d="M212.2873,132.8557H213.77v2.7535h1.6405v1.1646H213.77v6.0709c0,.76.1938,1.06.97,1.06a4.36,4.36,0,0,0,.6533-.0541v1.2175a6.1457,6.1457,0,0,1-1.2.1058c-1.536,0-1.9061-.6358-1.9061-1.87v-6.53H210.91v-1.1646h1.3773Z" style="fill:#003e6a"/><path d="M216.435,132.4679h1.4819v1.6946H216.435Zm0,3.1412h1.4819v9.4589H216.435Z" style="fill:#003e6a"/><polygon points="219.082 135.609 220.706 135.609 222.47 143.199 222.505 143.199 224.271 135.609 225.894 135.609 223.335 145.068 221.64 145.068 219.082 135.609" style="fill:#003e6a"/><path d="M228.2056,140.5158c0,1.4467,0,3.6349,1.818,3.6349,1.4125,0,1.6065-1.4819,1.6065-2.1882h1.4819a3.2,3.2,0,0,1-3.1765,3.3527c-2.3128,0-3.2823-1.6052-3.2823-4.8522,0-2.3645.4583-5.1,3.37-5.1,2.8944,0,3.1589,2.5219,3.1589,4.5526v.6005Zm3.4245-1.1646v-.5135c0-1.0577-.335-2.31-1.6418-2.31-1.5523,0-1.73,1.9049-1.73,2.47v.3537Z" style="fill:#003e6a"/><path d="M43.28,101.0516a10.4358,10.4358,0,0,1-5.595,1.3174A8.2746,8.2746,0,0,1,37.5674,85.82a7.69,7.69,0,0,1,5.5961,2.0813L42.006,88.9156a7.912,7.912,0,0,0-4.4386-1.7509c-4.1425,0-6.72,3.046-6.72,6.9886a6.3815,6.3815,0,0,0,6.72,6.7761,7.9039,7.9039,0,0,0,4.2341-.7286V94.1323l1.4784.021Z" style="fill:#003e6a"/><rect x="47.932" y="86.2237" width="1.4784" height="15.8578" style="fill:#003e6a"/><path d="M54.5587,86.2247h4.569c2.24,0,5.1061.8732,5.1061,4.1872,0,2.8674-2.2833,4.1448-4.77,4.1448H56.0371v7.5247H54.5587Zm1.4784,6.9876h3.36c1.6794,0,3.3587-.7168,3.3587-2.8,0-2.0377-1.7463-2.8439-3.4491-2.8439H56.0371Z" style="fill:#003e6a"/><path d="M67.5985,86.2247h4.569c2.24,0,5.1073.8732,5.1073,4.1872,0,2.8674-2.2845,4.1448-4.7712,4.1448H69.0769v7.5247H67.5985Zm1.4784,6.9876h3.36c1.68,0,3.3586-.7168,3.3586-2.8,0-2.0377-1.7463-2.8439-3.4491-2.8439H69.0769Z" style="fill:#003e6a"/><path d="M81.0615,99.2331a4.9548,4.9548,0,0,0,3.7558,1.7205c1.9943,0,3.307-1.0212,3.307-2.9262,0-3.9227-7.9207-2.6982-7.9207-8.0558,0-2.6418,2.4185-4.1507,5.0838-4.1507a5.13,5.13,0,0,1,4.0872,1.7052l-1.0811.8943a4.1037,4.1037,0,0,0-3.0508-1.2551c-1.9037,0-3.5607,1.2316-3.5607,2.8063,0,4.0732,7.9195,2.7405,7.9195,8.0558,0,2.8674-2,4.3611-4.575,4.3611a6.3851,6.3851,0,0,1-5.1273-2.1388Z" style="fill:#003e6a"/><polygon points="93.67 86.224 95.148 86.224 95.148 100.739 102.539 100.739 102.539 102.082 93.67 102.082 93.67 86.224" style="fill:#003e6a"/><path d="M111.8867,86.224h1.523l6.675,15.8577h-1.6582l-1.724-4.2107h-8.3989l-1.7933,4.2107h-1.5454Zm.6945,1.6122-3.6959,8.6917h7.279Z" style="fill:#003e6a"/><polygon points="123.439 86.224 125.343 86.224 134.996 100.111 135.04 100.111 135.04 86.224 136.52 86.224 136.52 102.082 134.616 102.082 124.962 88.195 124.918 88.195 124.918 102.082 123.439 102.082 123.439 86.224" style="fill:#003e6a"/><path d="M141.8076,86.2238h4.9063c8.2427,0,8.5776,6.7643,8.5776,7.9289s-.3349,7.9288-8.5776,7.9288h-4.9063Zm1.4784,14.5145h3.0472c4.2106,0,7.48-2.0377,7.48-6.5856s-3.2693-6.5845-7.48-6.5845H143.286Z" style="fill:#003e6a"/><path d="M36.0977,22.043c-7.5822,0-14.56,2.1236-18.8074,7.3824h-.2022c-2.1235-4.3481-7.6832-6.1672-12.6389-6.1672A12.7237,12.7237,0,0,0,0,23.9656L.6064,37.111a4.5077,4.5077,0,0,1,1.0118-.1033c2.2258,0,4.4433,1.9237,4.4433,7.08V94.363c-.0035.0694,0,.134,0,.2033a7.6815,7.6815,0,0,0,15.363.0259h.0106V68.8583h.2033a20.5335,20.5335,0,0,0,10.4155,5.5609,17.8127,17.8127,0,0,0,5.2566.5088c12.6413-.6075,22.7524-11.7293,22.7524-26.3931,0-15.1644-10.82-26.4919-23.9652-26.4919M32.0539,61.276a13.1337,13.1337,0,0,1-10.6188-5.6619V41.2571a12.806,12.806,0,0,1,10.6188-5.461,12.7416,12.7416,0,0,1,0,25.48" style="fill:#003e6a"/><path d="M99.1642,22.246a25.283,25.283,0,0,0-6.1662.4054A18.3663,18.3663,0,0,0,82.5837,28.92H82.38V0H67.0127V73.8137H82.38V41.3555c2.529-3.7407,5.5609-5.5609,10.1111-5.5609,6.2708,0,9.506,4.8534,9.506,12.237V73.8137H117.364V49.5464a56.0965,56.0965,0,0,0-.604-8.493c-1.5172-11.0219-7.3836-18.2-17.5958-18.8074" style="fill:#003e6a"/><path d="M155.7093,22.0431c-6.3718,0-12.7424,2.8311-15.4712,8.7974h-.2021l-.302-7.581H125.4768V73.8141h15.3665V41.3559c2.53-3.7406,5.5621-5.5621,10.1112-5.5621,6.2695,0,9.506,4.8535,9.506,12.2359V73.8141h15.37V48.03c0-15.571-6.7748-25.9866-20.1212-25.9866" style="fill:#003e6a"/><rect x="5.9373" y="120.5681" width="226.4953" height="0.785" style="fill:#003e6a"/></g></g>
+					</svg>
+				</a>
+			</div>
+
+			<ul id="menu-eye-health" class="menu"><li id="menu-item-5526" class="no-visibleDesktop menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5526"><a href="https://gphn.org.au/">Home Page</a></li>
+<li id="menu-item-696" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-696"><a href="https://gphn.org.au/what-we-do/">What We Do</a>
+<ul class="sub-menu">
+	<li id="menu-item-1844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1844"><a href="http://gphn.org.au/what-we-do/programs/">Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2283"><a href="https://gphn.org.au/what-we-do/programs/after-hours-program/">After-hours services</a></li>
+		<li id="menu-item-14440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14440"><a href="https://gphn.org.au/what-we-do/programs/programs-aged-care/">Aged Care</a></li>
+		<li id="menu-item-2282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2282"><a href="https://gphn.org.au/what-we-do/programs/alcohol-and-other-drugs/">Alcohol and Other Drugs</a></li>
+		<li id="menu-item-24373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24373"><a href="https://gphn.org.au/what-we-do/programs/clihc/">Community Led Integrated Health Care</a></li>
+		<li id="menu-item-4809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4809"><a href="https://gphn.org.au/what-we-do/programs/doctors-in-secondary-schools-program/">Doctors in Secondary Schools Program</a></li>
+		<li id="menu-item-13822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13822"><a href="https://gphn.org.au/what-we-do/programs/palliative-care/">Greater Choice for At Home Palliative Care</a></li>
+		<li id="menu-item-28086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28086"><a href="https://gphn.org.au/what-we-do/programs/head-to-health/">Head to Health</a></li>
+		<li id="menu-item-3991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3991"><a href="https://gphn.org.au/what-we-do/programs/indigenous-australian-health-programs/">Indigenous Australian Health Programs</a></li>
+		<li id="menu-item-18374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18374"><a href="https://gphn.org.au/what-we-do/programs/initial-assessment-and-referral/">Initial Assessment and Referral</a></li>
+		<li id="menu-item-3992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3992"><a href="https://gphn.org.au/what-we-do/programs/latrobe-health-innovation-zone/">Latrobe Health Innovation Zone</a></li>
+		<li id="menu-item-19115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19115"><a href="https://gphn.org.au/what-we-do/programs/medicare-mental-health/">Medicare Mental Health</a></li>
+		<li id="menu-item-3839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="https://gphn.org.au/what-we-do/programs/mental-health-care-and-suicide-prevention/">Mental Health Care &#038; Suicide Prevention</a></li>
+		<li id="menu-item-4167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4167"><a href="https://gphn.org.au/what-we-do/programs/psychosocial-support-program/">Psychosocial Support Program</a></li>
+		<li id="menu-item-5034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5034"><a href="https://gphn.org.au/what-we-do/programs/suicide-prevention-program/">Suicide Prevention Program</a></li>
+		<li id="menu-item-14512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14512"><a href="https://gphn.org.au/what-we-do/programs/urgent-care-clinics/">Urgent Care Clinics</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1848"><a href="http://gphn.org.au/what-we-do/support-for-primary-care/">Support for Primary Care</a>
+	<ul class="sub-menu">
+		<li id="menu-item-19367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19367"><a href="https://gippslandpathways.gphn.org.au/">Gippsland Pathways</a></li>
+		<li id="menu-item-19575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19575"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/information-for-health-professionals/">Information for health professionals</a></li>
+		<li id="menu-item-4168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4168"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/immunisation/">Immunisation</a></li>
+		<li id="menu-item-27185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27185"><a href="https://gphn.org.au/livedexperience/">Lived Experience at Gippsland PHN</a></li>
+		<li id="menu-item-20493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20493"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/mental-health-and-wellbeing-act/">Mental Health and Wellbeing Act 2022</a></li>
+		<li id="menu-item-19242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19242"><a href="https://gphn.org.au/what-we-do/mymedicare/">MyMedicare</a></li>
+		<li id="menu-item-5123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5123"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/newsletters/">Newsletters</a></li>
+		<li id="menu-item-4169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4169"><a href="https://gphn.org.au/training-and-events/">Training &#038; Events</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2884"><a href="http://gphn.org.au/what-we-do/integrating-the-health-system/">Integrating the Health System</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4170"><a href="https://gphn.org.au/what-we-do/integrating-the-health-system/digital-health/">Digital Health</a></li>
+		<li id="menu-item-27008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27008"><a href="https://gphn.org.au/what-we-do/integrating-the-health-system/pca/">Provider Connect Australia</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2882"><a href="http://gphn.org.au/what-we-do/health-planning/">Health Planning and Research Evaluation</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4171"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/population-health/">Population Health</a></li>
+		<li id="menu-item-4172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4172"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/tell-gippsland-phn/">Tell Gippsland PHN</a></li>
+		<li id="menu-item-10965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10965"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/primary-care-research-2/">Primary Care Research</a></li>
+		<li id="menu-item-5030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5030"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/fact-sheets/">Fact Sheets</a></li>
+		<li id="menu-item-11008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11008"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/health-needs-assessment-2/">Health Needs Assessment</a></li>
+		<li id="menu-item-13547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13547"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/regional-mental-health-planning/">Integrated Regional Mental Health and Suicide Prevention Planning</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2284"><a href="http://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/">Emergency Preparedness, Response &#038; Recovery</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3867"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/covid-19/covid-19-for-community/">COVID-19 and Influenza for community</a></li>
+		<li id="menu-item-3866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3866"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/covid-19/covid-19-for-professionals/">COVID-19 and Influenza for Professionals</a></li>
+		<li id="menu-item-21763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21763"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/bushfire-preparedness/">Bushfire preparedness</a></li>
+		<li id="menu-item-2896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2896"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/bushfire-recovery-program/">Bushfire Recovery Program</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2834"><a href="http://gphn.org.au/what-we-do/commissioning/">Commissioning</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4806"><a href="https://gphn.org.au/what-we-do/commissioning-process/all-about-commissioning/">All About Commissioning Process</a></li>
+		<li id="menu-item-4807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4807"><a href="https://gphn.org.au/procurement-and-tendering/">Procurement &#038; Tendering</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-25309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25309"><a href="https://gphn.org.au/resources/">Publications</a></li>
+<li id="menu-item-1614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1614"><a href="https://gphn.org.au/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-790"><a href="https://gphn.org.au/latest-news/">Latest News</a></li>
+	<li id="menu-item-5848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5848"><a href="http://gphn.org.au/latest-news/covid19/">Covid-19 News</a></li>
+	<li id="menu-item-5847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5847"><a href="http://gphn.org.au/events/">Events</a></li>
+	<li id="menu-item-5846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5846"><a href="https://gphn.org.au/news/media-release-and-contacts/">Media Release and Contacts</a></li>
+</ul>
+</li>
+<li id="menu-item-3025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3025"><a href="https://gphn.org.au/training-and-events/">Training &#038; Events</a></li>
+<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1730"><a href="https://gphn.org.au/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-5573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5573"><a href="https://gphn.org.au/about-us/">About Gippsland PHN</a></li>
+	<li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1731"><a href="https://gphn.org.au/about-us/board-directors/">Board Directors</a></li>
+	<li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1732"><a href="https://gphn.org.au/about-us/executive-team/">Executive Team</a></li>
+	<li id="menu-item-2381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2381"><a href="https://gphn.org.au/about-us/community-advisory-committee/">Community Advisory Committee</a></li>
+	<li id="menu-item-8978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8978"><a href="https://gphn.org.au/about-us/constitution/">Constitution</a></li>
+	<li id="menu-item-3418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="https://gphn.org.au/about-us/clinical-council/">Clinical Council</a></li>
+	<li id="menu-item-1733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1733"><a href="https://gphn.org.au/about-us/our-region/">Our Region</a></li>
+	<li id="menu-item-17801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17801"><a href="https://gphn.org.au/about-us/reconciliation-action-plan/">Reconciliation Action Plan</a></li>
+	<li id="menu-item-22861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22861"><a href="https://gphn.org.au/about-us/rainbow-tick/">Rainbow Tick</a></li>
+	<li id="menu-item-7926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7926"><a href="https://gphn.org.au/about-us/annual-report/">Annual Reports</a></li>
+	<li id="menu-item-14628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14628"><a href="https://gphn.org.au/careers/">Careers</a></li>
+	<li id="menu-item-8169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8169"><a href="https://gphn.org.au/about-us/membership/">Membership</a></li>
+	<li id="menu-item-1739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1739"><a href="https://gphn.org.au/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+</ul>		</nav>
+			<div class="elementor-shortcode"></div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bcd02a7 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bcd02a7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-175dfe8" data-id="175dfe8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d1d99fe elementor-widget elementor-widget-image" data-id="d1d99fe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://gphn.org.au">
+							<img src="https://gphn.org.au/wp-content/uploads/2020/12/logo_new.svg" class="attachment-full size-full wp-image-1796" alt="" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7987437" data-id="7987437" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-85246a7 elementor-nav-menu__align-end elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="85246a7" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-85246a7" class="elementor-nav-menu"><li class="no-visibleDesktop menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5526"><a href="https://gphn.org.au/" class="elementor-item">Home Page</a></li>
+<li class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-696"><a href="https://gphn.org.au/what-we-do/" class="elementor-item">What We Do</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1844"><a href="http://gphn.org.au/what-we-do/programs/" class="elementor-sub-item">Programs</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2283"><a href="https://gphn.org.au/what-we-do/programs/after-hours-program/" class="elementor-sub-item">After-hours services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14440"><a href="https://gphn.org.au/what-we-do/programs/programs-aged-care/" class="elementor-sub-item">Aged Care</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2282"><a href="https://gphn.org.au/what-we-do/programs/alcohol-and-other-drugs/" class="elementor-sub-item">Alcohol and Other Drugs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24373"><a href="https://gphn.org.au/what-we-do/programs/clihc/" class="elementor-sub-item">Community Led Integrated Health Care</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4809"><a href="https://gphn.org.au/what-we-do/programs/doctors-in-secondary-schools-program/" class="elementor-sub-item">Doctors in Secondary Schools Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13822"><a href="https://gphn.org.au/what-we-do/programs/palliative-care/" class="elementor-sub-item">Greater Choice for At Home Palliative Care</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28086"><a href="https://gphn.org.au/what-we-do/programs/head-to-health/" class="elementor-sub-item">Head to Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3991"><a href="https://gphn.org.au/what-we-do/programs/indigenous-australian-health-programs/" class="elementor-sub-item">Indigenous Australian Health Programs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18374"><a href="https://gphn.org.au/what-we-do/programs/initial-assessment-and-referral/" class="elementor-sub-item">Initial Assessment and Referral</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3992"><a href="https://gphn.org.au/what-we-do/programs/latrobe-health-innovation-zone/" class="elementor-sub-item">Latrobe Health Innovation Zone</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19115"><a href="https://gphn.org.au/what-we-do/programs/medicare-mental-health/" class="elementor-sub-item">Medicare Mental Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="https://gphn.org.au/what-we-do/programs/mental-health-care-and-suicide-prevention/" class="elementor-sub-item">Mental Health Care &#038; Suicide Prevention</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4167"><a href="https://gphn.org.au/what-we-do/programs/psychosocial-support-program/" class="elementor-sub-item">Psychosocial Support Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5034"><a href="https://gphn.org.au/what-we-do/programs/suicide-prevention-program/" class="elementor-sub-item">Suicide Prevention Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14512"><a href="https://gphn.org.au/what-we-do/programs/urgent-care-clinics/" class="elementor-sub-item">Urgent Care Clinics</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1848"><a href="http://gphn.org.au/what-we-do/support-for-primary-care/" class="elementor-sub-item">Support for Primary Care</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19367"><a href="https://gippslandpathways.gphn.org.au/" class="elementor-sub-item">Gippsland Pathways</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19575"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/information-for-health-professionals/" class="elementor-sub-item">Information for health professionals</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4168"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/immunisation/" class="elementor-sub-item">Immunisation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27185"><a href="https://gphn.org.au/livedexperience/" class="elementor-sub-item">Lived Experience at Gippsland PHN</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20493"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/mental-health-and-wellbeing-act/" class="elementor-sub-item">Mental Health and Wellbeing Act 2022</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19242"><a href="https://gphn.org.au/what-we-do/mymedicare/" class="elementor-sub-item">MyMedicare</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5123"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/newsletters/" class="elementor-sub-item">Newsletters</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4169"><a href="https://gphn.org.au/training-and-events/" class="elementor-sub-item">Training &#038; Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2884"><a href="http://gphn.org.au/what-we-do/integrating-the-health-system/" class="elementor-sub-item">Integrating the Health System</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4170"><a href="https://gphn.org.au/what-we-do/integrating-the-health-system/digital-health/" class="elementor-sub-item">Digital Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27008"><a href="https://gphn.org.au/what-we-do/integrating-the-health-system/pca/" class="elementor-sub-item">Provider Connect Australia</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2882"><a href="http://gphn.org.au/what-we-do/health-planning/" class="elementor-sub-item">Health Planning and Research Evaluation</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4171"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/population-health/" class="elementor-sub-item">Population Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4172"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/tell-gippsland-phn/" class="elementor-sub-item">Tell Gippsland PHN</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10965"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/primary-care-research-2/" class="elementor-sub-item">Primary Care Research</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5030"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/fact-sheets/" class="elementor-sub-item">Fact Sheets</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11008"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/health-needs-assessment-2/" class="elementor-sub-item">Health Needs Assessment</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13547"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/regional-mental-health-planning/" class="elementor-sub-item">Integrated Regional Mental Health and Suicide Prevention Planning</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2284"><a href="http://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/" class="elementor-sub-item">Emergency Preparedness, Response &#038; Recovery</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3867"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/covid-19/covid-19-for-community/" class="elementor-sub-item">COVID-19 and Influenza for community</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3866"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/covid-19/covid-19-for-professionals/" class="elementor-sub-item">COVID-19 and Influenza for Professionals</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21763"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/bushfire-preparedness/" class="elementor-sub-item">Bushfire preparedness</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2896"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/bushfire-recovery-program/" class="elementor-sub-item">Bushfire Recovery Program</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2834"><a href="http://gphn.org.au/what-we-do/commissioning/" class="elementor-sub-item">Commissioning</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4806"><a href="https://gphn.org.au/what-we-do/commissioning-process/all-about-commissioning/" class="elementor-sub-item">All About Commissioning Process</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4807"><a href="https://gphn.org.au/procurement-and-tendering/" class="elementor-sub-item">Procurement &#038; Tendering</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25309"><a href="https://gphn.org.au/resources/" class="elementor-item">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1614"><a href="https://gphn.org.au/news/" class="elementor-item">News</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-790"><a href="https://gphn.org.au/latest-news/" class="elementor-sub-item">Latest News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5848"><a href="http://gphn.org.au/latest-news/covid19/" class="elementor-sub-item">Covid-19 News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5847"><a href="http://gphn.org.au/events/" class="elementor-sub-item">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5846"><a href="https://gphn.org.au/news/media-release-and-contacts/" class="elementor-sub-item">Media Release and Contacts</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3025"><a href="https://gphn.org.au/training-and-events/" class="elementor-item">Training &#038; Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1730"><a href="https://gphn.org.au/about-us/" class="elementor-item">About Us</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5573"><a href="https://gphn.org.au/about-us/" class="elementor-sub-item">About Gippsland PHN</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1731"><a href="https://gphn.org.au/about-us/board-directors/" class="elementor-sub-item">Board Directors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1732"><a href="https://gphn.org.au/about-us/executive-team/" class="elementor-sub-item">Executive Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2381"><a href="https://gphn.org.au/about-us/community-advisory-committee/" class="elementor-sub-item">Community Advisory Committee</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8978"><a href="https://gphn.org.au/about-us/constitution/" class="elementor-sub-item">Constitution</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="https://gphn.org.au/about-us/clinical-council/" class="elementor-sub-item">Clinical Council</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1733"><a href="https://gphn.org.au/about-us/our-region/" class="elementor-sub-item">Our Region</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17801"><a href="https://gphn.org.au/about-us/reconciliation-action-plan/" class="elementor-sub-item">Reconciliation Action Plan</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22861"><a href="https://gphn.org.au/about-us/rainbow-tick/" class="elementor-sub-item">Rainbow Tick</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7926"><a href="https://gphn.org.au/about-us/annual-report/" class="elementor-sub-item">Annual Reports</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14628"><a href="https://gphn.org.au/careers/" class="elementor-sub-item">Careers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8169"><a href="https://gphn.org.au/about-us/membership/" class="elementor-sub-item">Membership</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1739"><a href="https://gphn.org.au/contact-us/" class="elementor-sub-item">Contact Us</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-85246a7" class="elementor-nav-menu"><li class="no-visibleDesktop menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5526"><a href="https://gphn.org.au/" class="elementor-item" tabindex="-1">Home Page</a></li>
+<li class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-696"><a href="https://gphn.org.au/what-we-do/" class="elementor-item" tabindex="-1">What We Do</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1844"><a href="http://gphn.org.au/what-we-do/programs/" class="elementor-sub-item" tabindex="-1">Programs</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2283"><a href="https://gphn.org.au/what-we-do/programs/after-hours-program/" class="elementor-sub-item" tabindex="-1">After-hours services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14440"><a href="https://gphn.org.au/what-we-do/programs/programs-aged-care/" class="elementor-sub-item" tabindex="-1">Aged Care</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2282"><a href="https://gphn.org.au/what-we-do/programs/alcohol-and-other-drugs/" class="elementor-sub-item" tabindex="-1">Alcohol and Other Drugs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24373"><a href="https://gphn.org.au/what-we-do/programs/clihc/" class="elementor-sub-item" tabindex="-1">Community Led Integrated Health Care</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4809"><a href="https://gphn.org.au/what-we-do/programs/doctors-in-secondary-schools-program/" class="elementor-sub-item" tabindex="-1">Doctors in Secondary Schools Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13822"><a href="https://gphn.org.au/what-we-do/programs/palliative-care/" class="elementor-sub-item" tabindex="-1">Greater Choice for At Home Palliative Care</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28086"><a href="https://gphn.org.au/what-we-do/programs/head-to-health/" class="elementor-sub-item" tabindex="-1">Head to Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3991"><a href="https://gphn.org.au/what-we-do/programs/indigenous-australian-health-programs/" class="elementor-sub-item" tabindex="-1">Indigenous Australian Health Programs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18374"><a href="https://gphn.org.au/what-we-do/programs/initial-assessment-and-referral/" class="elementor-sub-item" tabindex="-1">Initial Assessment and Referral</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3992"><a href="https://gphn.org.au/what-we-do/programs/latrobe-health-innovation-zone/" class="elementor-sub-item" tabindex="-1">Latrobe Health Innovation Zone</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19115"><a href="https://gphn.org.au/what-we-do/programs/medicare-mental-health/" class="elementor-sub-item" tabindex="-1">Medicare Mental Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3839"><a href="https://gphn.org.au/what-we-do/programs/mental-health-care-and-suicide-prevention/" class="elementor-sub-item" tabindex="-1">Mental Health Care &#038; Suicide Prevention</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4167"><a href="https://gphn.org.au/what-we-do/programs/psychosocial-support-program/" class="elementor-sub-item" tabindex="-1">Psychosocial Support Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5034"><a href="https://gphn.org.au/what-we-do/programs/suicide-prevention-program/" class="elementor-sub-item" tabindex="-1">Suicide Prevention Program</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14512"><a href="https://gphn.org.au/what-we-do/programs/urgent-care-clinics/" class="elementor-sub-item" tabindex="-1">Urgent Care Clinics</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1848"><a href="http://gphn.org.au/what-we-do/support-for-primary-care/" class="elementor-sub-item" tabindex="-1">Support for Primary Care</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19367"><a href="https://gippslandpathways.gphn.org.au/" class="elementor-sub-item" tabindex="-1">Gippsland Pathways</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19575"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/information-for-health-professionals/" class="elementor-sub-item" tabindex="-1">Information for health professionals</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4168"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/immunisation/" class="elementor-sub-item" tabindex="-1">Immunisation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27185"><a href="https://gphn.org.au/livedexperience/" class="elementor-sub-item" tabindex="-1">Lived Experience at Gippsland PHN</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20493"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/mental-health-and-wellbeing-act/" class="elementor-sub-item" tabindex="-1">Mental Health and Wellbeing Act 2022</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19242"><a href="https://gphn.org.au/what-we-do/mymedicare/" class="elementor-sub-item" tabindex="-1">MyMedicare</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5123"><a href="https://gphn.org.au/what-we-do/support-for-primary-care/newsletters/" class="elementor-sub-item" tabindex="-1">Newsletters</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4169"><a href="https://gphn.org.au/training-and-events/" class="elementor-sub-item" tabindex="-1">Training &#038; Events</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2884"><a href="http://gphn.org.au/what-we-do/integrating-the-health-system/" class="elementor-sub-item" tabindex="-1">Integrating the Health System</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4170"><a href="https://gphn.org.au/what-we-do/integrating-the-health-system/digital-health/" class="elementor-sub-item" tabindex="-1">Digital Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27008"><a href="https://gphn.org.au/what-we-do/integrating-the-health-system/pca/" class="elementor-sub-item" tabindex="-1">Provider Connect Australia</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2882"><a href="http://gphn.org.au/what-we-do/health-planning/" class="elementor-sub-item" tabindex="-1">Health Planning and Research Evaluation</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4171"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/population-health/" class="elementor-sub-item" tabindex="-1">Population Health</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4172"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/tell-gippsland-phn/" class="elementor-sub-item" tabindex="-1">Tell Gippsland PHN</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10965"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/primary-care-research-2/" class="elementor-sub-item" tabindex="-1">Primary Care Research</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5030"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/fact-sheets/" class="elementor-sub-item" tabindex="-1">Fact Sheets</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11008"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/health-needs-assessment-2/" class="elementor-sub-item" tabindex="-1">Health Needs Assessment</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13547"><a href="https://gphn.org.au/what-we-do/health-planning-research-and-evaluation/regional-mental-health-planning/" class="elementor-sub-item" tabindex="-1">Integrated Regional Mental Health and Suicide Prevention Planning</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2284"><a href="http://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/" class="elementor-sub-item" tabindex="-1">Emergency Preparedness, Response &#038; Recovery</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3867"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/covid-19/covid-19-for-community/" class="elementor-sub-item" tabindex="-1">COVID-19 and Influenza for community</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3866"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/covid-19/covid-19-for-professionals/" class="elementor-sub-item" tabindex="-1">COVID-19 and Influenza for Professionals</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21763"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/bushfire-preparedness/" class="elementor-sub-item" tabindex="-1">Bushfire preparedness</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2896"><a href="https://gphn.org.au/what-we-do/emergency-preparedness-response-recovery/bushfire-recovery-program/" class="elementor-sub-item" tabindex="-1">Bushfire Recovery Program</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2834"><a href="http://gphn.org.au/what-we-do/commissioning/" class="elementor-sub-item" tabindex="-1">Commissioning</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4806"><a href="https://gphn.org.au/what-we-do/commissioning-process/all-about-commissioning/" class="elementor-sub-item" tabindex="-1">All About Commissioning Process</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4807"><a href="https://gphn.org.au/procurement-and-tendering/" class="elementor-sub-item" tabindex="-1">Procurement &#038; Tendering</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25309"><a href="https://gphn.org.au/resources/" class="elementor-item" tabindex="-1">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1614"><a href="https://gphn.org.au/news/" class="elementor-item" tabindex="-1">News</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-790"><a href="https://gphn.org.au/latest-news/" class="elementor-sub-item" tabindex="-1">Latest News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5848"><a href="http://gphn.org.au/latest-news/covid19/" class="elementor-sub-item" tabindex="-1">Covid-19 News</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5847"><a href="http://gphn.org.au/events/" class="elementor-sub-item" tabindex="-1">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5846"><a href="https://gphn.org.au/news/media-release-and-contacts/" class="elementor-sub-item" tabindex="-1">Media Release and Contacts</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3025"><a href="https://gphn.org.au/training-and-events/" class="elementor-item" tabindex="-1">Training &#038; Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1730"><a href="https://gphn.org.au/about-us/" class="elementor-item" tabindex="-1">About Us</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5573"><a href="https://gphn.org.au/about-us/" class="elementor-sub-item" tabindex="-1">About Gippsland PHN</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1731"><a href="https://gphn.org.au/about-us/board-directors/" class="elementor-sub-item" tabindex="-1">Board Directors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1732"><a href="https://gphn.org.au/about-us/executive-team/" class="elementor-sub-item" tabindex="-1">Executive Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2381"><a href="https://gphn.org.au/about-us/community-advisory-committee/" class="elementor-sub-item" tabindex="-1">Community Advisory Committee</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8978"><a href="https://gphn.org.au/about-us/constitution/" class="elementor-sub-item" tabindex="-1">Constitution</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="https://gphn.org.au/about-us/clinical-council/" class="elementor-sub-item" tabindex="-1">Clinical Council</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1733"><a href="https://gphn.org.au/about-us/our-region/" class="elementor-sub-item" tabindex="-1">Our Region</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17801"><a href="https://gphn.org.au/about-us/reconciliation-action-plan/" class="elementor-sub-item" tabindex="-1">Reconciliation Action Plan</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22861"><a href="https://gphn.org.au/about-us/rainbow-tick/" class="elementor-sub-item" tabindex="-1">Rainbow Tick</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7926"><a href="https://gphn.org.au/about-us/annual-report/" class="elementor-sub-item" tabindex="-1">Annual Reports</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14628"><a href="https://gphn.org.au/careers/" class="elementor-sub-item" tabindex="-1">Careers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8169"><a href="https://gphn.org.au/about-us/membership/" class="elementor-sub-item" tabindex="-1">Membership</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1739"><a href="https://gphn.org.au/contact-us/" class="elementor-sub-item" tabindex="-1">Contact Us</a></li>
+</ul>
+</li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<div data-elementor-type="archive" data-elementor-id="622" class="elementor elementor-622 elementor-location-archive" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-f7b8f06 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f7b8f06" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d7e2970" data-id="d7e2970" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-36f74d7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="36f74d7" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a4e7449 elementor-widget elementor-widget-html" data-id="a4e7449" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div id="breadcrumbs">
+    <span>
+        <span>
+			<a href="https://gphn.org.au/">Home</a> » <span>
+			<a href="https://gphn.org.au/news/">News</a> » 
+			<a href="https://gphn.org.au/latest-news/">Latest News</a>
+		</span>
+	</span>
+</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1dde83f elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-breadcrumbs" data-id="1dde83f" data-element_type="widget" data-widget_type="breadcrumbs.default">
+				<div class="elementor-widget-container">
+					<p id="breadcrumbs"><span><span><a href="http://gphn.org.au/">Home</a></span></span></p>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b7b68df elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b7b68df" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-140c241" data-id="140c241" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-548f28f elementor-posts__hover-none news-section elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-widget elementor-widget-posts" data-id="548f28f" data-element_type="widget" data-settings="{&quot;pagination_type&quot;:&quot;numbers_and_prev_next&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;cards_columns&quot;:&quot;3&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;cards_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+							<div data-elementor-type="section" data-elementor-id="5895" class="elementor elementor-5895 elementor-location-archive" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-6a10512 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a10512" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-19466cb" data-id="19466cb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8133e5e elementor-widget elementor-widget-html" data-id="8133e5e" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div class="nothing-found">
+						<h2>NO CURRENT NEWS STORIES TO DISPLAY:</h2>
+						<p><strong>Please check back soon.</strong></p>
+					</div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<div data-elementor-type="footer" data-elementor-id="629" class="elementor elementor-629 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-7342eda elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7342eda" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9f28da6" data-id="9f28da6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0b4f2b7 elementor-widget elementor-widget-template" data-id="0b4f2b7" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-template">
+			<style id="elementor-post-721">.elementor-721 .elementor-element.elementor-element-33b96d7:not(.elementor-motion-effects-element-type-background), .elementor-721 .elementor-element.elementor-element-33b96d7 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-ce9605f );}.elementor-721 .elementor-element.elementor-element-33b96d7{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:130px 30px 60px 30px;z-index:1;}.elementor-721 .elementor-element.elementor-element-33b96d7 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-721 .elementor-element.elementor-element-33b96d7 a{color:var( --e-global-color-6848b39 );}.elementor-721 .elementor-element.elementor-element-33b96d7 a:hover{color:var( --e-global-color-accent );}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-721 .elementor-element.elementor-element-c0c1922{text-align:left;}.elementor-721 .elementor-element.elementor-element-c0c1922 img{width:90%;max-width:260px;}.elementor-721 .elementor-element.elementor-element-db017a1 > .elementor-widget-container{margin:20px 0px 0px 0px;}.elementor-721 .elementor-element.elementor-element-db017a1{text-align:left;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-721 .elementor-element.elementor-element-355fb0b .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:35px;font-weight:300;line-height:42px;text-shadow:0px 0px 10px rgba(0,0,0,0.3);color:#FFFFFF;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-721 .elementor-element.elementor-element-1852fbb{color:#FFFFFF;}.elementor-721 .elementor-element.elementor-element-b5d3c7a .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:35px;font-weight:300;line-height:42px;text-shadow:0px 0px 10px rgba(0,0,0,0.3);color:#FFFFFF;}.elementor-721 .elementor-element.elementor-element-0018db2{color:#FFFFFF;}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(7px/2);}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(7px/2);}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(7px/2);margin-left:calc(7px/2);}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-7px/2);margin-left:calc(-7px/2);}body.rtl .elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-7px/2);}body:not(.rtl) .elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-7px/2);}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-icon i{color:#FFFFFF;transition:color 0.3s;}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-icon svg{fill:#FFFFFF;transition:fill 0.3s;}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-item:hover .elementor-icon-list-icon i{color:var( --e-global-color-secondary );}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-item:hover .elementor-icon-list-icon svg{fill:var( --e-global-color-secondary );}.elementor-721 .elementor-element.elementor-element-bef2685{--e-icon-list-icon-size:25px;--e-icon-list-icon-align:center;--e-icon-list-icon-margin:0 calc(var(--e-icon-list-icon-size, 1em) * 0.125);--icon-vertical-offset:0px;}.elementor-721 .elementor-element.elementor-element-bef2685 .elementor-icon-list-text{transition:color 0.3s;}.elementor-721 .elementor-element.elementor-element-41fdeeb:not(.elementor-motion-effects-element-type-background), .elementor-721 .elementor-element.elementor-element-41fdeeb > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#79828C;}.elementor-721 .elementor-element.elementor-element-41fdeeb{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-721 .elementor-element.elementor-element-41fdeeb > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-721 .elementor-element.elementor-element-abdb566{text-align:center;}.elementor-721 .elementor-element.elementor-element-91fa506{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;line-height:1.4em;letter-spacing:0.5px;color:#FFFFFF;}.elementor-721 .elementor-element.elementor-element-f3fdfcc:not(.elementor-motion-effects-element-type-background), .elementor-721 .elementor-element.elementor-element-f3fdfcc > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-ce9605f );}.elementor-721 .elementor-element.elementor-element-f3fdfcc{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-721 .elementor-element.elementor-element-f3fdfcc > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-721 .elementor-element.elementor-element-f3fdfcc a{color:var( --e-global-color-6848b39 );}.elementor-721 .elementor-element.elementor-element-f3fdfcc a:hover{color:var( --e-global-color-accent );}.elementor-721 .elementor-element.elementor-element-046072f{text-align:center;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;color:#FFFFFF;}.elementor-721 .elementor-element.elementor-element-12e476c > .elementor-widget-container{margin:0rem 0rem 0rem 0rem;padding:0rem 0rem 0rem 0rem;}.elementor-721 .elementor-element.elementor-element-12e476c{text-align:center;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;color:#FFFFFF;}.elementor-721 .elementor-element.elementor-element-e5dac6a{text-align:center;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;color:#FFFFFF;}@media(min-width:575px){.elementor-721 .elementor-element.elementor-element-c942aed{width:18.918%;}.elementor-721 .elementor-element.elementor-element-4b53666{width:81.082%;}.elementor-721 .elementor-element.elementor-element-5ab06a8{width:40%;}.elementor-721 .elementor-element.elementor-element-27f3774{width:33%;}.elementor-721 .elementor-element.elementor-element-c428dcf{width:26.333%;}}@media(max-width:990px){.elementor-721 .elementor-element.elementor-element-33b96d7{padding:50px 20px 50px 20px;}.elementor-721 .elementor-element.elementor-element-485d383 > .elementor-element-populated{margin:0px 0px 40px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-721 .elementor-element.elementor-element-c0c1922{text-align:center;}.elementor-721 .elementor-element.elementor-element-c0c1922 img{width:100%;max-width:100%;}.elementor-721 .elementor-element.elementor-element-db017a1{text-align:center;}.elementor-721 .elementor-element.elementor-element-355fb0b .elementor-heading-title{font-size:24px;line-height:30px;}.elementor-721 .elementor-element.elementor-element-b5d3c7a .elementor-heading-title{font-size:24px;line-height:30px;}.elementor-721 .elementor-element.elementor-element-abdb566{text-align:center;}}@media(max-width:574px){.elementor-721 .elementor-element.elementor-element-33b96d7{padding:30px 20px 30px 20px;}.elementor-721 .elementor-element.elementor-element-485d383 > .elementor-element-populated{margin:10px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-721 .elementor-element.elementor-element-c0c1922{text-align:center;}.elementor-721 .elementor-element.elementor-element-c0c1922 img{width:100%;max-width:90%;}.elementor-721 .elementor-element.elementor-element-db017a1{text-align:center;}.elementor-721 .elementor-element.elementor-element-da892a8 > .elementor-element-populated{margin:40px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-721 .elementor-element.elementor-element-355fb0b{text-align:center;}.elementor-721 .elementor-element.elementor-element-355fb0b .elementor-heading-title{font-size:24px;line-height:30px;}.elementor-721 .elementor-element.elementor-element-1852fbb{text-align:center;}.elementor-721 .elementor-element.elementor-element-8ba8e1a > .elementor-element-populated{margin:30px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-721 .elementor-element.elementor-element-b5d3c7a{text-align:center;}.elementor-721 .elementor-element.elementor-element-b5d3c7a .elementor-heading-title{font-size:24px;line-height:30px;}.elementor-721 .elementor-element.elementor-element-0018db2{text-align:center;}.elementor-721 .elementor-element.elementor-element-abdb566{text-align:center;}}@media(max-width:990px) and (min-width:575px){.elementor-721 .elementor-element.elementor-element-485d383{width:100%;}.elementor-721 .elementor-element.elementor-element-da892a8{width:50%;}.elementor-721 .elementor-element.elementor-element-8ba8e1a{width:50%;}}/* Start custom CSS for image, class: .elementor-element-c0c1922 */.elementor-721 .elementor-element.elementor-element-c0c1922 a {
+    display: block;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-046072f */.employment-privacy-statement {
+    display: none;
+}
+.page-id-14368 .employment-privacy-statement {
+    display: inline;
+}/* End custom CSS */</style>		<div data-elementor-type="section" data-elementor-id="721" class="elementor elementor-721 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-33b96d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33b96d7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-485d383" data-id="485d383" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c0c1922 elementor-widget elementor-widget-image" data-id="c0c1922" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://gphn.org.au">
+							<img src="https://gphn.org.au/wp-content/uploads/2020/12/logo.svg" class="attachment-full size-full wp-image-231" alt="" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-db017a1 elementor-widget elementor-widget-image" data-id="db017a1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="230" height="87" src="https://gphn.org.au/wp-content/uploads/2021/02/qic-accredited-gphn.png" class="attachment-full size-full wp-image-5642" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-da892a8" data-id="da892a8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-355fb0b elementor-widget elementor-widget-heading" data-id="355fb0b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Our locations</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1852fbb elementor-widget elementor-widget-text-editor" data-id="1852fbb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Main office</strong></p><p>11 Seymour Street, Traralgon, Gunaikurnai Country</p><p>13 McBride Avenue, Wonthaggi, Bunurong Country </p><p>119 Main Street, Bairnsdale, Gunaikurnai Country</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8ba8e1a" data-id="8ba8e1a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b5d3c7a elementor-widget elementor-widget-heading" data-id="b5d3c7a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:0351755444">Call 03 5175 5444</a></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0018db2 elementor-widget elementor-widget-text-editor" data-id="0018db2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Email</strong> <br /><a href="mailto:info@gphn.org.au">info@gphn.org.au</a></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-bef2685 elementor-icon-list--layout-inline elementor-align-left elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bef2685" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.facebook.com/gippslandphn/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.linkedin.com/company/gippsland-phn/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-linkedin-in"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://twitter.com/gippslandphn" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-twitter"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.youtube.com/channel/UCICLdHH6oB--Vwhfxc5uanA" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-youtube"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-41fdeeb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41fdeeb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c942aed" data-id="c942aed" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-abdb566 elementor-widget elementor-widget-image" data-id="abdb566" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="230" height="33" src="https://gphn.org.au/wp-content/uploads/2021/02/flags-acknowledgement.png" class="attachment-full size-full wp-image-5641" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4b53666" data-id="4b53666" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-91fa506 elementor-widget elementor-widget-text-editor" data-id="91fa506" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Gippsland PHN is committed to providing inclusive services and work environments where people of all backgrounds, sexualities, genders, cultures, spiritual beliefs, age, bodies and abilities are valued, supported and celebrated.</p><p>Gippsland PHN acknowledges the Aboriginal and/or Torres Strait Islander people/s as the traditional Custodians of Country across the Gippsland region.</p><p>We acknowledge the Aboriginal and/or Torres Strait Islander people/s continuing connection to Land, Water and Community.</p><p>We pay our respects to the Aboriginal and/or Torres Strait Islander People/s, Cultures, and their Elders past and present.</p><p>We also recognise, respect and affirm the central role played in our work by people with lived experience, their families and/or carers.</p><p>Gippsland PHN acknowledges Alfie Hudson for the healing circles artwork. Alfie is a Gunai Kurnai man and created this artwork which represents health professionals being committed to work in partnership with Aboriginal and Torres Strait Islander community members for the best health outcomes.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f3fdfcc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f3fdfcc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5ab06a8" data-id="5ab06a8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-046072f elementor-widget elementor-widget-text-editor" data-id="046072f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span class="employment-privacy-statement"><a href="https://gphn.org.au/employment-applications-privacy-policy/">Employment Applications Privacy Policy</a> | </span> <a href="https://gphn.org.au/privacy/">Privacy Statement</a>  |  <a href="https://gphn.org.au/acknowledgement/">Acknowledgement</a>  |  <a href="https://gphn.org.au/whistleblowing-policy/" target="_blank" rel="noopener">Whistleblowing Policy</a></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-27f3774" data-id="27f3774" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-12e476c elementor-widget elementor-widget-text-editor" data-id="12e476c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>© 2023 Gippsland Primary Health Network. All Rights Reserved</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c428dcf" data-id="c428dcf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e5dac6a elementor-widget elementor-widget-text-editor" data-id="e5dac6a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Website by <a href="http://www.hootville.com">Hootville</a></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-theme-child-master\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='wpo_min-footer-0-css' href='https://gphn.org.au/wp-content/cache/wpo-minify/1745303110/assets/wpo-minify-footer-df472b17.min.css' media='all' />
+<script id="wpo_min-footer-0-js-extra">
+var localize = {"ajaxurl":"https:\/\/gphn.org.au\/wp-admin\/admin-ajax.php","nonce":"bd578d07fb","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":574,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":990,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+</script>
+<script src="https://gphn.org.au/wp-content/cache/wpo-minify/1745303110/assets/wpo-minify-footer-9c773cae.min.js" id="wpo_min-footer-0-js"></script>
+<script src="https://gphn.org.au/wp-content/cache/wpo-minify/1745303110/assets/wpo-minify-footer-a627105e.min.js" id="wpo_min-footer-1-js"></script>
+<script src="https://gphn.org.au/wp-content/cache/wpo-minify/1745303110/assets/wpo-minify-footer-3ae00fb2.min.js" id="wpo_min-footer-2-js"></script>
+		<script> 
+			let classlist = document.querySelector('body').classList;
+			if(classlist.contains('search') || classlist.contains('search-results')) {
+				if(document.querySelector('div#breadcrumbs') != null && document.querySelector('.elementor-widget-breadcrumbs') != null) {
+					document.querySelector('div#breadcrumbs').parentNode.parentNode.style.display = 'none';
+					document.querySelector('.elementor-widget-breadcrumbs').classList.remove('elementor-hidden-desktop');
+					document.querySelector('.elementor-widget-breadcrumbs').classList.remove('elementor-hidden-tablet');
+					document.querySelector('.elementor-widget-breadcrumbs').classList.remove('elementor-hidden-phone');
+				}
+			}
+		</script>
+		
+<link rel="stylesheet" type="text/css" href="https://gphn.org.au/wp-content/themes/hello-theme-child-master/assets/bootstrap-grid.min.css">
+<link rel="stylesheet" type="text/css" href="https://gphn.org.au/wp-content/themes/hello-theme-child-master/assets/owl.carousel.min.css">
+<script src="https://gphn.org.au/wp-content/themes/hello-theme-child-master/assets/owl.carousel.min.js"></script>
+
+<script>
+	/*
+	jQuery(window).on('load', function () {
+		if (sessionStorage.getItem('dontLoad') == null) {
+			setTimeout(removeLoader, 1000);
+			sessionStorage.setItem('dontLoad', 'true');
+		} else {
+			jQuery(".preloader-text").hide();
+			jQuery(".preloader-img").hide();
+			setTimeout(removeLoader, 1000);
+		}
+	});
+	function removeLoader() {
+			jQuery( "#preloader" ).fadeOut(500, function() {
+			document.getElementById("overflow-class").removeAttribute("style");
+			jQuery( "#preloader" ).remove();
+		});
+	}
+	*/
+	jQuery('.loader_text_unit').each(function() {
+		var $this = jQuery(this),
+			countTo = $this.attr('data-count');
+
+		jQuery({ countNum: $this.text()}).animate({
+			countNum: countTo
+		},
+
+		{
+		duration: 300,
+		easing:'linear',
+		step: function() {
+			$this.text(Math.floor(this.countNum));
+		},
+		complete: function() {
+			$this.text(this.countNum);
+		}
+		});
+	});
+</script>
+
+<script>
+	(function ($) {
+		'use strict'
+
+		jQuery(document).ready(function($){
+			jQuery('#filter').on('change keyup paste', function() {
+				var filter = jQuery('#filter');
+				$.ajax({
+					url:filter.attr('action'),
+					data:filter.serialize(),
+					type:filter.attr('method'),
+					beforeSend:function(xhr){
+						filter.find('button').attr('disabled', 'disabled').text('Processing...'); // changing the button label
+					},
+					success:function(data){
+						filter.find('button').text('Reset'); // changing the button label back
+						jQuery('#response').html(data); // insert data
+						if(jQuery('#filter').serialize().split('&').filter( (k, v) => !(k[k.length - 1] == '=') && k != "action=myfilter").length) {
+							jQuery('#reset-filters').removeAttr('disabled');
+						}
+					}
+				});
+				return false;
+			});
+			jQuery('#reset-filters').click(function() {
+				jQuery('#filter')[0].reset();
+				jQuery('#filter').trigger('change');
+				return false;
+			});
+
+			$('#filter-tenders input[type="checkbox"]').on('change', function() {
+				$('#filter-tenders input[type="checkbox"]').not(this).prop('checked', false);
+			});
+
+			jQuery('#filter-tenders').on('change keyup paste', function() {
+				var filterTenders = jQuery('#filter-tenders');
+				$.ajax({
+					url:filterTenders.attr('action'),
+					data:filterTenders.serialize(),
+					type:filterTenders.attr('method'),
+					beforeSend:function(xhr){
+						filterTenders.find('button').attr('disabled', 'disabled').text('Processing...'); // changing the button label
+					},
+					success:function(data){
+						filterTenders.find('button').text('Reset'); // changing the button label back
+						jQuery('#responseTender').html(data); // insert data
+						if(jQuery('#filter-tenders').serialize().split('&').filter( (k, v) => !(k[k.length - 1] == '=') && k != "action=myfilterTenders").length) {
+							jQuery('#reset-tenders-filters').removeAttr('disabled');
+						}
+					}
+				});
+				return false;
+			});
+			jQuery('#reset-tenders-filters').click(function() {
+				jQuery('#filter-tenders')[0].reset();
+				jQuery('#filter-tenders').trigger('change');
+				document.getElementById('current-opp').classList.add('hide');
+				document.getElementById('recently-awa').classList.add('hide');
+				return false;
+			});
+			
+			
+			/*$('#filter-vacancies input[type="checkbox"]').on('change', function() {
+				$('#filter-vacancies input[type="checkbox"]').not(this).prop('checked', false);
+			});*/
+			jQuery('#filter-vacancies').on('change keyup paste', function() {
+				var filterVacancies = jQuery('#filter-vacancies');
+				$.ajax({
+					url:filterVacancies.attr('action'),
+					data:filterVacancies.serialize(),
+					type:filterVacancies.attr('method'),
+					beforeSend:function(xhr){
+						filterVacancies.find('button').attr('disabled', 'disabled').text('Processing...'); // changing the button label
+					},
+					success:function(data){
+						filterVacancies.find('button').text('Reset'); // changing the button label back
+						jQuery('#responseVacancies').html(data); // insert data
+						if(jQuery('#filter-vacancies').serialize().split('&').filter( (k, v) => !(k[k.length - 1] == '=') && k != "action=myfilterVacancies").length) {
+							jQuery('#reset-vacancies-filters').removeAttr('disabled');
+						}
+					}
+				});
+				return false;
+			});
+			jQuery('#reset-vacancies-filters').click(function() {
+				jQuery('#filter-vacancies')[0].reset();
+				jQuery('#filter-vacancies').trigger('change');
+				return false;
+			});
+		});
+	})(jQuery);
+</script>
+
+<script>
+	(function ($) {
+		'use strict'
+			jQuery(".slider-events").owlCarousel({
+				loop: true,
+				margin: 20,
+				nav: true,
+				dots: true,
+				navText: ["<span class='arrow_left'><span/>", "<span class='arrow_right'><span/>"],
+				animateOut: 'fadeOut',
+				animateIn: 'fadeIn',
+				autoplay: false,
+				items: 1,
+				responsive: {
+					0: {
+						nav: false,
+						autoHeight: true,
+						mouseDrag: true,
+					},
+					992: {
+						nav: true,
+						autoHeight: false,
+						mouseDrag: false,
+					}
+				}
+			});
+
+			if ($('#filter').length) {
+				if (window.navigator.userAgent.indexOf("Edge") !== -1 || navigator.appVersion.indexOf("MSIE 10") !== -1 || window.navigator.userAgent.indexOf("Trident/7.0") > 0) {
+					document.getElementById('filter').classList.add('crappy-browser');
+				} else {
+					document.getElementById('filter').classList.add('modern-browser');
+				}
+			}
+
+			if ($('#filter-tenders').length) {
+				if (window.navigator.userAgent.indexOf("Edge") !== -1 || navigator.appVersion.indexOf("MSIE 10") !== -1 || window.navigator.userAgent.indexOf("Trident/7.0") > 0) {
+					document.getElementById('filter-tenders').classList.add('crappy-browser');
+				} else {
+					document.getElementById('filter-tenders').classList.add('modern-browser');
+				}
+			}
+		
+			if ($('#filter-vacancies').length) {
+				if (window.navigator.userAgent.indexOf("Edge") !== -1 || navigator.appVersion.indexOf("MSIE 10") !== -1 || window.navigator.userAgent.indexOf("Trident/7.0") > 0) {
+					document.getElementById('filter-vacancies').classList.add('crappy-browser');
+				} else {
+					document.getElementById('filter-vacancies').classList.add('modern-browser');
+				}
+			}
+	})(jQuery);
+</script>
+
+<script defer>
+  (function generateWidget(d, s, id) {
+    let js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)){
+	d.getElementById(id).parentNode.removeChild(d.getElementById(id)); }
+		js = d.createElement(s);
+	js.id = id;
+		js.defer = true;
+	js.setAttribute('widgetId', 'b199ede8-a3c7-43ec-9eee-1232664529cc');
+	js.src = 'https://widget.nhsd.healthdirect.org.au/v1/bootstrap/init.js';
+	fjs.parentNode && fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'my-nhsd-widget-script'));
+</script>
+
+<style>
+	/*.page-id-5917 .elementor-field-group-field_49fc203 {
+		display: none;
+	}*/
+</style>
+
+<script>
+	jQuery(window).on("load", function() {
+		if (jQuery("body").hasClass("page-id-5917")) {
+			//document.getElementById('form-field-field_49fc203').disabled = true;
+			var result = localStorage.getItem("eventTitle");
+			document.getElementById('form-field-field_49fc203').value = result;
+			document.getElementById('eventRegisterName').textContent = result;
+		}
+	});
+
+
+	if (jQuery("body").hasClass("page-id-5917")) {
+		jQuery(window).unload(function() {
+			localStorage.removeItem("eventTitle");
+		});
+	}
+</script>
+
+<script>
+	jQuery(document).ready(function() {
+		jQuery('#eventTitleSave').click(function() {
+			localStorage.removeItem("eventTitle");
+			var c1Title = jQuery('#eventTitle h1').text();
+			localStorage.setItem("eventTitle",c1Title);
+		});
+	});
+</script>
+
+<script>
+	function addLoadEvent(func) {
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function') {
+			window.onload = func;
+		} else {
+			window.onload = function () {
+				if (oldonload) {
+					oldonload();
+				}
+				func();
+			}
+		}
+	}
+
+	function breakpoint(width) {
+		if ( window.matchMedia( 'screen and (min-width: ' + width + ')' ).matches ) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	addLoadEvent(function(){
+		document.body.classList.add("loaded");
+	});
+
+	addLoadEvent(function(){
+		(function ($) {
+
+			$(document).on('click', '.nhsd', function(){
+				$(this).removeClass('nhsd-visible');
+			});
+
+			$(document).on('click', '.nhsd-button, .nhsd-close', function(e){
+				e.preventDefault();
+				$('.nhsd').addClass('nhsd-visible');
+				/*
+				if (breakpoint('768px')) {
+					$('.nhsd').addClass('nhsd-visible');
+				} else {
+					window.open('https://widgets.nhsd.com.au/nhsd/widget/modular/web//#/widget?apiKey=34fc411a369d447c975148b9650c5390');
+				}
+				*/
+			});
+
+		}(jQuery))
+	});
+</script>
+
+<style>
+	.nhsd {
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background: rgba(0, 0, 0, 0.65);
+		cursor: pointer;
+		z-index: 99999999999;
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 0.3s ease;
+	}
+	.nhsdBox {
+		display: inline-block;
+		width: 400px;
+	}
+	@media only screen and (max-width: 575px) {
+		.nhsdBox {
+			width: 100%;
+		}
+	}
+	.nhsd-visible {
+		opacity: 1;
+		pointer-events: auto;
+	}
+	.nhsd-close {
+		color: #fff;
+		font-size: 22px;
+		display: block;
+		margin-left: auto;
+		width: 26px;
+		margin-bottom: 5px;
+		transition: color 0.3s ease;
+		cursor: pointer;
+	}
+	.nhsd-close:hover {
+		color: #73BCC2;
+	}
+	#nhsd-widget {
+		position: fixed;
+		min-width: 375px;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -40%);
+	}
+</style>
+
+</body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 9914 objects (4 MB) from Redis using PhpRedis (v6.1.0).
+-->
+
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: April 22, 2025 6:15 pm (UTC:10) -->
