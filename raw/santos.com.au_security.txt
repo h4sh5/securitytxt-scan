@@ -1,0 +1,27 @@
+# Our security team email address:
+
+Contact: mailto:security@santos.com
+
+ 
+
+# Contents of this file may be stale after this date:
+
+Expires: 2026-07-21T14:00:00.000Z
+
+ 
+
+# Our security team prefers this language for all communications:
+
+Preferred-Languages: en
+
+ 
+
+# This file is reachable at the following address:
+
+Canonical: https://www.santos.com/.well-known/security.txt
+
+ 
+
+# Please view our full vulnerability disclosure policy here:
+
+Policy: https://bugcrowd.com/santos-vdp
