@@ -1,0 +1,3 @@
+#If you have discovered a technical vulnerability we encourage you to report it Coordinated with Clarivate Vulnerability Disclosure program.
+
+#https://clarivate.com/information-security/responsible-vulnerability-disclosure-program/
