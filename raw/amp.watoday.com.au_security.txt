@@ -1,0 +1,6 @@
+Contact: https://bugcrowd.com/nine-entertainment-vdp-pro
+Contact: mailto:9cybersec@nine.com.au
+Acknowledgments: https://bugcrowd.com/engagements/nine-entertainment-vdp-pro/hall_of_fames
+Policy: https://bugcrowd.com/nine-entertainment-vdp-pro
+Canonical: https://cybersec.nine.com.au/.well-known/security.txt
+Hiring: https://ninecareers.com.au/
