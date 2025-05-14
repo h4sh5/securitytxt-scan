@@ -1,0 +1,4 @@
+Canonical: https://fwc.gov.au/.well-known/security.txt
+Contact: mailto:ictsecurity@fwc.gov.au
+Expires: 2030-06-30T23:59:00Z
+Preferred-Languages: en
