@@ -1,0 +1,5 @@
+Contact: mailto:cybersecurity@salvationarmy.org.au
+Expires:2026-11-30 T01:00:00.000Z
+Encryption:https://salvosstores.com.au/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://salvosstores.com.au/.well-known/security.txt
