@@ -1,0 +1,5 @@
+Contact: mailto:responsible.disclosure@heineken.com
+
+Encryption: https://theheinekencompany.com/.well-known/pgp-public-key.asc
+
+Policy: https://www.theheinekencompany.com/heinekens-responsible-vulnerability-disclosure-policy
