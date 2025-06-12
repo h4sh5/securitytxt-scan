@@ -1,0 +1,4 @@
+Contact: https://hostking.com.au
+Contact: mailto: support@hostking.com.au
+Expires: 2025-12-31T23:59:00Z
+Preferred-Languages: en
