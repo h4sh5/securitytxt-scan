@@ -1,0 +1,2 @@
+# If you would like to report a vulnerability or an incident, please contact below.
+Contact: security[dot]operations[at]investisdigital[dot]com
