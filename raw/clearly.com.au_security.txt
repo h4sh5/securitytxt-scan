@@ -1,0 +1,4 @@
+Contact: mailto:csirt@essilorluxottica.com
+Expires: 2027-12-31T22:59:00.000Z
+Preferred-Languages: En, it, fr
+Policy: https://essilorluxottica.vulnerability-disclosure.com/
