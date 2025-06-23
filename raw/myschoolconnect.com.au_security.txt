@@ -1,0 +1,4 @@
+Canonical: https://myschoolconnect.com.au/.well-known/security.txt
+Contact: mailto:sysadmin@myschoolconnect.com.au
+Expires: 2030-12-31T12:00:00Z
+Preferred-Languages: en
