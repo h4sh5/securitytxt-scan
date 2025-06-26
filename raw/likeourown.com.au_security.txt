@@ -1,0 +1,3 @@
+# Security Policy for likeourown.com.au
+Contact: mailto:katie@aetherdigital.com.au
+Expires: 2026-06-26T00:00:00.000Z
