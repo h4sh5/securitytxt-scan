@@ -1,0 +1,6 @@
+Canonical: https://energylocals.com.au/.well-known/security.txt
+Contact: mailto:security@energylocals.com.au
+Encryption: https://public.energylocals.com.au/public/EnergyLocalsPublicKey.asc
+Expires: 2030-01-01T00:00:00Z
+Hiring: https://energylocals.com.au/about-us/careers/
+Preferred-Languages: en
