@@ -1,0 +1,6 @@
+Acknowledgments: https://www.civicsandcitizenship.edu.au/vulnerability-disclosure-program/
+Canonical: https://www.civicsandcitizenship.edu.au/.well-known/security.txt
+Contact: https://www.civicsandcitizenship.edu.au/vulnerability-disclosure-program/
+Expires: 2026-06-30T23:59:00Z
+Policy: https://www.civicsandcitizenship.edu.au/vulnerability-disclosure-program/
+Preferred-Languages: en
