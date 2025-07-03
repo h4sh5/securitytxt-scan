@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:csirt@wisetechglobal.com
+Expires: 2025-12-25T21:04:12z
+Preferred-Languages: en
+Hiring: https://www.wisetechglobal.com/careers/current-openings/
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTqk0ng3hWGEeC2ldr3M5BpihQl/gUCaFxkUQAKCRD3M5BpihQl
+/rLQAQDKAAa1OpNKZgNIv8GmxTL5EsQTH65mUFigUghhD+nUSQD/dRANc3wfepZN
+b4cwTJkkCxmS2inyagfpeDPTWKWNowA=
+=1qWX
+-----END PGP SIGNATURE-----
