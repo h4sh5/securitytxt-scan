@@ -1,0 +1,3 @@
+# The Nile Group, Security Contact.
+
+Contact: mailto:security@nilegroup.com.au
