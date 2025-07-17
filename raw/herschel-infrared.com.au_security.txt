@@ -1,0 +1,4 @@
+Contact: https://www.herschel-infrared.com.au/customer-service/
+Expires: 2027-12-31T23:59:00.000Z
+Preferred-Languages: en
+Canonical: https://www.herschel-infrared.com.au/security.txt
