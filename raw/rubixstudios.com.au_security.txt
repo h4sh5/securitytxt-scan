@@ -1,0 +1,7 @@
+Contact: mailto:security@rubixstudios.com.au
+Contact: https://rubixstudios.com.au/contact
+Encryption: https://rubixstudios.com.au/pgp-key.txt
+Acknowledgements: https://rubixstudios.com.au/legal/security-recognition
+Preferred-Languages: en
+Hiring: https://rubixstudios.com.au/careers
+Expires: 2030-12-31T23:59:00.000Z
