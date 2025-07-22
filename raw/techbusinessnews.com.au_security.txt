@@ -1,0 +1,4 @@
+Contact: mailto:editor@techbusinessnews.com.au
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://techbusinessnews.com.au/.well-known/security.txt
