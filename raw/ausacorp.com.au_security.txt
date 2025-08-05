@@ -1,0 +1,10 @@
+# security.txt – Ausacorp Responsible Disclosure Policy
+# https://www.rfc-editor.org/rfc/rfc9116
+
+Contact: mailto:admin@sec-ops.ausacorp.com
+Policy: https://www.ausacorp.com.au/responsible-disclosure-policy
+Encryption: Watch This Spot !
+Acknowledgments: https://www.ausacorp.com.au/disclosure#hall-of-fame
+Preferred-Languages: en
+Canonical: https://www.ausacorp.com.au/security.txt
+Expires: 2025-12-31T23:59:00.000Z
