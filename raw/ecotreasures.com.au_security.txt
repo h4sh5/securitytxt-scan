@@ -1,0 +1,7 @@
+# security.txt for ecotreasures.com.au
+Contact: mailto:info@ecotreasures.com.au
+Expires: 2026-08-14T00:00:00Z
+Policy: https://ecotreasures.com.au/security-policy.html
+Preferred-Languages: en
+Acknowledgements: https://ecotreasures.com.au/hall-of-fame.html
+Canonical: https://ecotreasures.com.au/.well-known/security.txt
