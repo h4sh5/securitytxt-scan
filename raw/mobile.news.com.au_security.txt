@@ -1,0 +1,7 @@
+Contact: mailto:cyber@newscorp.com
+Expires: 2030-12-31T12:55:00.000Z
+Preferred-Languages: en
+Policy: https://newscorp.com/vulnerability-disclosure-policy/
+Policy: https://preferences.news.com.au/security.html
+Policy: https://news.com.au/security.html
+
