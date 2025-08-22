@@ -1,0 +1,4 @@
+Contact: security-vdp@savers.com
+Preferred_languages: en,fr
+Expires: 2029-12-31T16:37:00.000Z
+Canonical: https://www.savers.com/security.txt
