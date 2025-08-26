@@ -1,0 +1,16 @@
+# Please leverage our Vulnerability Disclosure Program (managed by Bugcrowd) for reporting all security issues within our brands.
+
+# Send us an email ONLY for reporting CRITICAL incidents that are not covered by under VDP.
+Contact: mailto:cyber@newscorp.com
+
+# What should I do to report a security issue ?
+Policy: https://newscorp.com/vulnerability-disclosure-policy/
+Policy: https://preferences.news.com.au/security.html
+
+# Found a issue within News Corp Australia brands ?
+Policy: https://news.com.au/security.html
+Policy: https://preferences.news.com.au/security.html
+
+Expires: 2030-12-31T12:55:00.000Z
+
+Preferred-Languages: en
