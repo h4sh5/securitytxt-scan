@@ -1,0 +1,6 @@
+Contact: mailto:security@hiremovingboxes.com.au
+Contact: https://hiremovingboxes.com.au/contact
+Encryption: https://hiremovingboxes.com.au/pgp-key.txt
+Acknowledgments: https://hiremovingboxes.com.au/security-thanks
+Preferred-Languages: en
+Policy: https://hiremovingboxes.com.au/security-policy
