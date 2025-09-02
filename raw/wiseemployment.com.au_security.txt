@@ -1,0 +1,5 @@
+Contact: https://wiseemployment.com.au/contact-us/ 
+Expires: 2026-09-30T06:00:00.000Z 
+Preferred-Languages: en 
+Canonical: https://wiseemployment.com.au/.well-known/security.txt 
+Policy: https://wiseemployment.com.au/wp-content/uploads/2024/11/Vulnerability-Disclosure-Policy-compressed.pdf
