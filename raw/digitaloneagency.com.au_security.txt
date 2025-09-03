@@ -1,0 +1,8 @@
+# security.txt for Digital One Agency
+Contact: mailto:security@digitaloneagency.com.au
+Preferred-Languages: en
+Policy: https://www.digitaloneagency.com.au/security-policy
+Acknowledgments: https://www.digitaloneagency.com.au/hall-of-fame
+Hiring: https://www.digitaloneagency.com.au/careers
+Encryption: https://www.digitaloneagency.com.au/pgp-key.txt
+Expires: 2026-09-01T00:00:00z
