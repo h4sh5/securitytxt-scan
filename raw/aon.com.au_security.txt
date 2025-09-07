@@ -1,0 +1,5 @@
+Contact: https://hackerone.com/aon/reports/new?type=team&report_type=vulnerability
+Contact: mailto:vulnerability@aon.com
+Preferred-Languages: en
+Acknowledgments: https://hackerone.com/aon/thanks
+Policy: https://hackerone.com/aon?view_policy=true
