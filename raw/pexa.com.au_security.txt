@@ -1,0 +1,6 @@
+# If you would like to report a security issue contact us via:
+Contact: mailto:security@pexa.com.au
+Expires: 2026-09-03T23:59:59+10:00
+Preferred-Language: en
+Policy: https://www.pexa.com.au/security/ 
+Canonical: https://pexa.com.au/.well-known/security.txt
