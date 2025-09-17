@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:psirt@legrand.com
+Expires: 2029-11-04T23:00:00.000Z
+Encryption: https://www.legrand.com/.well-known/psirt-pgpkey.txt
+Acknowledgments: https://www.legrand.com/cybersecurity/en/wall-of-thanks
+Preferred-Languages: en
+Canonical: https://www.legrand.com/.well-known/security.txt
+Policy: https://www.legrand.com/cybersecurity/en/cvd-policy
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE4WJZwdAy9xK2QdLdkecHoeCMEiMFAmcsaW0ACgkQkecHoeCM
+EiN/wxAA20C+CizyeYa8TExC3v9tZEvattS6uLtnpcdXCA/h4A+RGK8CyahfNYBY
+rLoq0HhNAYPmE3DdREAF/tprDV9ApR7qtFUI26ARt1iDYSr06gedvRqCaMQ6OTnf
+FDxhBU85p43vnzxpCeS8IgH2b3gJxQFu6agntypAOZkPYW5hpHh8YlzqnCx4IAZn
+j8+3IuTK6TdiA8wPHOZ/sD+H3IXM1JmwlhOYvB3WMdOZqz/woOqGYlrOdcnJiSuG
+s2oshLqCBhbna1rNsGi5NExgN59BxoZIDuqSVv3IXqNdHZ4VcC9aUGDzeNka4yxg
+BCPmKZN0RVQBJofoxsz+HvPQJLOuALNj2f+WiTrBn7MC7K4UhHVDzLaL5XQROAnX
+r/sAXU+1rWIO0RNvXyaew/id9mv+7apUl49dGXTtW9hAW+3q5b5QfSerS1I3pB84
+Q8e1g/5gskI+eRBbWf+i7GMKDSljLYwE+ddtqrhLQx6EdmpMDjMH4Wcy545ePEb1
+6uZGZjbPIBGIEY3pMH850WYPCRbPKS6CbLaS6DB52O5dmwKvWLNAwamilTaNLQIK
+HmzUkgFjY6z4vkiSgeUT5x2nwbMdVpJ5VZqQtsCQ2tKRi6Q9i5Tpq4t+ASQc419h
+8pxxNishhI4+HHLvkqP36BcVEb6yMx8h0SsodnhlNFJ3JkGVYiU=
+=YEih
+-----END PGP SIGNATURE-----
