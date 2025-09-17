@@ -1,0 +1,4 @@
+Contact: mailto:security@example.com
+Policy: https://example.com/security-policy
+Preferred-Languages: en
+Expires: 2026-12-31T23:59:00Z
