@@ -1,0 +1,5 @@
+# If you find a security vulnerability on our website or in any of our online systems, contact us in the first instance.
+# The existence of this file does NOT give you permission to attack or conduct an unauthorised scan against our website or online systems.
+
+# Our security contact address: 
+Contact: mailto:records@workcover.wa.gov.au
