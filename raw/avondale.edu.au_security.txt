@@ -1,0 +1,5 @@
+Contact: mailto:cyber@avondale.edu.au
+Expires: 2035-01-02T13:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.avondale.edu.au/.well-known/security.txt
+Hiring: https://www.avondale.edu.au/jobs/
