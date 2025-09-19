@@ -1,0 +1,4 @@
+Contact: mailto:security@tistraining.com
+Expires: 2026-06-30T23:59:00Z
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/B0607AFA296EEAA92FF12F0ED967FC8594583865
+Preferred-Languages: en
