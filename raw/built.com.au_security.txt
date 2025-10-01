@@ -1,0 +1,4 @@
+Contact: mailto:security@built.com.au
+Expires: 2027-09-30T12:00:00Z
+Canonical: https://built.com.au/.well-known/security.txt
+Preferred-Languages: en
