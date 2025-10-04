@@ -1,0 +1,8 @@
+Contact: https://www.alaskaair.com/content/about-us/site-info/report-site-security-issues
+Contact: mailto:responsibledisclosure[AT]alaskaair[DOT]com
+Expires: 2025-12-31T11:59:00.000Z
+Preferred-Languages: en
+Canonical: https://www.alaskaair.com/security.txt
+Policy: https://www.alaskaair.com/content/about-us/site-info/report-site-security-issues
+Hiring: https://careers.alaskaair.com/jobs/?q=cybersecurity
+Notes: Alaska Airlines uses BugCrowd for responsible disclosure reporting of website cybersecurity concerns.
