@@ -1,0 +1,4 @@
+# Dotdash uses a private HackerOne program for responsible disclosure.  If you wish to report an issue, please use the URL below:
+Contact: https://hackerone.com/b6bf1613-5ba4-4ce3-b371-ac47e4507b5d/embedded_submissions/new
+Policy: https://hackerone.com/dotdashmeredith
+Preferred-Languages: en
