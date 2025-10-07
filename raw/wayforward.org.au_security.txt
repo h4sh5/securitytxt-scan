@@ -1,0 +1,6 @@
+# Security contact information for wayforward.org.au
+# Conforms to RFC 9116
+
+Contact: mailto:tech@wayforward.org.au
+Preferred-Languages: en
+Expires: 2030-01-01T00:00:00.000Z
