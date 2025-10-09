@@ -1,0 +1,5 @@
+Canonical: https://golf.com.au/.well-known/security.txt
+Contact: https://help.golf.com.au
+Contact: tel:+61396265050
+Expires: 2028-01-01T12:00:00Z
+Preferred-Languages: en
