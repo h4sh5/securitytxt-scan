@@ -1,0 +1,7 @@
+# Reporting security vulnerabilities to Village Roadshow
+
+Policy: https://bugcrowd.com/engagements/village-roadshow-vdp-pro
+
+Contact: https://bugcrowd.com/engagements/village-roadshow-vdp-pro/submissions/new
+
+Preferred-Languages: en
