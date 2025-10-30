@@ -1,0 +1,4 @@
+Contact : cert@michelin.com
+Encryption: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3e5962ef24eea0d0 
+Acknowledgement : https://cert.michelin.com/halloffame
+Hiring: https://recrutement.michelin.fr/

@@ -1,0 +1,537 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    
+
+<!---->
+<!--    -->
+<!--    -->
+<!--    -->
+<!---->
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="shortcut icon" type="image/x-icon" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/adv3kxg.css">
+
+	<!-- CSS here -->
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/animate.min.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/odometer.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/slick.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/spacing.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/flaticon.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/style.css">
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/css/responsive.css">
+    
+    
+        <title>404 Error Page | SOCO Realty</title>
+        <meta name="description" content="">
+        <meta property="og:title" content="404 Error Page">
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ImEwY2VjMDYyLTQyMDYtNGQ0OC1hY2RlLTljMDc0NzUwMTc2NyIsInB1ciI6ImJsb2JfaWQifX0=--c739bc806a2a2db523dc429cc520cf6b5f9a6737/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/2-4%20(1).png">
+        <meta property="og:image:width" content="600"/>
+        <meta property="og:image:height" content="315"/>
+        <meta property="og:url" content="https://www.socorealty.com.au/.well-known/security">
+        <meta property="og:description" content=""/>
+        <meta name="twitter:card" content="summary_large_image">
+    
+    
+</head>
+    <body>
+
+        <!-- Preloader-start -->
+        <div id="preloader">
+            <div class="ta-preloader-block">
+                <div class="logo-wrapper">
+                    <img src="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ImEwY2VjMDYyLTQyMDYtNGQ0OC1hY2RlLTljMDc0NzUwMTc2NyIsInB1ciI6ImJsb2JfaWQifX0=--c739bc806a2a2db523dc429cc520cf6b5f9a6737/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/2-4%20(1).png" alt="logo">
+                </div>
+            </div>
+        </div>
+        <!-- Preloader-start-end -->
+
+		<!-- Scroll-top -->
+        <button class="scroll-top scroll-to-target" data-target="html">
+            <i class="fas fa-angle-up"></i>
+        </button>
+        <!-- Scroll-top-end-->
+
+        
+
+<style>
+    .sidebar-menu .navbar-wrap ul .sub-menu.has-active {
+        display: block;
+    }
+    
+</style>
+
+<!-- header-area -->
+<header>
+    <div id="sticky-header" class="menu-area-two transparent-header d-none">
+        <div class="container custom-container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="menu-wrap">
+                        <nav class="menu-nav">
+                            <div class="logo-two">
+                                <a href="/"><img src="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ImEwY2VjMDYyLTQyMDYtNGQ0OC1hY2RlLTljMDc0NzUwMTc2NyIsInB1ciI6ImJsb2JfaWQifX0=--c739bc806a2a2db523dc429cc520cf6b5f9a6737/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/2-4%20(1).png" alt="SOCO Realty Logo"></a>
+                            </div>
+                            <div class="header-action">
+                                <ul class="list-wrap">
+                                    <li class="header-contact">
+                                        <ul class="list-wrap">
+                                            <li><a href="mailto:info@socorealty.com.au">info@socorealty.com.au</a></li>
+                                            <li><a href="tel:08 6186 4131">08 6186 4131</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="icon sideMenu-toggle">
+                                        <a href="#">
+                                            <span></span>
+                                            <span></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- header-area-end -->
+
+<!--sidebar-menu -->
+<div class="sidebar-menu">
+    <div class="sidebar-logo">
+        <a href="/"><img src="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ImEwY2VjMDYyLTQyMDYtNGQ0OC1hY2RlLTljMDc0NzUwMTc2NyIsInB1ciI6ImJsb2JfaWQifX0=--c739bc806a2a2db523dc429cc520cf6b5f9a6737/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/2-4%20(1).png" alt="SOCO Realty Logo"></a>
+    </div>
+    <div class="navbar-wrap main-menu tgCanvas-menu">
+        <ul class="navigation">
+            
+                
+                    <li class=""><a  href="/buy">Buying</a>
+                        
+                    </li>
+                
+            
+                
+                    <li class=""><a  href="/sell">Selling</a>
+                        
+                    </li>
+                
+            
+                
+                    <li class="menu-item-has-children"><a  href="#">Owners</a>
+                        
+                        <ul class="sub-menu">
+                            
+                                <li ><a href="/manage" >SOCO Difference</a></li>
+                            
+                                <li ><a href="/rental-appraisal" >Request An Appraisal</a></li>
+                            
+                                <li ><a href="https://app.inspectrealestate.com.au/IRE-BDM/ExternalPages/RegisterLeadNew.aspx?AgencyName=SOCORealty&Source=Website%20Enquiry&BDMID=313152&NoProperty=true&InitialStatusID=33570&PageTitle=Thanks%20for%20your%20interest%20in%20our%20fee%20schedule..." target="_blank">Download Fee Package</a></li>
+                            
+                                <li ><a href="https://bit.ly/4nNjo1u" target="_blank">Owner Portal</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    <li class="menu-item-has-children"><a  href="#">Tenants</a>
+                        
+                        <ul class="sub-menu">
+                            
+                                <li ><a href="/rent" >Browse Rentals</a></li>
+                            
+                                <li ><a href="/commercial-leases" >Commercial Leases</a></li>
+                            
+                                <li ><a href="/maintenance-request" >Maintenance Requests</a></li>
+                            
+                                <li ><a href="https://app.2apply.com.au/Agency/SOCORealty" target="_blank">Apply For A Property</a></li>
+                            
+                                <li ><a href="https://id.propertyme.com/" target="_blank">Tenant Portal</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    <li class=""><a target="_blank" href="https://socoshortstays.com/">Short Term Stay</a>
+                        
+                    </li>
+                
+            
+                
+                    <li class=""><a  href="/about">About Us</a>
+                        
+                    </li>
+                
+            
+                
+                    <li class=""><a  href="/free-resources">Free Resources</a>
+                        
+                    </li>
+                
+            
+                
+                    <li class=""><a  href="/contact">Contact</a>
+                        
+                    </li>
+                
+            
+        </ul>
+    </div>
+    <div class="sidebar-contact">
+        <a href="https://id.propertyme.com/" target="_blank" class="btn btn-menu mb-2">Owner Portal</a>
+        <a href="https://id.propertyme.com/" target="_blank" class="btn btn-menu mb-2">Tenant Portal</a>
+        <ul class="list-wrap">
+            <li><a href="mailto:info@socorealty.com.au">info@socorealty.com.au</a></li>
+            <li><a href="tel:08 6186 4131">08 6186 4131</a></li>
+        </ul>
+        <div class="sidebar-social">
+            <ul class="list-wrap">
+                <li><a target="_blank" href="https://www.facebook.com/socorealty"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a target="_blank" href="https://www.instagram.com/southperthlocal"><i class="fab fa-instagram"></i></a></li>
+                
+                <li><a target="_blank" href="https://au.linkedin.com/company/soco-realty"><i class="fab fa-linkedin-in"></i></a></li>
+                <li><a target="_blank" href="https://www.youtube.com/@socorealtyperth"><i class="fab fa-youtube"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="sidebar-backdrop"></div>
+<!-- sidebar-menu-end -->
+
+<script>
+    document.querySelectorAll("ul.sub-menu").forEach((ul) => {
+      if (ul.querySelector("li.active")) {
+        ul.classList.add("has-active");
+      }
+    });
+</script>
+        
+        <div class="main-content">
+            <!-- main-area -->
+            <main>
+    
+                <!-- error-area -->
+                <section class="error-area">
+                    <!--<div class="error-shape"></div>-->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-10">
+                                <div class="error-content">
+                                    <h2 class="title">The page you are looking does not exist. Click below button to go back to homepage.</h2>
+                                    <a href="/" class="btn">
+                                        <div class="btn_m">
+                                            <div class="btn_c">
+                                                <div class="btn_t1">Back to home</div>
+                                                <div class="btn_t2">Back to home</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- error-area-end -->
+    
+            </main>
+            <!-- main-area-end -->
+            <!-- footer-area -->
+<footer>
+    <div class="footer-area footer-bg">
+        <div class="container">
+            <div class="footer-top">
+                <div class="row">
+                    <div class="col-xl-3 col-md-4 col-sm-5">
+                        <div class="footer-widget">
+                            <h2 class="fw-title">Contact</h2>
+                            <div class="footer-contact" style="margin-top:35px;">
+                                <p>57 Angelo Street, <br> South Perth, WA 6151</p>
+                                <p>22 Ormsby Terrace, <br>Mandurah, WA 6210</p>
+                                <ul class="list-wrap">
+                                    <li><a href="mailto:info@socorealty.com.au">info@socorealty.com.au</a></li>
+                                    <li><a href="tel:08 6186 4131">08 6186 4131</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="col-xl-3 col-md-4 col-sm-7">-->
+                    <!--    <div class="footer-widget">-->
+                    <!--        <h2 class="fw-title">Contact</h2>-->
+                    <!--        <div class="footer-contact">-->
+                    <!--            <p>57 Angelo Street, <br> South Perth, WA 6151</p>-->
+                    <!--            <ul class="list-wrap">-->
+                    <!--                <li><a href="mailto:info@socorealty.com.au">info@socorealty.com.au</a></li>-->
+                    <!--                <li><a href="tel:08 6186 4131">08 6186 4131</a></li>-->
+                    <!--            </ul>-->
+                    <!--        </div>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+                    
+                    
+                    
+                        
+                            <div class="col-xl-3 col-md-4 col-sm-5">
+                                <div class="footer-widget">
+                                    <h2 class="fw-title">Sell</h2>
+                                    <div class="footer-link">
+                                        
+                                        <ul class="list-wrap">
+                                            
+                                                <li><a href="/sell" >Selling With SOCO</a></li>
+                                            
+                                                <li><a href="/recently-sold" >Recently Sold</a></li>
+                                            
+                                                <li><a href="/agents" >Meet The Team</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                            <div class="col-xl-3 col-md-4 col-sm-5">
+                                <div class="footer-widget">
+                                    <h2 class="fw-title">Owners</h2>
+                                    <div class="footer-link">
+                                        
+                                        <ul class="list-wrap">
+                                            
+                                                <li><a href="/manage" >SOCO Difference</a></li>
+                                            
+                                                <li><a href="/rental-appraisal" >Request An Appraisal</a></li>
+                                            
+                                                <li><a href="https://id.propertyme.com/" target="_blank">Owner Portal</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                            <div class="col-xl-3 col-md-4 col-sm-5">
+                                <div class="footer-widget">
+                                    <h2 class="fw-title">Tenants</h2>
+                                    <div class="footer-link">
+                                        
+                                        <ul class="list-wrap">
+                                            
+                                                <li><a href="/rent" >Browse Rentals</a></li>
+                                            
+                                                <li><a href="/maintenance-request" >Maintenance Requests</a></li>
+                                            
+                                                <li><a href="https://app.2apply.com.au/Agency/SOCORealty" target="_blank">Apply For A Rental</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="copyright-text text-center">
+                            <p>Copyright © <span>SOCO Realty</span> 2025. All Rights Reserved. Powered by <a target="_blank" href="https://www.phoenixsoftware.io/">Phoenix Software</a>. <br /> <a href="/privacy-policy">Privacy Policy</a> | <a href="/sitemap.xml">Sitemap</a></p>
+                        </div>
+                        <div class="footer-social">
+                            <ul class="list-wrap">
+                                <li><a target="_blank" href="https://www.facebook.com/socorealty"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/southperthlocal"><i class="fab fa-instagram"></i></a></li>
+                                
+                                <li><a target="_blank" href="https://au.linkedin.com/company/soco-realty"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a target="_blank" href="https://www.youtube.com/@socorealtyperth"><i class="fab fa-youtube"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer-area-end -->
+
+<style>
+    
+    .cog-form__container {
+        background: none !important;    
+    }
+    
+    .el-input__inner{
+        font-family: 'Open Sans', sans-serif !important;
+        border: 1.5px solid var(--tg-secondary-color) !important;
+        background-color: var(--tg-white) !important;
+        font-size: 15px !important;
+        line-height: 28px !important;
+        border-radius: 8px !important;
+        width: 100% !important;
+        color: var(--tg-primary-color) !important;
+        font-weight: 400 !important;
+        padding: 13px 24px !important;
+        display: block !important;
+        height: 56px !important;
+    }
+    
+    .el-input__inner:focus {
+        border: 1px solid transparent !important;
+        outline: 1px solid #181A20 !important;
+        color: var(--tg-primary-color) !important;
+    }
+    
+    /*.el-input__inner::placeholder {*/
+    /*    color: var(--tg-secondary-color) !important;*/
+    /*}*/
+    
+    .el-textarea__inner {
+        font-family: 'Open Sans', sans-serif !important;
+        border: 1.5px solid var(--tg-secondary-color) !important;
+        color: var(--tg-primary-color) !important;
+        width: 100% !important;
+        font-size: 15px !important;
+        border-radius: 8px !important;
+        padding: 13px 24px !important;
+        height: auto !important;
+        min-height: 240px !important;
+        max-height: 240px !important;
+        font-weight: 400 !important;
+        /*line-height: 28px !important;*/
+        /*margin-bottom: 0 !important;*/
+        /*vertical-align: top !important;*/
+    }
+    
+    .el-textarea__inner:focus {
+        border: 1px solid transparent !important;
+        outline: 1px solid #181A20 !important;
+        color: #181A20 !important;
+    }
+    
+    .cog-label {
+        margin-bottom: 0px !important;
+        font-weight: 400 !important;
+        font-family: 'Open Sans', sans-serif !important;
+        font-size: 14px !important;
+        color: var(--tg-primary-color) !important;
+    }
+    
+    /*.cog-heading{*/
+    /*    font-size: 30px !important;*/
+    /*    font-family: "Josefin Sans", sans-serif !important;*/
+    /*    font-weight: 600 !important;*/
+    /*    color: #181A20 !important;*/
+    /*    line-height: 1.5 !important;*/
+    /*}*/
+    
+    .el-button {
+        display: flex !important;
+        gap: 10px !important;
+        justify-content: center !important;
+        align-items: center !important;
+        margin-top: 10px !important;
+        padding: 16px 40px !important;
+        background: var(--tg-primary-color) !important;
+        color: var(--tg-white) !important;
+        border: 0 !important;
+        border-color: transparent !important;
+        border-radius: 8px !important;
+        font-weight: 500 !important;
+        font-family: 'Open Sans', sans-serif !important;
+        font-size: 14px !important;
+        letter-spacing: 0.04em !important;
+        text-transform: uppercase !important;
+        line-height: 18px !important;
+        cursor: pointer !important;
+        width: 100% !important;
+        transition: .3s ease-in-out !important;
+    }
+    
+    .el-button:hover {
+        background-color: var(--tg-secondary-color) !important;
+        border-color: transparent !important;
+    }
+    
+    .cog-button__text {
+        padding: 0px !important;
+        
+    }
+</style>
+        </div>
+        
+        <!-- JS here -->
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/vendor/jquery-3.6.0.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/bootstrap.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/jquery.odometer.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/jquery.parallaxScroll.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/simpleParallax.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/slick-animation.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/swiper-bundle.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/jarallax.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/jarallax-video.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/jquery.appear.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/jquery.easing.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/slick.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/ajax-form.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/wow.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/socorealty/assets/js/main.js"></script>
+    </body>
+</html>
