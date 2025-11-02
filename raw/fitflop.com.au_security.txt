@@ -1,0 +1,4 @@
+Contact: mailto:security-txt@nameweb.biz
+Expires: 2026-10-02T11:00:00.000Z
+Preferred-Languages: en, fr, nl
+
