@@ -1,0 +1,6 @@
+Acknowledgments: Thank you for staying vigilant Sage Security Team
+Canonical: https://sageone.com.au/.well-known/security.txt
+Contact: mailto:security@sage.com
+Contact: mailto:soc@sage.com
+Expires: 2040-12-02T00:00:00Z
+Policy: https://www.sage.com/en-gb/trust-security/
