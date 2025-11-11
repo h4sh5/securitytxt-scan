@@ -1,0 +1,4 @@
+Contact: mailto:mwilson@newmarkcapital.com.au
+Expires: 2036-12-29T23:10:00.000Z
+Encryption: https://newmarkcapital.com.au/contact/
+Policy: https://newmarkcapital.com.au/wp-content/uploads/2025/07/Newmark-Privacy-Policy_web.pdf
