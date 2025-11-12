@@ -1,0 +1,18 @@
+# Security.txt file for Creative Ground
+# Generated on 2025-11-12 13:33:06
+
+Contact: support@creativeground.com.au
+
+Disclosure: coordinated
+Policy: We request that security researchers coordinate with us before public disclosure.
+
+Acknowledgments: We appreciate the security research community and their contributions to improving our security.
+
+Preferred-Languages: en
+
+Canonical: https://creativeground.com.au/security.txt%20
+
+Expires: 2028-12-12
+
+# This security.txt file follows RFC 9116
+# For more information, visit: https://securitytxt.org/
