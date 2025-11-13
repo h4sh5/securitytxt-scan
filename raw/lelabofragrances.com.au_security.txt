@@ -1,0 +1,5 @@
+Acknowledgments: https://hackerone.com/estee-lauder/thanks
+Contact: https://hackerone.com/estee-lauder/reports/new
+Expires: 2026-07-01T12:00:00Z
+Policy: https://hackerone.com/estee-lauder
+Preferred-Languages: en
