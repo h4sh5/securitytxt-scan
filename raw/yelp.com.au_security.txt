@@ -1,0 +1,48 @@
+#
+# Yelp uses HackerOne for responsible disclosure.
+#
+
+Contact: https://hackerone.com/yelp
+
+Policy: https://hackerone.com/yelp?view_policy=true
+
+Acknowledgements: https://hackerone.com/yelp/thanks
+
+Hiring: https://www.yelp.careers/us/en/c/engineering-jobs
+
+
+#                                                        .:+:..
+#                                                      :+syo+h+
+#                                                    .:+syyyy+/:
+#                                                  .:+syyyyyyo+h.
+#                                                .:+syyyyyyyys/s/
+#                                .---.        ./+syyyyyyyyyyo/o/
+#                              -////:-.`.-:::-/syyyyyyyyyyyyo+s:
+#                            .---:////:-:///::oyyyyyyyyyyyyyy+/+-
+#                          `-://////:-:///::oyyyyyyyyyyyyyyyo+ho
+#                           -:////:-:///::+yyyyyyyyyyyyyyyys/o+:
+#                            .-:/::///::+syyyyyyyyyyyyyyyyy+oh+
+#                              --://:-+syyoooyyyyyyyyyyyyyoos/
+#                             `-///-/syyy::+:+yyyyyyyyyyyo++/
+#                    ..--..`` -:/-/syyyyy+oyyyyyyyyyyyyyo+ho
+#               .:/+oossssoo+/--:oyyyyyyyyyyyyyyyyyyyyyo+-.:/./y+:ss/-
+#            `-+osyyyyyyyyys++soyyyyyyyyyyyyyyyyyyyyys++yy/os+++oo+/-`
+#           ./+sosyssyyyys++syyyyyyyyyyyyyyyyyyyyyyyy+++oosssyyyo/-
+#            `-/:///osys++syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyo/-
+#                  -//++syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyo+-
+#                  `//oyyyyyyyyyyyyyyyyyyyyyyyyyhhddddmmmms+-`
+#                 `:+syyyyyyyyyyyyyyyyyyyyhdmNMMMMMMMMMMh+-`
+#                `/oyyyyyyyyyyyyyyyyyyhmNMMMMMMMMMMMMMh+-`
+#               `/oyyyyyyyyyyyyyyyyhmMMMMMMMMMMMMMMMh+-`
+#             --/oyyyyyyyyyyyyyyyhNMMMMMMMMMMMMMMMh+-`
+#             ossyssyyyyyyyyyyyymMMMMMMMMMMMMMMMh+-`
+#             `odyhdmdhysssyyyyNMMMMMMMMMMMMMMdooo`
+#               .sddyhmMMNNmddhhhhhhhddddmmmmyshds.
+#                  /ymdhhdmNMMMMMMMMMNNNdysssymMNs-
+#                     :ohmmhhhdmNMMNmdhhh/+o+:o/-
+#                         .:+ssssoosyhdhy-.
+#
+#                          This is Chompy.
+
+
+Expires: 2026-10-01T00:00:00Z
