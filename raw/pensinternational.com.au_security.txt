@@ -1,0 +1,4 @@
+Canonical: https://pensinternational.com.au/.well-known/security.txt
+Contact: mailto:programmer1@ajparkes.com.au
+Contact: mailto:programmer2@ajparkes.com.au
+Expires: 2026-12-31T23:59:00Z
