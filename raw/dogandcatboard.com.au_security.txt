@@ -1,0 +1,15 @@
+# security.txt file for https://dogandcatboard.com.au/ - more info: https://securitytxt.org/
+# (required) Contact email address for security issues
+Contact: user@example.com
+
+# (required) Expiration date for the security information herein
+Expiration: 2026-11-23T15:05:22+10:30
+
+# (optional) OpenPGP key:
+Encryption: https://dogandcatboard.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://dogandcatboard.com.au/security-policy
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://dogandcatboard.com.au/hall-of-fame
