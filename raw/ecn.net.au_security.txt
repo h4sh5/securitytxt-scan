@@ -1,0 +1,5 @@
+Contact: mailto:security@ecn.net.au
+Policy: https://ecn.net.au/security
+Preferred-Languages: en
+Canonical: https://ecn.net.au/.well-known/security.txt
+Expires: 2029-01-01T00:00:00z
