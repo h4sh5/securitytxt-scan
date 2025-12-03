@@ -1,0 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# This website is hosted by LJPc hosting. 
+# Please contact LJPc hosting for any security related issues.
+
+Contact: mailto:security@ljpc.nl
+Expires: 2025-04-02T12:05:37.249Z
+Encryption: https://resources.ljpc.network/pgp.txt
+Preferred-Languages: nl, en
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARMIAB0WIQSx2snWOLJS14SlRN90jahn+qDBhwUCZgv06QAKCRB0jahn+qDB
+h7SQAP4qj2dITTAnVRKpYOfYp1SN3oYu+VUV1X9nXvdRwT8edQEAzbzqkTaOLi+H
+enT5SwwStjC5sQLnrukdH6h3mxqrH+o=
+=nPLT
+-----END PGP SIGNATURE-----
