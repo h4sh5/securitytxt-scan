@@ -1,0 +1,11 @@
+# For security issues related to Fred IT Products, please see our security policy
+Policy: https://www.fred.com.au/vulnerability-disclosure-policy/
+
+# To contact Fred IT Group regarding a vulnerability
+Contact:infosec@fred.com.au
+Preferred-Languages: en
+
+# We support PGP encryption, contact us for a public key
+
+# This file expires every 365 days
+Expires: 2026-12-14T13:00:00.000Z
