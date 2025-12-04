@@ -1,0 +1,25 @@
+Contact: security@gatheredhere.com
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://gatheredhere.com/.well-known/security.txt
+Policy: https://gatheredhere.com/security-policy
+
+# Security Contact Information
+# 
+# If you discover a security vulnerability in this application,
+# please report it to our security team using the contact information above.
+# 
+# We appreciate responsible disclosure and will work with you to
+# address any security issues promptly.
+#
+# Please include the following information in your report:
+# - Description of the vulnerability
+# - Steps to reproduce the issue
+# - Potential impact
+# - Any suggested remediation
+#
+# We commit to:
+# - Acknowledge receipt of your report within 48 hours
+# - Provide regular updates on our progress
+# - Credit you for the discovery (if desired)
+# - Not pursue legal action for good faith security research
