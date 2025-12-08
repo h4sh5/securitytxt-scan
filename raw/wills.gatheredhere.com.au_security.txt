@@ -1,0 +1,18 @@
+Contact: security@gatheredhere.com.au
+Preferred-Languages: en
+Canonical: https://wills.gatheredhere.com.au/.well-known/security.txt
+
+# Security Contact Information
+# 
+# If you discover a security vulnerability in this application,
+# please report it to our security team using the contact information above.
+# 
+# We appreciate responsible disclosure and will work with you to
+# address any security issues promptly.
+#
+# Please include the following information in your report:
+# - Description of the vulnerability
+# - Steps to reproduce the issue
+# - Potential impact
+# - Any suggested remediation
+
