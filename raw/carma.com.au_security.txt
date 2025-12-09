@@ -1,0 +1,26 @@
+# This file is used to inform security researchers how to report security vulnerabilities
+# concerning Carma's systems and services.
+# Carma is committed to ensuring the best security for its customers.
+
+Contact: mailto:technology@carma.com.au
+# People identifying vulnerabilities (anything outside of DNS/DMARC records which are intentionally set the way they are) 
+# are invited to report them.
+# We have a reward program in place for issues based on a likelihood/impact matrix.
+# Details of the program will be communicated to the researchers before full disclosure of the issue.
+# The Carma technology team will communicate thoroughly and fairly the rationales pertaining to scoring the issue and sizing the reward accordingly.
+
+# Security material should be encrypted using the following RSA key:
+#-----BEGIN PUBLIC KEY-----
+#MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtwmcoDHd95jdDUA94gKw
+#UPSLRg4fVEgJvLrfCQiZd2Ox2QxxdiikIK0So+ZecfZbN87wuYRz/1bNPgL5pHqH
+#ZLF/YX129nXI043o7ujtC0MDBseyO/m0xbajp956DPdEytUv0wKTK3XvWsJNk1f/
+#eIyYS4cv53NQz+47HB8w70UJ7Bv2qaJFzkI7dpEU/Kg/F/NOIwwitF6xTLIsqY9T
+#PY4GeU70rslOspq7a7SYfotvw5imhJ6YZbIxoPqExf3A7SrcoohRfQjhj4czXZVy
+#+1+dLJrQqExhyA/+spjSkmP2vHN+Q3XMauIRfwc3Op+rP7Lrnvs1aksDl6Dl5T9p
+#dwIDAQAB
+#-----END PUBLIC KEY-----
+
+Expires: 2026-12-31T09:00:00Z
+# The date and time after which this file should be considered stale. This should be updated regularly.
+Canonical: https://carma.com.au/.well-known/security.txt
+Preferred-Languages: en
