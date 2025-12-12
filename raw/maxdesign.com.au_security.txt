@@ -1,0 +1,3 @@
+Contact: mailto:russ@maxdesign.com.au
+Policy: https://www.maxdesign.com.au/.well-known/policy.txt
+Expires: 2026-01-01T00:00:00Z
