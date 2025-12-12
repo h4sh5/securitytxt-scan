@@ -1,0 +1,5 @@
+Contact: https://www.aussiebroadband.com.au/legal/responsible-disclosure-policy/#contact
+Preferred-Languages: en
+Expires: 2030-07-01T00:00:00.000z
+Policy: https://www.aussiebroadband.com.au/legal/responsible-disclosure-policy/
+Canonical: https://www.aussiebroadband.com.au/security.txt
