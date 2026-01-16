@@ -1,0 +1,5 @@
+Contact: mailto:csirt@fourthwall.com
+Expires: 2025-01-01T09:00:00.000Z
+Preferred-Languages: en
+Canonical: https://fourthwall.com/.well-known/security.txt
+Policy: https://fourthwall.com/responsible-disclosure-policy
