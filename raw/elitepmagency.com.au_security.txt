@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<!--<![endif]-->
+
+
+
+
+
+
+
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    
+
+    <meta name="author" content="Phoenix Software">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/animate.min.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/animation.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/nouislider.min.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/nice-select.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/bootstrap-select.min.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/swiper-bundle.min.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/magnific-popup.min.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/mmenu.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/css/style.css">
+
+    <!-- Font -->
+    <link rel="stylesheet" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/font/fonts.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap" rel="stylesheet">
+
+    <!-- Icon -->
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/icon/flaticon_just-home.css">
+    <link rel="stylesheet" type="text/css" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/icon/icomoon/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Favicon and Touch Icons  -->
+    <link rel="shortcut icon" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/images/favicon.png">
+    
+    
+    
+        <title>404 Error Page | Elite Property Management Agency</title>
+        <meta name="description" content="">
+        <meta property="og:title" content="404 Error Page">
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6IjBhZTc3ZmExLTcyYjEtNDc3Ni04ZjhkLTkwYjcwMGU4NzVkYyIsInB1ciI6ImJsb2JfaWQifX0=--d626481a56b75717509bd5171f2eef760940c5b6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/ELITE_logo_long_black-removebg-preview.png">
+        <meta property="og:image:width" content="600"/>
+        <meta property="og:image:height" content="315"/>
+        <meta property="og:url" content="https://www.elitepmagency.com.au/.well-known/security">
+        <meta property="og:description" content=""/>
+        <meta name="twitter:card" content="summary_large_image">
+    
+
+</head>
+
+<body class="body">
+
+    <!-- preload -->
+    <div class="preload preload-container">
+        <div class="middle"></div>
+    </div>
+    <!-- /preload -->
+
+    <!-- #wrapper -->
+    <div id="wrapper">
+        <!-- #page -->
+        <div id="page" class="">
+            
+            
+
+
+<style>
+    .modal_menu {
+        min-width: 100% !important;
+        margin: 0 auto;
+    }
+    
+    .modal_menu_box {
+        border-radius: 0px !important;
+        min-width: 100%;
+        min-height: 100vh;
+        transform: none !important;
+        flex-direction: column !important;
+    }
+    
+    .side-menu-banner, .side-menu-nav-container {
+        padding: 40px 80px;
+    }
+    
+    .grid-nav-3-block {
+        display:grid;
+        grid-template-columns: repeat(4,minmax(0,1fr));
+        gap: 4.5rem;
+        line-height: 30px;
+    }
+    
+    .side-menu-heading {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    
+    .side-menu-item {
+        font-size: 16px;
+    }
+</style>
+
+<header id="header_main" class="header header-fixed type-home3 style-no-bg is-small">
+    <div class="header-inner cl-container"> 
+        <div class="header-inner-wrap col-12">
+            <nav class="main-menu">
+                <ul class="navigation">
+                    
+    					
+                            <li class="has-children Liquid error: internal"><a  href="javascript:void(0);">Rent</a>
+                                
+                                    <ul>
+                                        
+                                        <li ><a  href="/rent">Browse Rentals</a></li>
+                                        
+                                        <li ><a  href="/rental-inspections">Rental Inspections</a></li>
+                                        
+                                        <li ><a  href="/rental-alerts">Rental Alerts</a></li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                        
+                    
+    					
+                    
+    					
+                    
+    					
+                    
+    					
+                            <li class="has-children Liquid error: internal"><a  href="javascript:void(0);">Tenants</a>
+                                
+                                    <ul>
+                                        
+                                        <li ><a  href="/rental-application-form">Rental Application Form</a></li>
+                                        
+                                        <li ><a  href="/maintenance-request">Maintenance Request</a></li>
+                                        
+                                        <li ><a  href="/notice-to-vacate">Notice To Vacate</a></li>
+                                        
+                                        <li ><a target="_blank" href="https://my.propertyme.com/">Tenant Login</a></li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                        
+                    
+    					
+                    
+    					
+                    
+    					
+                    
+    					
+                    
+    					
+                            <li class="has-children Liquid error: internal"><a  href="javascript:void(0);">Manage</a>
+                                
+                                    <ul>
+                                        
+                                        <li ><a  href="/manage">Why Lease With Us</a></li>
+                                        
+                                        <li ><a  href="/rental-appraisal">Rental Appraisal</a></li>
+                                        
+                                        <li ><a  href="/recently-leased">Recently Leased</a></li>
+                                        
+                                        <li ><a target="_blank" href="https://my.propertyme.com/">Owner Login</a></li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                        
+                    
+    					
+                    
+    					
+                    
+    					
+                    
+    					
+                    
+    					
+                            <li class="has-children Liquid error: internal"><a  href="javascript:void(0);">About</a>
+                                
+                                    <ul>
+                                        
+                                        <li ><a  href="/about">Company Profile</a></li>
+                                        
+                                        <li ><a  href="/testimonials">Testimonials</a></li>
+                                        
+                                    </ul>
+                                
+                            </li>
+                        
+                    
+    					
+                    
+    					
+                    
+    					
+                            <li ><a  href="/agents">Team</a>
+                                
+                            </li>
+                        
+                    
+    					
+                            <li ><a  href="/contact">Contact</a>
+                                
+                            </li>
+                        
+                    
+                </ul>
+            </nav>
+            <div id="site-logo">
+                <a href="/" rel="home">
+                    
+                        <img id="logo-header" src="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ImIzMWQ3ZDEzLTU2NmUtNDVlYy04NWQzLWE3NzU3Nzg3ZjY5ZiIsInB1ciI6ImJsb2JfaWQifX0=--4fac9ed30d4d7e5fd93d960f54d97023e2b74840/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/white-logo.png"  alt="Elite Property Management Agency Logo">
+                    
+                    <!-- <img id="logo-header-mobile" src="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6IjBhZTc3ZmExLTcyYjEtNDc3Ni04ZjhkLTkwYjcwMGU4NzVkYyIsInB1ciI6ImJsb2JfaWQifX0=--d626481a56b75717509bd5171f2eef760940c5b6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/ELITE_logo_long_black-removebg-preview.png" alt="Elite Property Management Agency Mobile Logo"> -->
+                </a>
+            </div>
+            
+            <div class="header-right">
+                <div class="header-call">
+                    <div class="icon">
+                        <i class="flaticon-phone"></i>
+                    </div>
+                    <div class="number"><a href="tel:02 6056 9688">02 6056 9688</a></div>
+                </div>
+                <div class="header-btn">
+                    <a href="/rental-appraisal" class="tf-button-default">Request Appraisal</a>
+                </div>
+                <!-- <div data-bs-toggle="modal" data-bs-target="#modallogin" class="header-user">
+                    Menu <div class="mobile-nav-toggler side-menu-button-dark"></div>
+                </div> -->
+            </div>
+            <a class="mobile-nav-toggler mobile-button" href="#menu">Menu </a>
+        </div>
+    </div>
+    <nav id="menu">
+        <a class="close" aria-label="Close menu" href="#mm-10">
+            <i class="icon-close"></i>
+        </a>
+        <ul>
+            
+                
+                    <li Liquid error: internal>
+                        <span>Rent</span>
+                        
+                        <ul>
+                            
+                                <li ><a  href="/rent">Browse Rentals</a></li>
+                            
+                                <li ><a  href="/rental-inspections">Rental Inspections</a></li>
+                            
+                                <li ><a  href="/rental-alerts">Rental Alerts</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    <li Liquid error: internal>
+                        <span>Tenants</span>
+                        
+                        <ul>
+                            
+                                <li ><a  href="/rental-application-form">Rental Application Form</a></li>
+                            
+                                <li ><a  href="/maintenance-request">Maintenance Request</a></li>
+                            
+                                <li ><a  href="/notice-to-vacate">Notice To Vacate</a></li>
+                            
+                                <li ><a target="_blank" href="https://my.propertyme.com/">Tenant Login</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    <li Liquid error: internal>
+                        <span>Manage</span>
+                        
+                        <ul>
+                            
+                                <li ><a  href="/manage">Why Lease With Us</a></li>
+                            
+                                <li ><a  href="/rental-appraisal">Rental Appraisal</a></li>
+                            
+                                <li ><a  href="/recently-leased">Recently Leased</a></li>
+                            
+                                <li ><a target="_blank" href="https://my.propertyme.com/">Owner Login</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    <li Liquid error: internal>
+                        <span>About</span>
+                        
+                        <ul>
+                            
+                                <li ><a  href="/about">Company Profile</a></li>
+                            
+                                <li ><a  href="/testimonials">Testimonials</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+                    <li >
+                        <a  href="/agents">Team</a>
+                        
+                    </li>
+                
+            
+                
+                    <li >
+                        <a  href="/contact">Contact</a>
+                        
+                    </li>
+                
+            
+        </ul>
+        <!--<a href="/free-market-appraisal" class="tf-button-primary tf-mobile-menu-button wow fadeInUp">Call Us<i class="icon-arrow-right-add"></i></a>-->
+    </nav>
+    
+     <div class="modal fade modalCenter" id="modallogin">
+        <div class="modal-dialog modal-dialog-centered modal_menu" role="document">
+            <div class="modal-content modal-sm modal_menu_box">
+                
+                <div class="side-menu-banner d-flex justify-content-between">
+                    <a href="/" rel="home">
+                        <img id="logo-header-mobile" src="https://api.phoenixsoftware.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6IjBhZTc3ZmExLTcyYjEtNDc3Ni04ZjhkLTkwYjcwMGU4NzVkYyIsInB1ciI6ImJsb2JfaWQifX0=--d626481a56b75717509bd5171f2eef760940c5b6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmcifSwicHVyIjoidmFyaWF0aW9uIn19--19e3dee2c596b0bb9418c62f5a832f79aba72b38/ELITE_logo_long_black-removebg-preview.png" alt="Elite Property Management Agency Dark Logo">
+                    </a>
+                    <a href="javascript:void(0);" class="btn-hide-modal" data-bs-dismiss="modal"><i class="icon-close"></i></a>
+                </div>
+                
+                <div class="side-menu-nav-container" style="padding-bottom:80px;">
+                    <nav class="side-menu-nav">
+                        <ul class="grid-nav-3-block">
+                            
+            					
+                                    <li><span class="side-menu-heading">Rent</span>
+                                        
+                                            <ul>
+                                                
+                                                <li class="side-menu-item"><a  href="/rent">Browse Rentals</a></li>
+                                                
+                                                <li class="side-menu-item"><a  href="/rental-inspections">Rental Inspections</a></li>
+                                                
+                                                <li class="side-menu-item"><a  href="/rental-alerts">Rental Alerts</a></li>
+                                                
+                                            </ul>
+                                        
+                                    </li>
+                                
+                            
+            					
+                            
+            					
+                            
+            					
+                            
+            					
+                                    <li><span class="side-menu-heading">Tenants</span>
+                                        
+                                            <ul>
+                                                
+                                                <li class="side-menu-item"><a  href="/rental-application-form">Rental Application Form</a></li>
+                                                
+                                                <li class="side-menu-item"><a  href="/maintenance-request">Maintenance Request</a></li>
+                                                
+                                                <li class="side-menu-item"><a  href="/notice-to-vacate">Notice To Vacate</a></li>
+                                                
+                                                <li class="side-menu-item"><a target="_blank" href="https://my.propertyme.com/">Tenant Login</a></li>
+                                                
+                                            </ul>
+                                        
+                                    </li>
+                                
+                            
+            					
+                            
+            					
+                            
+            					
+                            
+            					
+                            
+            					
+                                    <li><span class="side-menu-heading">Manage</span>
+                                        
+                                            <ul>
+                                                
+                                                <li class="side-menu-item"><a  href="/manage">Why Lease With Us</a></li>
+                                                
+                                                <li class="side-menu-item"><a  href="/rental-appraisal">Rental Appraisal</a></li>
+                                                
+                                                <li class="side-menu-item"><a  href="/recently-leased">Recently Leased</a></li>
+                                                
+                                                <li class="side-menu-item"><a target="_blank" href="https://my.propertyme.com/">Owner Login</a></li>
+                                                
+                                            </ul>
+                                        
+                                    </li>
+                                
+                            
+            					
+                            
+            					
+                            
+            					
+                            
+            					
+                            
+            					
+                                    <li><span class="side-menu-heading">About</span>
+                                        
+                                            <ul>
+                                                
+                                                <li class="side-menu-item"><a  href="/about">Company Profile</a></li>
+                                                
+                                                <li class="side-menu-item"><a  href="/testimonials">Testimonials</a></li>
+                                                
+                                            </ul>
+                                        
+                                    </li>
+                                
+                            
+            					
+                            
+            					
+                            
+            					
+                                    <li><a  class="side-menu-heading" href="/agents">Team</a>
+                                        
+                                    </li>
+                                
+                            
+            					
+                                    <li><a  class="side-menu-heading" href="/contact">Contact</a>
+                                        
+                                    </li>
+                                
+                            
+                        </ul>
+                    </nav>
+                </div>
+                <div class="side-menu-nav-container">
+                    <div class="d-flex justify-content-between">
+                        <div class="d-flex" style="flex-direction:column;">
+                            <p><span style="font-weight: 500;">Call Us:</span> <a href="tel:02 6056 9688">02 6056 9688</a></p>
+                            <p><span style="font-weight: 500;">Email Us:</span> <a href="mailto:hello@elitepmagency.com.au">hello@elitepmagency.com.au</a></p>
+                        </div>
+                        <ul class="wg-social-1">
+                            <li><a target="_blank" href="https://www.facebook.com/elitepmagency"><i class="flaticon-facebook"></i></a></li>
+                            
+                            
+                            <li><a target="_blank" href="https://www.instagram.com/elitepmagency/"><i class="flaticon-instagram"></i></a></li>
+                            
+                        </ul>
+                        <div class="d-flex" style="flex-direction:column;">
+                            <p style="font-weight: 500;">Our Address</p>
+                            <p>4/97 Hume Street Wodonga VIC 3690</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</header>
+
+            <!-- main-content -->
+            <div class="main-content default">
+                <!-- slider -->
+                <section class="slider page-404">
+                    <div class="wrap-slider">
+                        <div class="slider-item">
+                            <div class="cl-container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="slider-content">
+                                            <div class="heading">404</div>
+                                            <h2>Oops... Page Not Found!</h2>
+                                            <div class="text-content">It looks like nothing was found at this location. Click below button to go back to homepage.</div>
+                                            <div class="d-flex justify-content-center"><a href="/" class="tf-button-primary wow fadeInUp">Back to Homepage<i class="icon-arrow-right-add"></i></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- /slider -->
+            </div>
+            <!-- /main-content -->
+
+        </div>
+        <!-- /#page -->
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- go top button -->
+    <div class="progress-wrap active-progress">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 286.138;"></path>
+        </svg>
+    </div>
+    <!-- /go top button -->
+
+    <!-- Javascript -->
+    <!-- Javascript -->
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/jquery.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/jquery.nice-select.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/bootstrap.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/bootstrap-select.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/swiper-bundle.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/swiper.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/countto.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/circletype.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFC3m2n0jBRFTMvUNZc0-6Y0Rzlcadzcw"></script>
+
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/maps.js"></script>
+
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/marker.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/infobox.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/magnific-popup.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/apexcharts.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/area-chart.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/morris.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/raphael.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/morris.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/nouislider.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/rangle-slider.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/mmenu.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/wow.min.js"></script>
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/scrollmagic.js"></script>
+
+<script src="https://phoenix-global-asset.s3.ap-southeast-2.amazonaws.com/elitepmagency/js/main.js"></script>
+
+    <script>
+        new Mmenu(document.querySelector("#menu"));
+    </script>
+
+</body>
+
+</html>
