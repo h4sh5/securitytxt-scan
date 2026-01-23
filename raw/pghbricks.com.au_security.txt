@@ -1,0 +1,4 @@
+Contact: csirt@saint-gobain.com
+Expires: 2028-01-20T11:00:00Z
+Encryption: https://keyserver.ubuntu.com/pks/lookup?search=0x677BF237&fingerprint=on&hash=on&op=index
+Preferred-Languages: en,fr
