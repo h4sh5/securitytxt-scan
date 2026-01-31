@@ -1,0 +1,9 @@
+Contact: mailto:security@clinicallabs.com.au
+Expires: 2027-01-30T23:59:59Z
+Preferred-Languages: en
+Canonical: https://www.clinicallabs.com.au/.well-known/security.txt
+Acknowledgments: https://www.clinicallabs.com.au/security-acknowledgments
+
+# Security Policy
+# If you discover a security vulnerability, please report it to the contact above.
+# We appreciate responsible disclosure and will respond promptly to verified reports.
