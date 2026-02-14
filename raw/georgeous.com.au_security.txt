@@ -1,0 +1,10 @@
+# RightPaw - reporting security vulnerabilities to RightPaw
+  
+# Please report any security vulnerabilities to us via the contact method(s) below, only after reading our disclosure policy.
+# Please do not include any sensitive information in your initial message, we'll provide a secure communication method in our reply to you.
+Contact: mailto:engineering@rightpaw.com.au
+ 
+# Our disclosure policy. By submitting a potential security incident to us, you are implicitly accepting these terms - please read this before submitting:
+Policy: https://rightpaw.com.au/security-disclosure-policy
+ 
+# Please see https://securitytxt.org/ for details of the specification of this file
