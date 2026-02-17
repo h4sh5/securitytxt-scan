@@ -1,0 +1,7 @@
+# security.txt for toolmaster.com.au
+Contact: security@toolmaster.com.au
+Encryption: https://toolmaster.com.au/pgp-key.txt
+Acknowledgements: https://toolmaster.com.au/hall-of-fame.html
+Preferred-Languages: en
+Canonical: https://toolmaster.com.au/.well-known/security.txt
+Policy: https://toolmaster.com.au/security-policy.html
