@@ -1,0 +1,4 @@
+Contact: https://jmr.codes
+Encryption: https://jmr.codes/publickey.jmrcodes@pm.me-2a13634956bed35ff22b44c20b9b5ad6b7b3317b.asc
+Expires: 2030-01-01T10:57:00Z
+Preferred-Languages: en
