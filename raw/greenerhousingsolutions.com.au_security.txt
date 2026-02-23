@@ -1,0 +1,3 @@
+Contact: mailto:security@greenerhousingsolutions.com.au
+Expires: 2027-02-23T17:52:27.940Z
+Canonical: https://greenerhousingsolutions.com.au/.well-known/security.txt
