@@ -1,0 +1,12 @@
+Acknowledgments: # We value your findings !
+Acknowledgments: # Dear security researcher, if you are looking for this page is because you may
+Acknowledgments: # have found a security bug on our website. You have to know that our teams are
+Acknowledgments: # performing security tests on a regular basis on this website. However, we are
+Acknowledgments: # glad to count on the community to notify us in case a security issue findings
+Acknowledgments: # on our websites according to our Rules of Engagement.
+Acknowledgments: # We do have a VDP program available to manage your report.
+Canonical: /.well-known/security.txt
+Contact: https://vdp.loreal.com
+Contact: mailto:bugbounty@loreal.com
+Expires: 2027-12-31T23:59:59Z
+Preferred-Languages: EN
