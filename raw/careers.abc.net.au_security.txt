@@ -1,0 +1,7 @@
+## If reporting a Security Vulnerability against our platform, please use the email below. ##
+## Thank you ##
+Contact: ##pageup-security##@pageuppeople.com - Please remove the #'s
+Preferred-Languages: en
+Canonical: https://www.pageuppeople.com/security.txt
+Policy: https://www.pageuppeople.com/how-we-do-it/security/
+Hiring: https://jobs.pageuppeople.com/cw/en/listing/
