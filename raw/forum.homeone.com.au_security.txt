@@ -1,0 +1,8 @@
+Acknowledgments: https://rubixstudios.com.au/legal/security-recognition
+Canonical: https://rubixstudios.com.au/.well-known/security.txt
+Contact: https://rubixstudios.com.au/contact
+Encryption: https://rubixstudios.com.au/pgp-key.txt
+Expires: 2030-12-31T23:59:00Z
+Hiring: https://rubixstudios.com.au/careers
+Policy: https://rubixstudios.com.au/legal/privacy-policy
+Preferred-Languages: en
