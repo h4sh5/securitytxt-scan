@@ -1,0 +1,5 @@
+Canonical: https://c2coast.org.au/security.txt
+Contact: mailto:ictsecurity@c2coast.org.au
+Expires: 2030-05-03T11:55:00Z
+Policy: https://c2coast.org.au/our-privacy-matters/
+Preferred-Languages: en
