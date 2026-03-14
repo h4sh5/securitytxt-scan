@@ -1,0 +1,7 @@
+# Security contact information for Kitchen Warehouse
+# See https://securitytxt.org for more information about this file format (RFC 9116)
+
+Contact: mailto:it@kitchenwarehouse.com.au
+Expires: 2026-09-13T23:59:59Z
+Canonical: https://www.kitchenwarehouse.com.au/.well-known/security.txt
+Preferred-Languages: en
