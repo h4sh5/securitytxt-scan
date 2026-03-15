@@ -1,0 +1,7 @@
+# security.txt — RFC 9116 (https://securitytxt.org/)
+# Update the Expires field annually.
+
+Contact: mailto:security@leverdocs.com
+Preferred-Languages: en
+Policy: https://leverdocs.com/security
+Expires: 2027-03-10T00:00:00.000Z
