@@ -1,0 +1,6 @@
+Contact: mailto:security@dazn.com
+Expires: 2026-12-31T23:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.dazn.com/.well-known/security.txt
+Policy: https://www.dazn.com/en-GB/help/articles/responsible-disclosure
+Hiring: https://careers.dazn.com/technology
