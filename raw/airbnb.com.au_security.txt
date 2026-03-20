@@ -1,0 +1,6 @@
+Contact: https://hackerone.com/airbnb/
+Policy: https://hackerone.com/airbnb#overview
+Hiring: https://careers.airbnb.com/positions/?_search_input=security
+Preferred-Languages: en
+Canonical: https://www.airbnb.com/.well-known/security.txt
+Expires: 2027-06-01T04:59:00.000Z
