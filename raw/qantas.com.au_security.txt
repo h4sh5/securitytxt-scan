@@ -1,0 +1,41 @@
+
+# security.txt
+
+Contact: mailto:qantas-vdp-ess@submit.bugcrowd.com
+Preferred-Languages: en
+Canonical: https://www.qantas.com/.well-known/security.txt
+
+Thank you for your interest in the security of Qantas Group digital assets.
+
+If you believe you have identified a security vulnerability in one of our assets,
+please submit your findings via our Bugcrowd Vulnerability Disclosure Program
+using the contact address above.
+
+When submitting your report, please include:
+- A clear title in the subject line
+- The affected URL or asset
+- A detailed description with reproduction steps
+- Proof of concept that is benign and non-destructive
+
+Researchers are encouraged to create a Bugcrowd account to ensure ongoing
+communication regarding their submission.
+
+The following activities are strictly prohibited and are not authorised by
+Qantas Group under any circumstances:
+
+- Accessing or attempting to access accounts, systems, or information for which
+  you are not explicitly authorised
+- Any attempt to modify, manipulate, delete, or destroy data or systems
+- Sending or attempting to send unsolicited or unauthorised email or other messages
+- Conducting social engineering activities, including phishing or pretexting,
+  against Qantas Group employees, contractors, customers, or any related party
+- Posting, transmitting, uploading, linking to, sending, or storing malware that
+  could impact Qantas Group services, systems, products, or customers
+- Exfiltration, disclosure, misuse, or unauthorised access to proprietary,
+  confidential, or customer information under any circumstances
+- Clickjacking or similar client-side exploitation techniques
+- Any physical attempts against Qantas Group property, facilities, or personnel
+- Testing for or exploiting weak or insecure SSL/TLS ciphers or certificates
+- Any form of denial-of-service (DoS) or traffic flooding activity
+- Any activity intended to gain unauthorised access to Qantas Group software,
+  systems, networks, or data in violation of applicable law
