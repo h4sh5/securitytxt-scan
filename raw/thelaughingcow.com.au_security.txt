@@ -1,0 +1,5 @@
+Contact: mailto:security@groupe-bel.com
+Expires: 2028-10-14T23:03:00.000Z
+Preferred-Languages: en, fr
+Hiring: https://jobs.groupe-bel.com/
+Acknowledgments: https://www.groupe-bel.com/hall-of-fame.html
