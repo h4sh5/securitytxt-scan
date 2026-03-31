@@ -1,0 +1,2 @@
+# B&D Group security contact address
+Contact: mailto:security@bnd.com.au
