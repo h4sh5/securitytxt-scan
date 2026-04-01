@@ -1,0 +1,4 @@
+Contact: mailto:info@teamremovals.com.au
+Contact: https://teamremovals.com.au/contact-us/
+Preferred-Languages: en
+Canonical: https://teamremovals.com.au/.well-known/security.txt

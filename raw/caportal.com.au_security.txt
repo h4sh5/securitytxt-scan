@@ -1,0 +1,5 @@
+Contact: mailto:support@spatialmedia.io
+Expires: 2027-03-31T23:59:59Z
+Policy: https://caportal.com.au/security
+Canonical: https://caportal.com.au/.well-known/security.txt
+Preferred-Languages: en
