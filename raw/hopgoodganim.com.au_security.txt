@@ -1,0 +1,16 @@
+# security.txt file for https://www.hopgoodganim.com.au/ - more info: https://securitytxt.org/
+
+# (required) Contact email address for security issues
+Contact: mailto:requests@brightlabs.com.au
+
+# (required) Expiration date for the security information herein
+Expires: 2027-04-09T20:18:08+10:00
+
+# (optional) OpenPGP key:
+Encryption: https://www.hopgoodganim.com.au/pgp-key.txt
+
+# (optional) Security policy page:
+Policy: https://www.hopgoodganim.com.au/security-policy/
+
+# (optional) Security acknowledgements page:
+Acknowledgements: https://www.hopgoodganim.com.au/hall-of-fame/
