@@ -1,0 +1,3 @@
+Contact: dit.security@sa.gov.au
+Expires: 2027-07-01T00:00:00.000Z
+Policy: https://www.security.sa.gov.au/cyber-security/report-a-security-vulnerability

@@ -1,0 +1,4 @@
+Contact: mailto:GRPWebsiteAdmin@wbpgroup.com.au
+Expires: 2040-12-31T12:59:00.000Z
+Preferred-Languages: en
+Canonical: https://wbpgroup.com.au/.well-known/security.txt
