@@ -1,0 +1,4 @@
+Contact: tel:1800022222
+Expires: 2026-12-31T12:59:00.000Z
+Preferred-Languages: en-AU
+Canonical: https://www.healthdirect.gov.au/.well-known/security.txt
