@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# Please report abusive content (including malware, spam, etc) via https://auspost.com.au/about-us/about-our-site/online-security-scams-fraud
+# If you would like to report a security issue, contact us via:
+Contact: mailto:security@auspost.com.au
+Expires: 2028-03-13T00:00:00.000Z
+Encryption: https://auspost.com.au/.well-known/pgp-key.txt
+Acknowledgments: https://auspost.com.au/about-us/about-our-site/responsible-disclosure
+Preferred-Languages: en
+Canonical: https://auspost.com.au/.well-known/security.txt
+Policy: https://auspost.com.au/about-us/about-our-site/responsible-disclosure
+Hiring: https://auspost.com.au/jobs
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCAA2FiEE248Dy5EHlcJqELup5+lq1LDSuEYFAmX3d7MYHHNlY3VyaXR5
+QGF1c3Bvc3QuY29tLmF1AAoJEOfpatSw0rhGguUQAKcgHM3R6Tj1IeBxDiqFKMRx
+E6mRiTiXCMuFG11zNZK2rCn92YUb1AHJB3qYqVYN73FaXT7MRo1fquVvGZArhaVK
+ebc1hcGTIAhN63iqRJl0FW0L2cgYOgYAjdbQ1yXzTvCzkrWsvVqgPnCS5pC6a6J+
+ubH/F+KZRvtZ8HrLpmh1Xl0O1MxGJeloBKegu4EN3spMEaEbpCG+duzBzwcIwtms
+ZEOw3OEE1UbswuVtQEAeMg6s+0mRnXeFtl4DdBet2s7aczMLxrHkSuvDM9hGOhy1
+/0mDSXHnlOZ+XsZTcJ8JbId6Em/8o3CO9d5SZCeD/XKIhfJ99vJe9wGcOfT8QG+y
+TeJdYPWDsG5NGNc9XG/DbkrAMhEYsydC+oyxG/zaTl09+6EpQfQzPSVeMJvdeqFY
+6MET8PeAbAByPmNmft2f9UBHQyWE8WD0FmuoNKhcvIRqx5OGliLKnBH3WHnlCNrj
+v+8Wqn17qs5emTECwKesyXf4c6nnsQrEnxajZX7p9ZAda1EFnSSIU3N6kPscIKiG
+kXxZPPyVelPlbdzH7gExlf9lvT6l0FBHb1JtAUtJPN/zFOR+5kLCzZosXkraPXkR
+Zy+BYkQi0cxGt7O+0FaeKkERDCmYuElfDmzb4LGiLw9CD/0rWf6ZnBpyuUiOCwoN
+Ei4vKdyPvvgknCycWlnf
+=wQH/
+-----END PGP SIGNATURE-----
