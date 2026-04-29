@@ -1,0 +1,17 @@
+# Eagle Leather — security disclosure policy
+# RFC 9116. Canonical location: /.well-known/security.txt
+
+Contact: mailto:sales@eagleleather.com.au
+Expires: 2027-04-28T00:00:00Z
+Preferred-Languages: en
+Canonical: https://www.eagleleather.com.au/.well-known/security.txt
+
+# Notes for researchers
+# - Please report vulnerabilities directly to the contact above before any
+#   public disclosure. We will acknowledge within 5 business days.
+# - We do not currently run a paid bug bounty. Good-faith reports are welcomed
+#   and credited at the reporter's discretion.
+# - Out of scope: rate-limit / DoS testing on production, any automated
+#   scanning that materially impacts availability, social engineering of staff.
+# - In scope: anything affecting customer data, payment integrity, account
+#   takeover, or unauthenticated access to admin / order data.
