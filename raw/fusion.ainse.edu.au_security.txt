@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# If you would like to report a security issue, please contact us as below.
+Contact: securitytxt AT ansto[.]gov[.]au
+Encryption: https://www.ansto.gov.au/.well-known/pgp-key.txt
+Expires: 2030-01-31T23:38
+Preferred-Languages: en
+# Thank you for helping out
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRofGboop+96I8PraGAv0hvvDRwcAUCabOhdwAKCRCAv0hvvDRw
+cMLNAP9uB0VmtAjw+bQVoKlTTH2UzvV5zNwtcTTUcuYfYKKnSwD+NHscWSmIYLsb
+SjI3YrZLzadnrF/7u3sBs9zWAjMxdwU=
+=GbKR
+-----END PGP SIGNATURE-----
