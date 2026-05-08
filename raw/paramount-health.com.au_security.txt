@@ -1,0 +1,4 @@
+Contact: mailto:fitnessimagept@gmail.com
+Expires: 2026-11-04T08:40:51Z
+Canonical: https://paramount-health.com.au/.well-known/security.txt
+Preferred-Languages: en
