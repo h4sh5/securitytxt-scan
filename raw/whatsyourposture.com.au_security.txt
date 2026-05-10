@@ -1,0 +1,4 @@
+Contact: mailto:fitnessimagept@gmail.com
+Expires: 2026-11-06T10:35:27Z
+Canonical: https://whatsyourposture.com.au/.well-known/security.txt
+Preferred-Languages: en
