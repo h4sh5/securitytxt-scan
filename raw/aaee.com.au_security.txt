@@ -1,0 +1,4 @@
+Contact: mailto:fitnessimagept@gmail.com
+Expires: 2026-11-07T15:11:55Z
+Canonical: https://aaee.com.au/.well-known/security.txt
+Preferred-Languages: en
