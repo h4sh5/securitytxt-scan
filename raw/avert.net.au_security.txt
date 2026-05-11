@@ -1,0 +1,4 @@
+Contact: https://www.squarespace.com/vulnerability-reporting
+Expires: 2028-01-01T05:00:00.000Z
+Preferred-Languages: en
+Policy: https://www.squarespace.com/vulnerability-reporting
