@@ -1,0 +1,7 @@
+Contact: mailto:admin@sydney-tours.com.au
+# All abuse reports should be submitted to our Trust & Safety team through our dedicated page.
+Contact: https://www.sydney-tours.com.au/contact/
+Preferred-Languages: en
+Policy: https://www.sydney-tours.com.au/terms-and-conditions/
+# Search for Security :)
+Expires: 31 Dec 2029 23:59:59 -0700
